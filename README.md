@@ -36,7 +36,7 @@ Afghanistan-kankoor-exam-dataset/
 └── CONTRIBUTING.md
 ```
 
-- **data/** — contains subject-specific JSON files  
+- **data/** — contains subject-specific folder with JSON files  
 - **schema.json** — defines question structure and rules  
 - **LICENSE** — MIT License  
 - **README.md / README.pdf** — project documentation  
@@ -122,6 +122,7 @@ Optional, but helps support future development.
 ## 7. License
 MIT License — see LICENSE file.
 You can freely use, copy, modify, and distribute this dataset, with proper credit.
+
 
 
 
