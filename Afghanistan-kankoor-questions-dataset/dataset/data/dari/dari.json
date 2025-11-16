@@ -1,0 +1,2942 @@
+[
+  {
+    "id": 1,
+    "question": "عطار در کدام سال متولد شد ؟",
+    "options": [
+      "141 ه.ق",
+      "491 ه.ق",
+      "311 ه.ش",
+      "هیچ کدام"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "هیچ کدام",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "question": "بزرگترین اثر نظامی کدام بوده و در کدام قالب سروده شده است ؟",
+    "options": [
+      "خمسه . قصیده",
+      "خمسه . مثنوی",
+      "خمسه . رباعی",
+      "خمسه . قطعه"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "خمسه . قصیده",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "question": "درانتخاب کلمه بیشتر به کدام علم توجه صورت میگیرد ؟",
+    "options": [
+      "صرف",
+      "نحو",
+      "بالغت",
+      "همه"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "همه",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "question": "در جمله ( هنر چشمه زاینده است و دولت پاینده ) کدام صعنت به بکار رفته است؟",
+    "options": [
+      "جناس زاید",
+      "تلمیح",
+      "سجع",
+      "جناس"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "سجع",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 5,
+    "question": "شمس قیس رازی اهل کجا بود ؟",
+    "options": [
+      "خراسان",
+      "خوارزم",
+      "ری",
+      "1و1 درست است"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "1و1 درست است",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 6,
+    "question": "دقیقی توسط کی کشته شد ؟",
+    "options": [
+      "کاکایش",
+      "برادراش",
+      "پسراش",
+      "غالم اش"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "برادراش",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 7,
+    "question": "نگارش دارای چند مرحله است؟",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "4",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 8,
+    "question": "معنای درست کلمه بسط چیست ؟",
+    "options": [
+      "گسترش",
+      "وسعت",
+      "سخن رسا",
+      "بی فایده"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "گسترش",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 9,
+    "question": "ترادف کلمه توانگری چیست ؟",
+    "options": [
+      "بی نیازی",
+      "غنا",
+      "سخی",
+      "1و2 درست است"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "1و2 درست است",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 10,
+    "question": "متضاد کلمه قبض چیست ؟",
+    "options": [
+      "دانا",
+      "فاقه",
+      "بسط",
+      "همه"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "بسط",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 11,
+    "question": "پایگاه انسان اثرکیست ؟",
+    "options": [
+      "فردوسی",
+      "دقیقی بلخی",
+      "سنایی",
+      "نظامی"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "نظامی",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 12,
+    "question": "فرزند چندم امیر تیمور توانست که بخش بزرگی از قلمرو پدرش را تحت تسلط خود بیاورد؟",
+    "options": [
+      "سوم",
+      "دوم",
+      "چهارم",
+      "اول"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "اول",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 13,
+    "question": "امیر علی شیر نوایی بیشتر از سی اثر را در کدام زبان ذیل ننوشته است ؟",
+    "options": [
+      "دری",
+      "اردو",
+      "ترکی",
+      "ازبکی"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "ازبکی",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 14,
+    "question": "بابرنامه مربوط به کدام سده میالدی میباشد ؟",
+    "options": [
+      "19",
+      "17",
+      "16",
+      "12"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "16",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 15,
+    "question": "یکی از ارکان نگارش نمی باشد؟",
+    "options": [
+      "مقدمه",
+      "ختم مطلب",
+      "شرح و بسط",
+      "نتیجه"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "ختم مطلب",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 16,
+    "question": "شاعر شعر ( فرخنده تر ندیدم از این هیچ دفتری ---- شیرین نشد چو زحمت مادر وظیفه یی ) کیست؟",
+    "options": [
+      "سنایی",
+      "پروین",
+      "نظامی",
+      "بیهقی"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "پروین",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 17,
+    "question": "موالنا جالل الدین محمد بلخی در کجا متولد ودرکجا وفات کرد؟",
+    "options": [
+      "بلخ - هرات",
+      "قونیه - نیشاپور",
+      "نیشاپور - فیض اباد",
+      "قونیه - مزار"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "قونیه - مزار",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 18,
+    "question": "در اغاز متن چند نکته را در نظر بگیریم ؟",
+    "options": [
+      "7 نکته",
+      "3 نکته",
+      "4 نکته",
+      "6 نکته"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "4 نکته",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 19,
+    "question": "موزیم هرات چقدر آثار را در خویش جا داده است؟",
+    "options": [
+      "111111",
+      "611111",
+      "41111",
+      "111111"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "611111",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 20,
+    "question": "مسجد خواجه پارسا از یکی از عهد های زیر بجا مانده است:",
+    "options": [
+      "تیموری",
+      "سامانی",
+      "غزنوی",
+      "خوارزم شاهی"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "تیموری",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 21,
+    "question": "در دوره اسالمی بلخ به کدام یکی از نام ها شهرت یافت ؟",
+    "options": [
+      "ام البالد",
+      "بلخ باستان",
+      "تمدن اسالمی",
+      "قبة اسالم"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "ام البالد",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 22,
+    "question": "خمسه گنجوی به یکی از قالب های ذیل نوشته شده است ؟",
+    "options": [
+      "مثنوی",
+      "قطعه",
+      "رباعی",
+      "حماسی و مدحی"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "مثنوی",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 23,
+    "question": "شاعر این شعر ( این رقص موج و نگر صحرا پر از مجنون نگر --- وین عشرت بی چون نگر ، ایمن زشمشیر اجل ) یکی از اشخاص زیر است:",
+    "options": [
+      "سعدی",
+      "شاه حسین هوتک",
+      "فردوسی",
+      "موالنا بلخی"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "موالنا بلخی",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 24,
+    "question": "بهارستان جامی در کدام سال نوشته شده است؟",
+    "options": [
+      "892 هـ ق",
+      "878 هـ ق",
+      "887 هـ ق",
+      "982 هـ ق"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "887 هـ ق",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 25,
+    "question": "نگارش چند مرحله دارد؟",
+    "options": [
+      "سه",
+      "چهار",
+      "پنج",
+      "دو"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "چهار",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 26,
+    "question": "استاد ، ابولفضل بیهقی کدام یکی از اشخاص بود:",
+    "options": [
+      "بلعمی",
+      "معزی",
+      "ابو نصر مشکان",
+      "سکاکی"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "بلعمی",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 27,
+    "question": "کدام شخص در آغاز سکاکی تخلص می کرد؟",
+    "options": [
+      "امیر علی شیر نوایی",
+      "عوفی",
+      "دقیقی",
+      "سعدی"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "عوفی",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 28,
+    "question": "( لوایح و لوامح ) را کی نگاشته است؟",
+    "options": [
+      "جامی",
+      "فردوسی",
+      "عطار",
+      "گنجوی"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "عطار",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 29,
+    "question": "معنای درست کلمه نافذ چیست ؟",
+    "options": [
+      "راه",
+      "جهت",
+      "نفوذ کننده",
+      "1و2 درست است"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "1و2 درست است",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 30,
+    "question": "متضاد کلمه هویدا چیست ؟",
+    "options": [
+      "هرج",
+      "اشکار",
+      "جمع واسطه",
+      "تاریک"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "تاریک",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 31,
+    "question": "( چه فرهاد ها مرده در کوه ها--- چه حالج ها رفته بر دار ها ) کدام نوع صنعت ادبی استعمال شده است:",
+    "options": [
+      "ارسال المثل",
+      "ترصیع",
+      "تضمین",
+      "تلمیح"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "ارسال المثل",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 32,
+    "question": "کهن ترین زبان هندو آریایی کدام زبان می باشد؟",
+    "options": [
+      "عربی",
+      "حامی وسامی",
+      "سانسکریت",
+      "همالی"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "سانسکریت",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 33,
+    "question": "معنی درست(ادیم) عبارت است از:",
+    "options": [
+      "پوست",
+      "چرم",
+      "تکه نخی",
+      "ابریشم"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "پوست",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 34,
+    "question": "( در این شعر مابه خدا تا خیال خال تو داریم--- حال پریشان تر از خیال تو داریم ) کدام نوع صنعت ادبی است:",
+    "options": [
+      "سجع متوازی",
+      "سجع متوازن",
+      "جناس خطی",
+      "سجع مطرف"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "سجع متوازن",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 35,
+    "question": "( در بیت آفرین جان آفرین پاک را--- که جان بخشید و ایمان خاک را ) کدام نوع صنعت ادبی به کار رفته است؟",
+    "options": [
+      "سجع متوازن",
+      "سجع متوازی",
+      "سجع مطرف",
+      "جناس تام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "سجع متوازن",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 36,
+    "question": "( ندای طلبه حقوق ملت ) اثری از انیس در دوره کدام یک از اشخاص چاپ شد؟",
+    "options": [
+      "امان هللا خان",
+      "عبدالرحمن خان",
+      "حبیب هللا خان",
+      "نادر خان"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "امان هللا خان",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 37,
+    "question": "پروین اعتصامی در سن چند سالگی به شعر گفتن آغاز کرد؟",
+    "options": [
+      "ده سالگی",
+      "13 سالگی",
+      "11 سالگی",
+      "12 سالگی"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "13 سالگی",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 38,
+    "question": "مثنوی های انیس العارفین و مقامات العارفین از کدام شخص می باشد؟",
+    "options": [
+      "عطار",
+      "گنجوی",
+      "فردوسی",
+      "قاسم انوار"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "قاسم انوار",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 39,
+    "question": "( در بیت شادی مجلسیان در قدم و مقدم توست--- جای غم باد هر آن دل که نخواهد شادت ) کدام صنعت ادبی به کار رفته است؟",
+    "options": [
+      "جناس تام",
+      "جناس خطی",
+      "جناس زاید",
+      "جناس ناقص"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "جناس تام",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 40,
+    "question": "معنی درست(اختناق) عبارت است از:",
+    "options": [
+      "خفه شدن",
+      "گلو گیر شدن",
+      "گزینه 1 و2",
+      "نا خوشایند"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "گزینه 1 و2",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 41,
+    "question": "صوفی شوریده حالی که سجیه متبارز داشت و اهل ریاضت بود کدام شخص می باشد؟",
+    "options": [
+      "سکاکی",
+      "مولوی",
+      "شمس تبریزی",
+      "عبدهللا انصاری"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "عبدهللا انصاری",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 42,
+    "question": "( غالم همت آنم که زیر چرخ کبود--- ز هرچه زنگ تعلق پذیرد آزاد است ) کدام نوع صنعت ادبی است؟",
+    "options": [
+      "تناسب",
+      "تلمیح",
+      "تضاد",
+      "تناقض"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "تلمیح",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 43,
+    "question": "سنایی غزنوی در کدام سال وفات یافته است؟",
+    "options": [
+      "434 هـ ق",
+      "343 هـ ق",
+      "433 هـ ق",
+      "344 هـ ق"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "433 هـ ق",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 44,
+    "question": "شمس قیس رازی اهل (ری) دانشمند قرن چندم میباشد؟",
+    "options": [
+      "هفتم",
+      "ششم",
+      "پنجم",
+      "چهارم"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "ششم",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 45,
+    "question": "جامی بهارستان را به پیروی از کدام کتاب نوشته است؟",
+    "options": [
+      "گلدسته",
+      "بوستان",
+      "گلستان",
+      "بهارستان سعدی"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "بهارستان سعدی",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 46,
+    "question": "سلطان حسین بایقرا و امیر علی شیر نوایی به کدام زبان ها شعر می گفتند؟",
+    "options": [
+      "ترکی و دری",
+      "عربی",
+      "پشتو",
+      "همه درست است"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "ترکی و دری",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 47,
+    "question": "ادبیات کدام قرن ها را بنام تقلیدی نیز یاد می کند؟",
+    "options": [
+      "گزینه2 و4",
+      "نهم",
+      "هفتم",
+      "دهم"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "گزینه2 و4",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 48,
+    "question": "لقب ذوالسانین از کدام شخص بود؟",
+    "options": [
+      "عرفی",
+      "فردوسی",
+      "امیر علی شیر نوایی",
+      "خواجه عبدهللا انصاری"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "امیر علی شیر نوایی",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 49,
+    "question": "شاعری که حالش دگرگون شد و از مدح دست کشید کدام شاعر بود؟",
+    "options": [
+      "مولوی",
+      "دقیقی بلخی",
+      "موالنا",
+      "سنائی"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "سنائی",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 50,
+    "question": "بابافغانی در کدام عصر میزیست؟",
+    "options": [
+      "سلطان حسین بایقرا",
+      "تیموریان",
+      "شاه حیسن",
+      "قرن هفتم"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "تیموریان",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 51,
+    "question": "حامی و سامی در کجا مورد تکلم صورت می گیرد؟",
+    "options": [
+      "افریقای شمالی و سومالی",
+      "شبه جزیره عربستان",
+      "سوریه ، لبنان ، اردن",
+      "همه"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "همه",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 52,
+    "question": "مجموع اشعار عراقی به چند بیت میرسد؟",
+    "options": [
+      "3811 بیت",
+      "27111 بیت",
+      "91111 بیت",
+      "12111 بیت"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "27111 بیت",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 53,
+    "question": "کاشفی از جمله شاعران کدام دوره بود؟",
+    "options": [
+      "دوره نهم و دهم",
+      "هشتم",
+      "ششم",
+      "چهارم"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "دوره نهم و دهم",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 54,
+    "question": "کدام شخص در دربار خوارزم شاهیان صاحب دیوان رسائل گردید؟",
+    "options": [
+      "شمس قیس رازی",
+      "سنایی",
+      "رشید الدین وطواط",
+      "بلعمی"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "رشید الدین وطواط",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 55,
+    "question": "معزی در دربار کدام شخص تا آخر سال ماند؟",
+    "options": [
+      "سلطان سنجر",
+      "عالو الدین",
+      "غیاث الدین",
+      "سلطان حسین"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "سلطان سنجر",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 56,
+    "question": "سجع که از نظر وزن و حرف آخر یکسان باشد بنام کدام سجع یاد می کنند؟",
+    "options": [
+      "متوازی",
+      "متوازن",
+      "مطرف",
+      "گزینه1 و2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "متوازی",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 57,
+    "question": "( در بیت زمان خوشدلی دریاب و دریاب---- که دایم در صدف گوهر نباشد ) کدام صنعت ادبی به کار رفته است؟",
+    "options": [
+      "تلمیح",
+      "ایهام",
+      "جناس ناقص",
+      "جناس تام"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "جناس تام",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 58,
+    "question": "پدر موالنا جالل الدین بلخی به دعوت کدام پادشاه به قونیه رفت؟",
+    "options": [
+      "قطب الدین",
+      "انوشتگین",
+      "سلطان عالوالدین تکش",
+      "سلطان عالء الدین کیقباد"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "سلطان عالء الدین کیقباد",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 59,
+    "question": "خمسه گنجوی حاوی چند هزار بیت می باشد؟",
+    "options": [
+      "91111 بیت",
+      "23111 بیت",
+      "18111 بیت",
+      "28111 بیت"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "28111 بیت",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 60,
+    "question": "اموی ها از کدام سال خالفت اسالمی را بدست آوردند ؟",
+    "options": [
+      "41 ه.ق",
+      "11 ه.ق",
+      "41 ه.ق",
+      "61 ه.ق"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "41 ه.ق",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 61,
+    "question": "کدام شخص چند نفر از طرفداران مخفی عباسی ها را دستگیر و مجازات نمود ؟",
+    "options": [
+      "اسد بن عبدهللا",
+      "طاهر بن حسین",
+      "نصر بن سیار",
+      "ابراهیم بن اسد"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "طاهر بن حسین",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 62,
+    "question": "کدام شخص هم مانند پدر در نهضت عباسی ها همراه ابومسلم سهم فعالی گرفت ؟",
+    "options": [
+      "امیر کرور",
+      "امیرفوالد",
+      "عبدهللا بن طاهر",
+      "اسد بن طاهر"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "عبدهللا بن طاهر",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 63,
+    "question": "در کدام دوره زراعت و سیستم آبیاری افغانستان قانونمند گردید ؟",
+    "options": [
+      "اموی ها",
+      "عباسی ها",
+      "طاهریان",
+      "سامانیان"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "سامانیان",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 64,
+    "question": "مهرالنسا در کدام والیت می زیست ؟",
+    "options": [
+      "کابل",
+      "مزار",
+      "قندهار",
+      "هرات"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "کابل",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 65,
+    "question": "پل زورقی بالای کدام دریای ذیل اعمار شده است ؟",
+    "options": [
+      "دریای هلمند",
+      "دریای هریرود",
+      "دریای آمو",
+      "دریای سند"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "دریای هلمند",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 66,
+    "question": "کدام سال هم هنگام با مرگ امیر عبدالملک بن نوح می باشد ؟",
+    "options": [
+      "142 ه.ق",
+      "941 م",
+      "231 ه.ق",
+      "131 ه.ق"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "941 م",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 67,
+    "question": "آرمگاه امیراسماعیل سامانی در کدام شهر است ؟",
+    "options": [
+      "بلخ",
+      "نیشاپور",
+      "بخارا",
+      "فرغانه"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "بخارا",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 68,
+    "question": "محمد بن طاهر چند سال حکومت کرد ؟",
+    "options": [
+      "11",
+      "11",
+      "11",
+      "21"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "11",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 69,
+    "question": "امین الرشید در کدام سال به قتل رسید ؟",
+    "options": [
+      "193 م",
+      "181 م",
+      "188 م",
+      "811 م"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "188 م",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 70,
+    "question": "بعداز چند سال از تاسیس حکومت غزنویان حکومت به دست بلکاتگین افتاد ؟",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "11"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "3",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 71,
+    "question": "نارین در کدام سال مورد حمله غزنویان قرار گرفت ؟",
+    "options": [
+      "1111 م",
+      "1114 م",
+      "411 ه.ق",
+      "414 ه.ق"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "1114 م",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 72,
+    "question": "معنایی درست واژه( خبرت ) چیست ؟",
+    "options": [
+      "چوب سخت",
+      "فراوانی",
+      "مجرب بودن",
+      "سخنان بیهوده"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "مجرب بودن",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 73,
+    "question": "مترادف کلمه( خطه ) چیست ؟",
+    "options": [
+      "ناحیه",
+      "شهربزرگ",
+      "کشور",
+      "همه"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "همه",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 74,
+    "question": "معنای درست واژه( غواص ) چیست ؟",
+    "options": [
+      "غول",
+      "آبباز",
+      "نادار",
+      "بد هیکل"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "آبباز",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 75,
+    "question": "منارجام در کدام والیت قرار دارد ؟",
+    "options": [
+      "غزنی",
+      "هرات",
+      "بلخ",
+      "هیچ کدام"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "هیچ کدام",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 76,
+    "question": "چند نفر از امرای حکومت تیمور بر افغانستان حکومت کردند ؟",
+    "options": [
+      "11",
+      "8",
+      "6",
+      "14"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "11",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 77,
+    "question": "در مصراع)(شعر او چون طبع او هم بی تکلف هم بدیع یکی ا ز صنعت های زیر به کار رفته است:",
+    "options": [
+      "ایهام",
+      "تلمیح",
+      "ارسال المثل",
+      "تشبیه"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "ایهام",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 78,
+    "question": "در تشبیه موکد، کدام رکن تشبیه حذف میگردد؟",
+    "options": [
+      "مشبه",
+      "مشبه به",
+      "ادات تشبیه",
+      "وجه شبه"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "مشبه به",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 79,
+    "question": "در ادبیات دری)(نرگس ) نماد چیست؟",
+    "options": [
+      "سختی",
+      "سکوت",
+      "جنگ",
+      "شوخ چشمی"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "شوخ چشمی",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 80,
+    "question": "فیض محمد کاتب توسط یکی از اشخاص ذیل به دربار راه یافت؟",
+    "options": [
+      "خال محمد خسته",
+      "محمد سرور اسحاقزی",
+      "محمود طرزی",
+      "مولوی قلعه بلند"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "محمود طرزی",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 81,
+    "question": "در مصراع)(دل عالمی بسوزی چو عذار بر فروزی کدام به معنای مجازی به کار رفته است؟",
+    "options": [
+      "بسوزی",
+      "عذار",
+      "فروزی",
+      "عالم"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "بسوزی",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 82,
+    "question": "مترادف واژه)(جبن را دریابید؟",
+    "options": [
+      "فشار",
+      "جبر",
+      "شتاب",
+      "هراس"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "هراس",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 83,
+    "question": "استعاره از لحاظ ذکر یا حذف مشبه یا مشبه به به چند نوع است؟",
+    "options": [
+      "دو نوع",
+      "سه نوع",
+      "چهار نوع",
+      "شش نوع"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "سه نوع",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 84,
+    "question": "کدام یک از کتاب های نامبرده شده شباهت زیادی به کتاب)(کلیله و دمنه دارد؟",
+    "options": [
+      "پازند",
+      "پنچه تنتره",
+      "اوستا",
+      "زند"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "پنچه تنتره",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 85,
+    "question": "متضاد واژه)(عدم ) چیست؟",
+    "options": [
+      "هستی",
+      "سعادت",
+      "سقف",
+      "نیستی"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "هستی",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 86,
+    "question": "هرگاه مشبه به را حذف کرده و مشبه را ذکر کنند، یکی از گزینه های زیر بدست می آید:",
+    "options": [
+      "استعاره مکنیه",
+      "استعاره مصرحه",
+      "تشبیه بلیغ",
+      "مجاز"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "استعاره مکنیه",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 87,
+    "question": "تاریخ نویسان یکی از نخبه های فرهنگی زیر را بیهقی ثانی لقب داده اند؟",
+    "options": [
+      "عبدالهادی داوی",
+      "موالنا خسته",
+      "میربهادر واصفی",
+      "کاتب هزاره"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "میربهادر واصفی",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 88,
+    "question": "معنای دقیق واژه)(تارک به فتح /را/ را دریابید؟",
+    "options": [
+      "تراوش کردن",
+      "فرق",
+      "تاریکی",
+      "ترک کننده"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "فرق",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 89,
+    "question": "یکی از اشخاص زیر کتاب)(کلیله و دمنه ) را از زبان پهلوی به زبان عربی ترجمه کرده:",
+    "options": [
+      "ابن خلکان",
+      "عبدالحمید",
+      "ابوالمعانی نصرهللا",
+      "عبدهللا بن مفقع"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "ابوالمعانی نصرهللا",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 90,
+    "question": "هرگاه وجه شبه حذف گردد، چه نوع تشبیه به وجود می آید؟",
+    "options": [
+      "تشبیه موکد",
+      "تشبیه مجمل",
+      "تشبیه بلیغ",
+      "تشبیه تسویه"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "تشبیه بلیغ",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 91,
+    "question": "مترادف واژه)(هیمه را دریابید؟",
+    "options": [
+      "اهمیت",
+      "هیوال",
+      "همت",
+      "هیزم"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "همت",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 92,
+    "question": "یکی از اشخاص زیر از دانمشندان، مفسران، محدثان و شاعران بزرگ قرن پنجم است؟",
+    "options": [
+      "خواجه عبدهللا انصاری",
+      "منوچهری",
+      "فردوسی",
+      "اسدی طوسی"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "خواجه عبدهللا انصاری",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 93,
+    "question": "اندرز)(برای شب پیری در روز جوانی چراغی باید تهیه کرد گفته کیست؟",
+    "options": [
+      "افالطون",
+      "سقراط",
+      "بلوتارک",
+      "روو"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "روو",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 94,
+    "question": "متضاد واژه)(غنا را دریابید؟",
+    "options": [
+      "دولت مندی",
+      "توانگری",
+      "نیازمندی",
+      "غنیمت گرفتن"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "نیازمندی",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 95,
+    "question": "استاد جالل الدین در یکی از شهر های زیر رسما منحیث استاد مقرر شد؟",
+    "options": [
+      "قم",
+      "نجف اشرف",
+      "بغداد",
+      "قونیه"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "قونیه",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 96,
+    "question": "واژه معرب هستوریا که به معنای افسانه، قصه و سخن پریشان است؟",
+    "options": [
+      "قطعه",
+      "داستان",
+      "اسطوره",
+      "زمان"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "داستان",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 97,
+    "question": "اولین مکتب ابتدایی دختران به یکی از نام های ذیل یاد میشد؟",
+    "options": [
+      "عصمت",
+      "مستورات",
+      "ماللی",
+      "مخفی بدخشی"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "مستورات",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 98,
+    "question": "کدام یک از آثار زیر تالیف خواجه نظام الملک میباشد؟",
+    "options": [
+      "پند نامه",
+      "سیاست نامه",
+      "المعجم",
+      "تاریخ بیهقی"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "سیاست نامه",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 99,
+    "question": "عبدالرازق فانی در کدام سال دیده به جهان گشود؟",
+    "options": [
+      "1212 هـ.ش",
+      "1122 هـ.ش",
+      "1211 هـ.ش",
+      "1114 هـ.ش"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "1122 هـ.ش",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 100,
+    "question": "معنای لغوی)(ادب از این قرار است؟",
+    "options": [
+      "دانش",
+      "خوش خوی",
+      "فرهنگ",
+      "همه درست است"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "همه درست است",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 101,
+    "question": "مترادف کلمه کلمات قصار ) چیست؟",
+    "options": [
+      "سخنان بیهوده",
+      "سخنان اندرزآموز",
+      "سخنان کوتاه",
+      "همه"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "همه",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 102,
+    "question": "بیت (گرت از دست براید دهنی شیرین کن--- مردی آن نیست که مشتی بزنی بر دهنی ) را کی سروده است؟",
+    "options": [
+      "رودکی",
+      "ادیب الممالک",
+      "سعدی",
+      "فرخی"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "سعدی",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 103,
+    "question": "یکی از کتاب های مهم و مشهور عالمه صالح الدین سلجوقی است:",
+    "options": [
+      "احیای علوم دین",
+      "تجلی خدا در آفاق و انفس",
+      "کیمیای سعادت",
+      "فلسفه حکمت"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "کیمیای سعادت",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 104,
+    "question": "ساالر پیغمبران سروده کیست؟",
+    "options": [
+      "عبدالرازق فانی",
+      "داوی",
+      "محمود طرزی",
+      "عشقری"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "عبدالرازق فانی",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 105,
+    "question": "معنای دقیق واژه)(تعذر چیست؟",
+    "options": [
+      "عذر داشتن",
+      "سرگرمی",
+      "بهانه",
+      "هیچ کدام"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "بهانه",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 106,
+    "question": "بیت (علم چون بر دل زند یاری شود--- علم چون بر تا زند ماری شود) سروده کیست؟",
+    "options": [
+      "بابا طاهر",
+      "کسای مروزی",
+      "خیام",
+      "موالنا جالل الدین"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "بابا طاهر",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 107,
+    "question": "از انواع هجو است با این تفاوت که تندی و تیزی و صراحت هجو در آن نیست:",
+    "options": [
+      "قصیده",
+      "طنز",
+      "لغز",
+      "غزل"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "طنز",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 108,
+    "question": "آنچه تشبیه شود:",
+    "options": [
+      "مشبه به است",
+      "مشبه است",
+      "ادات تشبیه است",
+      "استعاره است"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "مشبه است",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 109,
+    "question": "در مصراع)(آدم چو پیاله است و روح چو می مشبه به کدام است؟",
+    "options": [
+      "آدم",
+      "چو",
+      "روح",
+      "می"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "می",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 110,
+    "question": "رساله)(ایون که در آن پیرامون شعر بحث شده است، اثر کیست؟",
+    "options": [
+      "ارسطو",
+      "سقراط",
+      "افالطون",
+      "فلوتین"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "ارسطو",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 111,
+    "question": "در مصراع (به همراه دل )چون تشت آتش ) واژه)(دل ):یکی از گزینه های زیر است:",
+    "options": [
+      "مشبه",
+      "ادات تشبیه",
+      "مشبه به",
+      "وجه شبه"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "مشبه",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 112,
+    "question": "اثر طنزی عبدالرازق فانی است:",
+    "options": [
+      "31 کیلو آلو بالو",
+      "آمر بی صالحیت",
+      "ارمغان جوانی",
+      "پیامبران باران"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "31 کیلو آلو بالو",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 113,
+    "question": "انجمن ادبی کابل در کدام سال تشکیل شد؟",
+    "options": [
+      "1298 هـ.ش",
+      "1143 هـ.ش",
+      "1111 هـ.ش",
+      "1116 هـ.ش"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "1298 هـ.ش",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 114,
+    "question": "در علم بیان گفتن لفظی در معنای غیر حقیقی به گونه ای که معنای حقیقی آن را نیز افاده کرد، به کدام یاد می شود؟",
+    "options": [
+      "حسن تعلیل",
+      "کنایه",
+      "تناسب",
+      "تشیبه"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "کنایه",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 115,
+    "question": "نخستین داستانی که توسط نویسنده زن نوشته شده بود، در کدام سال چاپ شد؟",
+    "options": [
+      "1111 هـ.ش",
+      "1112 هـ.ش",
+      "1111 هـ.ش",
+      "1141 هـ.ش"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "1111 هـ.ش",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 116,
+    "question": "کتابهای)(الروح ) و)(الجن آثار کیست؟",
+    "options": [
+      "امام ابن قیم",
+      "زکریا رازی",
+      "ابن سینا",
+      "خوارزمی"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "امام ابن قیم",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 117,
+    "question": "انجمن ادبی هرات تا چند شماره مجله انتشار داد؟",
+    "options": [
+      "114",
+      "144",
+      "134",
+      "141"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "114",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 118,
+    "question": "نخستین حبسیه ها در آثار چه کسی دیده میشود؟",
+    "options": [
+      "مسعود سعد سلمان",
+      "رودکی",
+      "خاقانی",
+      "سعدی"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "مسعود سعد سلمان",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 119,
+    "question": "در مصراع)(عشق دریا است و موجش ناپدید ) واژه)(دریا یکی از گزینه های زیر است؟",
+    "options": [
+      "وجه شبه",
+      "ادات تشبیه",
+      "مشبه",
+      "مشبه به"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "مشبه",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 120,
+    "question": "بابرنامه توسط چه کسی از ترکی چغتایی به دری ترجمه شد؟",
+    "options": [
+      "همایون خان",
+      "عبدالرحیم خانخان",
+      "بیرام خان",
+      "جهانگیر خان"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "عبدالرحیم خانخان",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 121,
+    "question": "در بیت (هالل عید پدید آمد از سپهر کبود--- چو شمع زرین پیش زمردین محراب ) واژه )(هالل):یکی از اجزای زیر است:",
+    "options": [
+      "مشبه",
+      "مشبه به",
+      "ادات تشبیه",
+      "وجه شبه"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "مشبه",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 122,
+    "question": "در مصراع (رود ها چون عاشقان )تنگدل گرینده زار وجه شبه کدام است؟",
+    "options": [
+      "چون",
+      "گرینده زار",
+      "عاشقان",
+      "رود ها"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "گرینده زار",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 123,
+    "question": "در مصراع)(موی چون نامه گنهکاران ) واژه)(موی ):یکی از گزینه های زیر است:",
+    "options": [
+      "مشبه",
+      "مشبه به",
+      "ادات تشبیه",
+      "وجه شبه"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "مشبه",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 124,
+    "question": "در مصراع)(همچو روی عاشقان بینم به زردی روی باغ مشبه به کدام است؟",
+    "options": [
+      "همچو",
+      "روی عاشقان",
+      "روی باغ",
+      "به زردی"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "روی عاشقان",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 125,
+    "question": "در مصراع)(ذکا و طبع تو چون آفتاب تابان است ادات تشبیه کدام است؟",
+    "options": [
+      "ذکا",
+      "طبع",
+      "چون",
+      "آفتاب"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "چون",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 126,
+    "question": "جمله)(آنکه میتواند انجام میدهد، آنکه نمی تواند انتقاد میکند از کیست؟",
+    "options": [
+      "نیچه",
+      "شوپنهاور",
+      "نهرو",
+      "دیل کارنگی"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "دیل کارنگی",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 127,
+    "question": "ادبیات از نظر مفهوم و محتوا به چند دسته تقسیم میشود؟",
+    "options": [
+      "دو",
+      "سه",
+      "چهار",
+      "پنج"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "چهار",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 128,
+    "question": "از سه ویژه گی یک اثر ادبی نیست؟",
+    "options": [
+      "مقبولیت",
+      "ماندگاری",
+      "گسترده گی",
+      "عامیانه بودن"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "عامیانه بودن",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 129,
+    "question": "یکی از اشخاص زیر در اوج مکتب وصال و فراق رسیده بود؟",
+    "options": [
+      "کلیم کاشانی",
+      "ناصرعلی سرهندی",
+      "وحشی بافقی",
+      "نیشاپوری"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "وحشی بافقی",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 130,
+    "question": "در کدام مکتب غزل از دید عمودی یک پارچه نیست؟",
+    "options": [
+      "وصال",
+      "فراق",
+      "هندی",
+      "نازک خیالی"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "هندی",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 131,
+    "question": "یک نامه خصوصی دارای چند بخش اساسی است؟",
+    "options": [
+      "8",
+      "9",
+      "11",
+      "12"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "9",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 132,
+    "question": "از کدام نوع نامه های زیر برای بازجویی متهمین استفاده میشود؟",
+    "options": [
+      "استعالم",
+      "پیشنهاد",
+      "درخواست",
+      "پرسشنامه"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "استعالم",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 133,
+    "question": "لیون تولستوی رمان جنگ و صلح را در چند سال نوشت؟",
+    "options": [
+      "4 سال",
+      "3 سال",
+      "6 سال",
+      "1 سال"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "6 سال",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 134,
+    "question": "جمله)(برگرداندن تصاویر آویخته بر دیوار تاریخ را عوض نمیکند گفته کیست؟",
+    "options": [
+      "لیون تولستوی",
+      "دیل کارنگی",
+      "نهرو",
+      "شوپهناور"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "لیون تولستوی",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 135,
+    "question": "معنای دقیق واژه)(متالشی چیست؟",
+    "options": [
+      "تالشی کردن",
+      "پالیدن",
+      "همه",
+      "چیزی که اجزای آن با هم نباشد"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "چیزی که اجزای آن با هم نباشد",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 136,
+    "question": "کتاب)(کلیله و دمنه اصال به کدام زبان است؟",
+    "options": [
+      "دری",
+      "ترکی",
+      "هندی",
+      "انگلیسی"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "هندی",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 137,
+    "question": "جمله (تو در تمام دنیا فقط یک نفر، اما برای بعضی افراد تمام دنیا هستی گفته کیست؟",
+    "options": [
+      "بلوتارک",
+      "مارکیز",
+      "بیسمارک",
+      "پروقیسور محمد کبیر"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "پروقیسور محمد کبیر",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 138,
+    "question": "سعدی شیرازی به کدام کشور های جهان سفر کرده است؟",
+    "options": [
+      "عراق",
+      "پاکستان",
+      "ایران",
+      "کویت"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "ایران",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 139,
+    "question": "واژه عربی تادیه در زبان دری چگونه نوشته میشود؟",
+    "options": [
+      "تدیه",
+      "تادییه",
+      "تادیه",
+      "همه"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "تادیه",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 140,
+    "question": "کدام یکی از اثار بیدل نمیباشد؟",
+    "options": [
+      "محیط اعظم",
+      "رقعات",
+      "طلسم حیرت",
+      "طور دانش"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "طور دانش",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 141,
+    "question": "اگر حرف اخر واژه) ( الف ) باشد در هنگام پیوستن با ضمایر اضافی کدام حرف در میان واژه و ضمیر عالوه میشود؟",
+    "options": [
+      "گ",
+      "الف",
+      "واو",
+      "ی"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "واو",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 142,
+    "question": "در کدام سال میربهادر واصفی بدخشی کلیله و دمنه را به نظم دری کشیده است؟",
+    "options": [
+      "1491 ه.ش",
+      "1167 ه.ش",
+      "1184 ه.ش",
+      "1186 ه.ش"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "1184 ه.ش",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 143,
+    "question": "قصیده حداقل باید دارای چند بیت باشد؟",
+    "options": [
+      "12 بیت",
+      "11 بیت",
+      "13 بیت",
+      "23 بیت"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "13 بیت",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 144,
+    "question": "( بشنو از نی چو حکایت می کند– ) از جدایی ها شکایت می کند قالب شعر ذیل چیست؟",
+    "options": [
+      "غزل",
+      "مثنوی",
+      "قصیده",
+      "مستزاد"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "مثنوی",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 145,
+    "question": "اگر حرف اخر واژه ) ( واو باشد هنگام پیوستن با ضمایر مشترک در میان واژه و پسوند یک) ( ی به کدام شکل عالوه میشود؟",
+    "options": [
+      "نا مستقل",
+      "مستقل",
+      "اصال ی اضافه نمیشود",
+      "نیمه مستقل"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "مستقل",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 146,
+    "question": "علم معانی به چند نو ع تقسیم شده است؟",
+    "options": [
+      "3 نوع",
+      "1 نوع",
+      "7 نوع",
+      "4 نوع"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "4 نوع",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 147,
+    "question": "سکاکی از ادبای معروف کدام مردم بود؟",
+    "options": [
+      "ایرانی",
+      "عربی",
+      "افغانی",
+      "هندی"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "عربی",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 148,
+    "question": "رساله عروضیه اثر کدام شخص میباشد؟",
+    "options": [
+      "عبدالحی حبیبی",
+      "سکاکی",
+      "امیرعلی شیر نوایی",
+      "جمشید شعله"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "سکاکی",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 149,
+    "question": "جمشید شعله در کدام سال وفات کرد؟",
+    "options": [
+      "1111 هـ.ش",
+      "1177 هـ.ش",
+      "1174 هـ.ش",
+      "1111 هـ.ش"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "1174 هـ.ش",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 150,
+    "question": "نخستین ...... گارسیا مارکیز توفان برگ ها میباشد:",
+    "options": [
+      "ناول",
+      "داستان",
+      "رومان",
+      "اشعار"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "ناول",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 151,
+    "question": "مکتب های ادبی ارو پایی معموال با کدام مکتب آغاز میشود؟",
+    "options": [
+      "سمبولیزم",
+      "ناتورالیزم",
+      "کالسیک",
+      "ریالیزم"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "کالسیک",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 152,
+    "question": "ابوعبدهللا محمد بن اسماعیل بخاری جهت فراگیری علم و جمع آوری احادیث به کدام کشور ها سفر کرده است؟",
+    "options": [
+      "عراق . ایران",
+      "شام مصر و عراق",
+      "عراق شام ایران و حجاز",
+      "عراق حجاز مصر و شام"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "عراق حجاز مصر و شام",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 153,
+    "question": "آرشیف ملی دارای چند بخش میباشد؟",
+    "options": [
+      "1 بخش",
+      "4 بخش",
+      "2 بخش",
+      "4 بخش"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "1 بخش",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 154,
+    "question": "فرخی در دربار کدام شخص به مقام بلند رسید؟",
+    "options": [
+      "سلطان محمود عزنوی",
+      "سلطان محمد غزنوی",
+      "سلطان مسعود غزنوی",
+      "هیچ کدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "سلطان محمود عزنوی",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 155,
+    "question": "دکتور عبداالحمد جاوید در کدام سال شامل پوهنځی ادبیات پوهنتون کابل شد؟",
+    "options": [
+      "1231 هـ.ش",
+      "1129 هـ.ش",
+      "1222 هـ.ش",
+      "2211 هـ.ش"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "1129 هـ.ش",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 156,
+    "question": "بیدل در کدام سال سرایش محیط اعظم را به پایان رسانید؟",
+    "options": [
+      "1187 هـ ق",
+      "1178 هـ ق",
+      "1128 هـ ق",
+      "1182 هـ ق"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "1182 هـ ق",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 157,
+    "question": "حبیب السیر چگونه کتاب است؟",
+    "options": [
+      "تاریخ قدیمی",
+      "داستان",
+      "تاریخ معروف",
+      "شهنامه"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "تاریخ معروف",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 158,
+    "question": "معنایی درست واژه) ( مصاب چیست؟",
+    "options": [
+      "مشقت کشیده",
+      "سختی دیده",
+      "مصیبت زده",
+      "همه"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "همه",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 159,
+    "question": "متضاد واژه ) ( هیاهو چیست؟",
+    "options": [
+      "غوغا",
+      "داد و فریاد",
+      "ارامی",
+      "1 و2 درست است"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "ارامی",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 160,
+    "question": "نوع رمان که معروفترین آن توسط بوکاچیو نوشته شده است چه نام دارد:",
+    "options": [
+      "رمان پیکارسک",
+      "دون گیشوت",
+      "هانس آیلند",
+      "قصه های دکامرون"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "قصه های دکامرون",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 161,
+    "question": ") گر تو میخواهی مسلمان زیستن– )نیست ممکن جز به قرآن زیستن ) سروده کیست؟",
+    "options": [
+      "سعدی شیرازی",
+      "سنایی غزنوی",
+      "اقبال الهوری",
+      "شاه حسین هوتک"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "اقبال الهوری",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 162,
+    "question": "سعدی گلستان را در کدام سال نوشت؟",
+    "options": [
+      "636 هـ ق",
+      "633 هـ ق",
+      "666 هـ ق",
+      "663 هـ ق"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "633 هـ ق",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 163,
+    "question": "عبدالرزاق فانی در کدام سال در عرصۀ نشرات و کارکرد های فرهنگی دست به فعالیت زد؟",
+    "options": [
+      "1131 هـ ش",
+      "1143 هـ ش",
+      "1147 هـ ش",
+      "1141 هـ ش"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "1131 هـ ش",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 164,
+    "question": "عبدالرزاق فانی تحصیالت اش را تا کدام درجه رسانید؟",
+    "options": [
+      "لیسانس",
+      "دوکتورا",
+      "ماستری",
+      "بلکوریا"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "لیسانس",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 165,
+    "question": "تعداد بناهای خیریه را که امیر علی شیر نوایی به اعمار آن دست زده است به چند میرسد؟",
+    "options": [
+      "171",
+      "173",
+      "143",
+      "211"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "173",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 166,
+    "question": "امیر علی شیر نوایی در اشعار دری خود کدام تخلص را گزیده است؟",
+    "options": [
+      "عوفی",
+      "فانی",
+      "سکاکی",
+      "خاقانی"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "فانی",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 167,
+    "question": "سراج المسلمین و تذکرۀ مجالس النفایس اثر کیست؟",
+    "options": [
+      "جمشید شعله",
+      "سراج الدین ابو یعقوب",
+      "امیر علی شیرنوایی",
+      "عبدالحی حبیبی"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "سراج الدین ابو یعقوب",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 168,
+    "question": "امیر علی شیر نوایی به کدام زبان ها شعر می گفت؟",
+    "options": [
+      "دری و عربی",
+      "دری و پشتو",
+      "پشتو ، ترکی و عربی",
+      "ترکی و دری"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "ترکی و دری",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 169,
+    "question": "سکاکی یکی از ادبای معروف کدام قرن بود؟",
+    "options": [
+      "قرن ششم",
+      "قرن ششم و هفتم",
+      "قرن هشتم",
+      "قرن نهم"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "قرن ششم و هفتم",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 170,
+    "question": "سعدی شیرازی شاعر و نویسنده کدام قرن است؟",
+    "options": [
+      "قرن نهم",
+      "قرن ششم",
+      "قرن هفتم",
+      "قرن هشتم"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "قرن هفتم",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 171,
+    "question": "( آسایش دو گیتی تفسیر این دو حرف است– با دوستان مروت با دشمنان مدارا ) در اینجا کدام نوع صنعت ادبی بکار رفته است:",
+    "options": [
+      "اطناب",
+      "ایجاز",
+      "کنایه",
+      "ارسال المثل"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "ارسال المثل",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 172,
+    "question": "اطناب در لغت به معنی چیست؟",
+    "options": [
+      "کوتاه ساختن",
+      "تناب خیمه",
+      "کم کردن",
+      "طوالنی کردن"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "طوالنی کردن",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 173,
+    "question": "آوردن لفظ اندک برای معنی بزرگ را بنام چی یاد می کنند؟",
+    "options": [
+      "کنایه",
+      "اطناب",
+      "ایجاز",
+      "ارسال المثل"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "ایجاز",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 174,
+    "question": "فصل و وصل به ترتیب کدام معنی ها را میدهد؟",
+    "options": [
+      "گسستگی ، پیوستگی",
+      "پیوستگی و گسستگی",
+      "هر دو",
+      "هیچکدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "گسستگی ، پیوستگی",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 175,
+    "question": "معنایی غلط عوارض را نشانی کنید؟",
+    "options": [
+      "بیماری",
+      "حادثه",
+      "فاقد",
+      "مرض"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "فاقد",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 176,
+    "question": "مترادف واژه) ( تهذیب چیست؟",
+    "options": [
+      "تزکیه",
+      "تسمم",
+      "تشویر",
+      "تصلب"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "تزکیه",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 177,
+    "question": "معنایی درست واژه) ( ابتذال چیست؟",
+    "options": [
+      "بی ارزش",
+      "مبتذل",
+      "با ارزش",
+      "هیچ کدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "بی ارزش",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 178,
+    "question": "قواعدی که بواسطه آن احوال لفظ شناخته می شوند تعریف کدام شخص از علم معانی بود؟",
+    "options": [
+      "نظامی",
+      "سکاکی",
+      "گنجوی",
+      "عبدالحی حبیبی"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "سکاکی",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 179,
+    "question": "بیدل با کدام تن از اقاربش به شهر کتک اروسیه رفت؟",
+    "options": [
+      "میرزا ظریف کاکایش",
+      "میرزا قلندر کاکایش",
+      "عاقل خان رازی",
+      "میرزا ظریف مامایش"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "میرزا قلندر کاکایش",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 180,
+    "question": "انشاء در لغت به معنی چی میباشد؟",
+    "options": [
+      "ایجاد کردن",
+      "نوشتن",
+      "خط نوشتن",
+      "همه درست است"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "همه درست است",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 181,
+    "question": "خواجه عبد هللا انصاری شاعر قرن چندم می باشد؟",
+    "options": [
+      "قرن ششم",
+      "قرن هفتم",
+      "قرن پنجم",
+      "قرن هشتم"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "قرن پنجم",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 182,
+    "question": "فرخی در کدام سال وفات نمود؟",
+    "options": [
+      "449 هـ ق",
+      "419 هـ ق",
+      "419 هـ ق",
+      "429 هـ ق"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "429 هـ ق",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 183,
+    "question": "فن معانی به چند بخش تقسیم شده است؟",
+    "options": [
+      "7 بخش",
+      "8 بخش",
+      "9 بخش",
+      "6 بخش"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "8 بخش",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 184,
+    "question": "( در جمله خدا بزرگ است ) مسند الیه کدام یکی است؟",
+    "options": [
+      "بزرگ",
+      "است",
+      "خدا",
+      "هیچکدام"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "خدا",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 185,
+    "question": "کبوتران من اثر کیست؟",
+    "options": [
+      "ملک الشعرا بهار",
+      "استاد خلیل هللا خلیلی",
+      "علی اکبر دهخدا",
+      "نیما یوشیج"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "ملک الشعرا بهار",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 186,
+    "question": "اولین شعر معاصر از کیست:",
+    "options": [
+      "ملک الشعرا بهار",
+      "خلیل هللا خلیلی",
+      "ابولقاسم الهوتی",
+      "علی اکبر دهخدا"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "ملک الشعرا بهار",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 187,
+    "question": "کدام اشخاص در مدرسه نظامیه تحصیل کرده است:",
+    "options": [
+      "رشید الدین وطواط",
+      "سعدی",
+      "نظامی",
+      "سعدی و رشید الدین وطواط"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "سعدی و رشید الدین وطواط",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 188,
+    "question": "( سوسن کافور بوی ، گلبن گوهر فروش– وزمه اردبهشت کرده بهشت برین ) کدام نوع شعر است:",
+    "options": [
+      "غزل",
+      "رباعی",
+      "قصیده",
+      "مسمط"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "مسمط",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 189,
+    "question": "خواجه عبدهللا انصاری در کدام سال تولد یافت؟",
+    "options": [
+      "196 هـ ق",
+      "186 هـ ق",
+      "169 هـ ق",
+      "496 هـ ق"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "169 هـ ق",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 190,
+    "question": "کدام شخص پته خزانه را به دری آورده است؟",
+    "options": [
+      "قیام الدین خادم",
+      "عبدالحی حبیبی",
+      "امیر علی شیر نوایی",
+      "عبدالرحمن پژواک"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "قیام الدین خادم",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 191,
+    "question": "اگر ابیات فواصل با یکدیگر فرق داشته باشد بنام چی یاد می کند؟",
+    "options": [
+      "ترجیح بند",
+      "حسن مطلع",
+      "ترکیب بند",
+      "حسن مقطع"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "ترجیح بند",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 192,
+    "question": "تعداد ابیات مثنوی چقدر است؟",
+    "options": [
+      "21—81",
+      "12—13",
+      "نا محدود",
+      "1—4"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "نا محدود",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 193,
+    "question": "( بشنو از نی که حکایت می کند--- از جدائی ها شکایت می کند ) کدام نوع صنعت ادبی است:",
+    "options": [
+      "قصیده",
+      "غزل",
+      "دوبیتی",
+      "مثنوی"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "مثنوی",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 194,
+    "question": "اشعاری که بر یک وزن و هر بیت قافیه مستقل داشته باشد کدام نوعی از شعر است؟",
+    "options": [
+      "مثنوی",
+      "قصیده",
+      "رباعی",
+      "غزل"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "مثنوی",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 195,
+    "question": "( غمت در نهانخانه دل نشیند-- به نازی که لیلی به محمل نشیند ) کدام نوع شعر است:",
+    "options": [
+      "مثنوی",
+      "قصیده",
+      "رباعی",
+      "غزل"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "غزل",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 196,
+    "question": "معنی ضد واژه(فقدان) عبارتند از:",
+    "options": [
+      "کمبود",
+      "کم کردن",
+      "کاهش",
+      "افزودن"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "افزودن",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 197,
+    "question": "دیوان فرخی دارای چند هزار بیت است؟",
+    "options": [
+      "9 هزار بیت",
+      "911 هزار بیت",
+      "91 هزار بیت",
+      "23111 بیت"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "9 هزار بیت",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 198,
+    "question": "( غزل که 1—4 بیت داشته باشد چی نامیده می شوند:",
+    "options": [
+      "دوبیتی",
+      "قصیده مرغوب",
+      "غزل کامل",
+      "غزل نا تمام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "دوبیتی",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 199,
+    "question": "امیر علی شیر نوایی در کدام سال تولد شد؟",
+    "options": [
+      "844 هـ ق",
+      "884 هـ ق",
+      "848 هـ ق",
+      "866 هـ ق"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "848 هـ ق",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 200,
+    "question": "رمان پیکارسک در کدام قرن در ایتالیا مرسوم بود؟",
+    "options": [
+      "قرن هفدهم",
+      "قرن شانزدهم",
+      "قرن هجده هم",
+      "قرن نزدهم"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "قرن شانزدهم",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 201,
+    "question": "تشیب ، نسیب ، تغزل هر س ه دارای کدام معنی واحد می باشد؟",
+    "options": [
+      "غزل گفتن",
+      "عاشقانه سرودن",
+      "هردو الف و ب درست است",
+      "عاشقی"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "هردو الف و ب درست است",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 202,
+    "question": "اگر بیت آخر یک شعر مطبوع شده باشد دارای کدام صنعت ادبی است؟",
+    "options": [
+      "حسن تعطیل",
+      "حسن مطلع",
+      "حسن مقطع",
+      "تغزل در شعر"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "حسن مقطع",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 203,
+    "question": "اگر بیت اول غزل یا قصیده خوب و مرغوب داشته باشد دارای کدام نوع صنعت ادبی می باشد؟",
+    "options": [
+      "حسن تعطیل",
+      "حسن مطلع",
+      "حسن مقطع",
+      "تغزل در شعر"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "حسن مطلع",
+    "subject": "Dari",
+    "difficulty": "medium"
+  },
+  {
+    "id": 204,
+    "question": "در عصر انوشیروان کی کتاب کلیله و دمنه را از سانسکریت به پهلوی در آورده است؟",
+    "options": [
+      "عبدهللا بن مقفع",
+      "ابن ندیم",
+      "رودکی سمرقندی",
+      "بروزیۀ طیب مروزی"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "بروزیۀ طیب مروزی",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 205,
+    "question": "حد اقل بیت قصیده چند است؟",
+    "options": [
+      "13 بیت",
+      "12 – 13 بیت",
+      "21 – 81 بیت",
+      "11 بیت"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "12 – 13 بیت",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 206,
+    "question": "ابن ندیم کتاب کلیله و دمنه را چند باب دانسته است؟",
+    "options": [
+      "7 – 8 باب",
+      "17 -18 باب",
+      "9 باب",
+      "12 – 13 باب"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "17 -18 باب",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 207,
+    "question": "چی کسی کتاب کلیله و دمنه را از پهلوی به عربی آورده است؟",
+    "options": [
+      "عبدهللا بن مقفع",
+      "نصر هللا بن محمد",
+      "رودکی سمرقند",
+      "بروزیۀ طیب مروزی"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "عبدهللا بن مقفع",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 208,
+    "question": "کی کتاب کلیله و دمنه را در سال 1184 به نظم دری آورده است؟",
+    "options": [
+      "رودکی",
+      "ابن ندیم",
+      "بروزیه طیب مروزی",
+      "میر بهادر واصفی"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "میر بهادر واصفی",
+    "subject": "Dari",
+    "difficulty": "hard"
+  },
+  {
+    "id": 209,
+    "question": "عنوان اصلی کتاب کلیله و دمنه از نام کدام حیوان گرفته شده است؟",
+    "options": [
+      "دو خروس",
+      "دو شیر",
+      "دو روباه",
+      "دو شغال"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "دو روباه",
+    "subject": "Dari",
+    "difficulty": "easy"
+  },
+  {
+    "id": 210,
+    "question": "کلیله و دمنه در زمان بهرام شاه توسط چی کسی ترجمه شده است؟",
+    "options": [
+      "عبدهللا بن مقفع",
+      "نصر هللا بن محمد",
+      "رودکی سمرقندی",
+      "بروزیۀ طیب مروزی"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "نصر هللا بن محمد",
+    "subject": "Dari",
+    "difficulty": "hard"
+  }
+]
