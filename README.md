@@ -24,18 +24,16 @@ Currently includes:
 ## 2. Repository Structure
 
 ```
-kankoor-questions-dataset/
-│
-├── data/
-│   ├── geology/
-│   │   └── geology.json
-│   ├── dari/
-│   │   └── dari.json
-│
-├── schema.json
+Afghanistan-kankoor-exam-dataset/
+├── dataset/
+│   ├── schema.json
+│   └── data/
+│       ├── geology.json
+│       └── dari.json
 ├── README.md
-└── LICENSE
-````
+├── LICENSE
+└── CONTRIBUTING.md
+```
 
 - **data/** — contains subject-specific JSON files  
 - **schema.json** — defines question structure and rules  
@@ -123,5 +121,6 @@ Optional, but helps support future development.
 ## 7. License
 MIT License — see LICENSE file.
 You can freely use, copy, modify, and distribute this dataset, with proper credit.
+
 
 
