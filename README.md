@@ -1,6 +1,4 @@
-
-```markdown
-# Kankoor Exam Questions Dataset (Afghanistan)
+### Kankoor Exam Questions Dataset (Afghanistan)
 
 **Author:** Salim Noor (Taikutsu Lyrz)  
 **License:** MIT  
@@ -26,7 +24,6 @@ Currently includes:
 ## 2. Repository Structure
 
 ```
-
 kankoor-questions-dataset/
 │
 ├── data/
@@ -38,7 +35,6 @@ kankoor-questions-dataset/
 ├── schema.json
 ├── README.md
 └── LICENSE
-
 ````
 
 - **data/** — contains subject-specific JSON files  
@@ -63,7 +59,7 @@ All questions follow this format:
   "difficulty": "easy",
   "year": 2025
 }
-````
+```
 
 **Fields:**
 
@@ -97,7 +93,6 @@ All questions follow this format:
 
 ```js
 import geology from './data/geology/geology.json';
-
 console.log(geology[0].question);
 ```
 
@@ -117,22 +112,16 @@ console.log(geology[0].question);
 
 If you use this dataset in an app, website, or project, a small mention or credit would be appreciated:
 
-> "Kankoor Questions Dataset by Salim Noor (Taikutsu Lyrz) — [GitHub link]"
+```
+"Kankoor Questions Dataset by Salim Noor (Taikutsu Lyrz) — [GitHub link]"
+```
 
 Optional, but helps support future development.
 
 ---
 
 ## 7. License
-
 MIT License — see LICENSE file.
 You can freely use, copy, modify, and distribute this dataset, with proper credit.
 
-```
 
----
-
-If you want, I can also **make a version formatted nicely for PDF**, ready to upload as **README.pdf** so it’s visually clean with headings, spacing, and easy to copy.  
-
-Do you want me to do that next?
-```
