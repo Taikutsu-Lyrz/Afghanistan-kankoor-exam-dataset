@@ -56,7 +56,6 @@ All questions follow this format:
   "correctAnswer": "Option 1",
   "subject": "Geology",
   "difficulty": "easy",
-  "year": 2025
 }
 ```
 
@@ -71,7 +70,6 @@ All questions follow this format:
 | correctAnswer | string       | Text of the correct answer                           |
 | subject       | string       | Subject name (Geology, Dari, etc.)                   |
 | difficulty    | string       | easy / medium / hard                                 |
-| year          | integer/null | Optional: year the question appeared in Kankoor exam |
 
 ---
 
@@ -80,7 +78,6 @@ All questions follow this format:
 * `id` → each question must have a unique number
 * `options` → at least 2 choices, usually 4
 * `correctOption` → 1-based index of the correct answer
-* `year` → optional, can be `null` if unknown
 * `additionalProperties: false` → prevents extra fields that don’t follow the schema
 
 ---
@@ -122,6 +119,7 @@ Optional, but helps support future development.
 ## 7. License
 MIT License — see LICENSE file.
 You can freely use, copy, modify, and distribute this dataset, with proper credit.
+
 
 
 
