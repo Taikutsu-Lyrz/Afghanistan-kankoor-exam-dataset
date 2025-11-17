@@ -108,9 +108,7 @@ console.log(geology[0].question);
 
 If you use this dataset in an app, website, or project, a small mention or credit would be appreciated:
 
-```
-"Kankoor Questions Dataset by Salim Noor (Taikutsu Lyrz) — [GitHub link]"
-```
+"Kankoor Questions Dataset by Salim Noor (Taikutsu Lyrz) — https://github.com/Taikutsu-Lyrz/Afghanistan-kankoor-exam-dataset"
 
 Optional, but helps support future development.
 
@@ -119,6 +117,7 @@ Optional, but helps support future development.
 ## 7. License
 MIT License — see LICENSE file.
 You can freely use, copy, modify, and distribute this dataset, with proper credit.
+
 
 
 
