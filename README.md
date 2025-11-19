@@ -10,9 +10,19 @@
 
 This dataset contains **Kankoor (Afghanistan University Entrance Exam) questions** in structured JSON format.  
 
-Currently includes:  
-- **Geology** — 300+ questions  
-- **Dari (Language & Literature)** — 300+ questions  
+## 📚 Available Subjects
+
+The dataset currently includes multiple subjects from the Afghanistan Kankoor (university entrance) exam.  
+Each subject has its own JSON folder containing the file inside the `dataset/` directory.
+
+### Current Subjects
+- **Geology**
+- **Dari**
+- **Chemistry** ← *Newly added*
+  
+More subjects will be added continuously (Math, Chemistry, Biology, Physics, etc).
+
+You can find each subject here:
 
 **Purpose:**  
 - Educational & research use  
@@ -119,6 +129,7 @@ Optional, but helps support future development.
 ## 7. License
 MIT License — see LICENSE file.
 You can freely use, copy, modify, and distribute this dataset, with proper credit.
+
 
 
 
