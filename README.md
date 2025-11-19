@@ -22,7 +22,6 @@ Each subject has its own JSON folder containing the file inside the `dataset/` d
   
 More subjects will be added continuously (Math, Chemistry, Biology, Physics, etc).
 
-You can find each subject here:
 
 **Purpose:**  
 - Educational & research use  
@@ -129,6 +128,7 @@ Optional, but helps support future development.
 ## 7. License
 MIT License — see LICENSE file.
 You can freely use, copy, modify, and distribute this dataset, with proper credit.
+
 
 
 
