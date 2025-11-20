@@ -1,6 +1,7 @@
 name: Update Total Questions
 
 on:
+  workflow_dispatch:       # ← allows manual run
   push:
     paths:
       - 'dataset/**'
