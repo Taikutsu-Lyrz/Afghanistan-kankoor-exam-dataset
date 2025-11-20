@@ -18,9 +18,10 @@ Each subject has its own JSON folder containing the file inside the `dataset/` d
 ### Current Subjects
 - **Geology**
 - **Dari**
-- **Chemistry** ← *Newly added*
+- **Chemistry** 
+- **Physics** ← *Newly added*
   
-More subjects will be added continuously (Math, Chemistry, Biology, Physics, etc).
+More subjects will be added continuously (Math, Chemistry, Biology, etc).
 
 
 **Purpose:**  
@@ -132,6 +133,7 @@ Optional, but helps support future development.
 ## 7. License
 MIT License — see LICENSE file.
 You can freely use, copy, modify, and distribute this dataset, with proper credit.
+
 
 
 
