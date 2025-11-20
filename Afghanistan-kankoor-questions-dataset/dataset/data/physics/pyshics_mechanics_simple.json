@@ -1,0 +1,1122 @@
+[
+  {
+    "id": 1,
+    "question": "مواد و ذرات به کدام بخش فزیک ارتباط دارد؟",
+    "options": [
+      "میخانیک",
+      "ترمودینامیک",
+      "الکترودینامیک",
+      "کوانتم"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "میخانیک",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "question": "کدام ساحه فزیک با درجه حرارت مرتبط میباشد؟",
+    "options": [
+      "میخانیک",
+      "نسبیت",
+      "کوانتم میخانیک",
+      "ترمودینامیک"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "ترمودینامیک",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "question": "کدام یکی از مباحث ذیل به فزیک تعلق دارد؟",
+    "options": [
+      "احتراق تیل",
+      "نشو و نمای نباتات",
+      "جوش دادن آب",
+      "طبقه های زمین"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "جوش دادن آب",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "question": "علم فزیک از لحاظ نظری به چند بخش تقسیم میشود؟",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "5",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "question": "از سرعت های بلند یکی از بخش فزیک بحث میکند:",
+    "options": [
+      "میخانیک",
+      "کوانتم",
+      "ترمودینامیک",
+      "نسبیت"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "نسبیت",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 6,
+    "question": "علمی که حرارت اجسام را مطالعه میکند:",
+    "options": [
+      "میخانیک",
+      "کوانتم",
+      "ترمودینامیک",
+      "نسبیت"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "ترمودینامیک",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 7,
+    "question": "یک کشف بزرگ دیگر در علم فزیک عبارت از:",
+    "options": [
+      "قانون تحفظ انرژی",
+      "قانون عطالت",
+      "قانون تحفظ کتله",
+      "هیچکدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "قانون تحفظ انرژی",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 8,
+    "question": "کدام ساحه فزیک با درجه حرارت مرتبط میباشد؟",
+    "options": [
+      "میخانیک",
+      "کوانتم",
+      "ترمودینامیک",
+      "نسبیت"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "ترمودینامیک",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 9,
+    "question": "فزیک به چند بخش عمده تقسیم شده است؟",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "4",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 10,
+    "question": "اساس فزیک را چی تشکیل میدهد؟",
+    "options": [
+      "انداره گیری",
+      "تجربه",
+      "کمیت",
+      "هیچکدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "انداره گیری",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 11,
+    "question": "هر آن چیزی که قابلیت اندازه گیری و پیمایش را داشته باشد:",
+    "options": [
+      "واحد",
+      "کمیت",
+      "متر",
+      "هیچکدام"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "کمیت",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 12,
+    "question": "علمی که از تمام قوانین طبیعت بحث میکند عبارت از:",
+    "options": [
+      "کیمیا",
+      "بیولوژی",
+      "فزیک",
+      "ریاضی"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "فزیک",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 13,
+    "question": "میخانیک، الکترودینامیک و ترمودینامیک مجموعا بنام:",
+    "options": [
+      "فزیک معاصر",
+      "1 و 4",
+      "فزیک کالسیک",
+      "مدرن"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "فزیک کالسیک",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 14,
+    "question": "واحد اندازه گیری کتله در سیستم FPS چیست؟",
+    "options": [
+      "پوند",
+      "سلگ",
+      "تن",
+      "کیلوگرام"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "سلگ",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 15,
+    "question": "مساحت افغانستان 65·10⁴ km² است. مساحت آن را از جنس Mm² دریابید:",
+    "options": [
+      "65·10²",
+      "65·10⁻³",
+      "65·10³",
+      "65·10⁻²"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "65·10³",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 16,
+    "question": "کالوری متر آله است که برای اندازه گیری یکی ازاینها استفاده میشود:",
+    "options": [
+      "درجه حرارت",
+      "مقدار حرارت",
+      "طول های کوچک",
+      "فشار"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "مقدار حرارت",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 17,
+    "question": "کثافت مایعات را توسط یکی از وسایل ذیل اندازه گیری میشود:",
+    "options": [
+      "مانو متر",
+      "ارو متر",
+      "سفیرومتر",
+      "هیچکدام"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "ارو متر",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 18,
+    "question": "مسافه بین دو شهر 2000 Hm است. این مسافه را به Km دریابید؟",
+    "options": [
+      "2000",
+      "200",
+      "20",
+      "2"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "20",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 19,
+    "question": "یک شبانه روز و دونیم ساعت از جنس دقیقه عبارت از:",
+    "options": [
+      "1440",
+      "1590",
+      "1340",
+      "1290"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "1590",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 20,
+    "question": "مساحت یک چوکی 400 cm² است. مساحت آن را از جنس Hm² دریابید؟",
+    "options": [
+      "4·10⁸",
+      "4·10⁻⁸",
+      "4·10⁶",
+      "4·10⁻⁶"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "4·10⁻⁸",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 21,
+    "question": "300km² چند dm² میشود؟",
+    "options": [
+      "3·10¹⁰",
+      "3·10⁻¹⁰",
+      "3·10¹¹",
+      "3·10⁹"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "3·10¹¹",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 22,
+    "question": "در سیستم mks و mts کدام کیمیات مشترک است؟",
+    "options": [
+      "طول",
+      "کتله",
+      "زمان",
+      "1 و 3"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "1 و 3",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 23,
+    "question": "فاصله بین قطر زمین و خط استوا از جنس متر کدام یکی ازینهاست؟",
+    "options": [
+      "1·10⁷",
+      "10⁷",
+      "1·10⁶",
+      "10⁶"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "1·10⁷",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 24,
+    "question": "مساحت صنف را دریابید که طول آن 6m و عرض آن 250cm است:",
+    "options": [
+      "8m²",
+      "15m²",
+      "22m²",
+      "9m²"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "15m²",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 25,
+    "question": "طول و عرض یک خانه به ترتیب 6·10⁹nm و 0.03Hm است. مساحت این خانه را از جنس mm² دریابید؟",
+    "options": [
+      "18·10⁷",
+      "18·10⁻⁵",
+      "18·10⁵",
+      "18·10³"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "18·10⁵",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 26,
+    "question": "2.10¹⁸ Tm = X L³",
+    "options": [
+      "2.10⁻²¹",
+      "2.10²¹",
+      "2.10⁵¹",
+      "2.10⁻⁵¹"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "2.10²¹",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 27,
+    "question": "در سیستم FPS واحد حجم عبارت از:",
+    "options": [
+      "m³",
+      "cm³",
+      "ft²",
+      "ft³"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "ft³",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 28,
+    "question": "طول عرض و ظخامت یک جسم مستطیل a=2cm, b=3cm، و c=10cm داده شده. حجم آن را به nm³ دریابید:",
+    "options": [
+      "6.10³³",
+      "6.10³⁰",
+      "6.10²²",
+      "6.10⁻²⁰"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "6.10³⁰",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 29,
+    "question": "7·10¹⁸ Km³ = X Gm³",
+    "options": [
+      "7.10⁵⁴",
+      "0.7",
+      "7",
+      "7.10⁻⁵⁴"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "7.10⁵⁴",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 30,
+    "question": "10 slug = X kg",
+    "options": [
+      "14.5",
+      "1.45",
+      "145",
+      "0.145"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "14.5",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 31,
+    "question": "درجه حرارت به کدام یکی از واحد های ذیل اندازه می شود؟",
+    "options": [
+      "K",
+      "Am",
+      "cd",
+      "mol"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "K",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 32,
+    "question": "شدت نور به کدام یکی از واحد های ذیل اندازه می شود؟",
+    "options": [
+      "kg",
+      "Am",
+      "cd",
+      "mol"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "cd",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 33,
+    "question": "مقدار ماده به کدام یکی از واحد های ذیل اندازه می شود؟",
+    "options": [
+      "kg",
+      "Am",
+      "cd",
+      "mol"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "mol",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 34,
+    "question": "10 inch = X m",
+    "options": [
+      "100",
+      "50",
+      "25",
+      "30"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "25",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 35,
+    "question": "حجم دارای چند بعد میباشد؟",
+    "options": [
+      "دو بعد",
+      "سه بعد",
+      "چهار بعد",
+      "بعد ندارد"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "سه بعد",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 36,
+    "question": "یک لیتر مساوی است به:",
+    "options": [
+      "1dm³",
+      "1cm³",
+      "10dm³",
+      "10cm³"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "1dm³",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 37,
+    "question": "یک بوتل 2 lit آب دارد. این حجم را به cm³ تبدیل نماید؟",
+    "options": [
+      "20",
+      "200",
+      "2000",
+      "2·10⁻⁴"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "2000",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 38,
+    "question": "مقدار فضای اشغال شده توسط یک جسم را بنام ... یاد میکند:",
+    "options": [
+      "مساحت",
+      "حجم",
+      "کتله",
+      "طول"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "حجم",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 39,
+    "question": "واحد کتله در سیستم SI عبارت است از:",
+    "options": [
+      "Kg",
+      "gr",
+      "Ton",
+      "m"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "Kg",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 40,
+    "question": "کتله 10cm³ طلا 76 gr است. کتله 100cm³ را به dg دریابید؟",
+    "options": [
+      "7600",
+      "0.76",
+      "0.0076",
+      "76000"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "7600",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 41,
+    "question": "واحد اندازه گیری زمان در کدام سیستم ثانیه است؟",
+    "options": [
+      "SI",
+      "M.K.S",
+      "F.P.S",
+      "همه"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "همه",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 42,
+    "question": "یک شبانه روز چند ثانیه است؟",
+    "options": [
+      "864000",
+      "36000",
+      "86400",
+      "86800"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "86400",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 43,
+    "question": "یک ویدیو 12 min است. آن را به hr افاده نماید:",
+    "options": [
+      "0.2",
+      "0.02",
+      "0.03",
+      "0.06"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "0.2",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 44,
+    "question": "چند دقیقه تفاوت بین ساعات 06:45 و 22:10 وجود دارد؟",
+    "options": [
+      "715",
+      "1595",
+      "925",
+      "900"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "715",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 45,
+    "question": "کم ارزشترین رقم .......... است",
+    "options": [
+      "چپ ترین رقم",
+      "راست ترین رقم",
+      "عددی وسطی",
+      "هیچدام"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "راست ترین رقم",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 46,
+    "question": "شخصی 56 سال و 4 ماه زندگی کرده. در حقیقت این شخص چند روز حیات داشته؟",
+    "options": [
+      "20660",
+      "20560",
+      "20460",
+      "20360"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "20660",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 47,
+    "question": "اشتباه همیشه در علم اندازه گیری امکان............؟",
+    "options": [
+      "دارد",
+      "شاید",
+      "ندارد",
+      "همه"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "دارد",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 48,
+    "question": "در علم اندازه گیری غلطی میتواند....... و اشتباه ............ میتواند:",
+    "options": [
+      "اصالح شود - اصالح نشود",
+      "اصالح نشود - اصالح شود",
+      "اصالح شود - اصالح شود",
+      "اصالح نشود - اصالح نشود"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "اصالح نشود - اصالح شود",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 49,
+    "question": "مقدار حرارت را میتوان توسط کدام آله اندازه گیری کرد؟",
+    "options": [
+      "بارومتر",
+      "مانومتر",
+      "کالوری متر",
+      "ارومتر"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "کالوری متر",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 50,
+    "question": "سرعت نور 2.9945732×10⁸ m/s است چند رقم با ارزش دارد؟",
+    "options": [
+      "16",
+      "9",
+      "1",
+      "8"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "9",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 51,
+    "question": "سرعت نور 2.9945732×10⁸ m/s است کم ارزشترین این رقم کدام است؟",
+    "options": [
+      "0",
+      "3",
+      "2",
+      "جز 3 درست نیست"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 52,
+    "question": "عدد 153.4×10⁴ به روش علمی آن یکی از گزینه های ذیل است:",
+    "options": [
+      "1.534×10³",
+      "1.534×10²",
+      "1.534×10⁴",
+      "هیچکدام"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "1.534×10⁴",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 53,
+    "question": "قطعه خط موجه یا جهت دار .................. را بنام یاد میکنند:",
+    "options": [
+      "نیم خط",
+      "خط منحنی",
+      "خط منکسره",
+      "وکتور"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "وکتور",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 54,
+    "question": "کمیاتی که برای شناخت آنها ذکر مقدار عددی کافی باشد به چه نام یاد میشود؟",
+    "options": [
+      "وکتوری",
+      "اسکالری",
+      "قوه",
+      "حرارت"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "اسکالری",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 55,
+    "question": "کدام یکی از مقدار ذیل کمیت وکتوری نیست؟",
+    "options": [
+      "سرعت",
+      "قوه",
+      "وزن",
+      "حجم"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "حجم",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 56,
+    "question": "کدام یکی از مقدار ذیل کمیت اسکالری است؟",
+    "options": [
+      "سرعت",
+      "قوه",
+      "وزن",
+      "حجم"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "حجم",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 57,
+    "question": "کدام یکی از مقادیر فزیکی ذیل کمیت وکتوری است؟",
+    "options": [
+      "حجم",
+      "کثافت",
+      "درجه حرارت",
+      "هیچکدام"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "هیچکدام",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 58,
+    "question": "وکتور که موازی یا از یکجا به جای دیگر منتقل شوند به کدام نام یاد می شود؟",
+    "options": [
+      "وکتور های مساوی",
+      "محصله وکتور",
+      "وکتورهای موازی",
+      "وکتور های منتقله"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "وکتور های منتقله",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 59,
+    "question": "دو وکتور زمانی باهم مساوی بوده نمیتواند که؟",
+    "options": [
+      "طول شان مساوی باشد",
+      "هم جهت باشند",
+      "موازی نباشند",
+      "هیچکدام"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "موازی نباشند",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 60,
+    "question": "دو وکتور زمانی متضاد یکدیگر اند که:",
+    "options": [
+      "باهم مساوی باشند",
+      "باهم مساوی نباشند",
+      "مختلف الجهت باشند",
+      "جز 1 و 3 درست است"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "جز 1 و 3 درست است",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 61,
+    "question": "جمع و تفریق وکتور ها به چند طریق صورت میگیرد؟",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "هیچکدام"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "3",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 62,
+    "question": "جمع و تفریق وکتورها به دو طریق ذیل صورت میگیرد:",
+    "options": [
+      "وکتوری و انتقال",
+      "انتقال و متوازی الاضالع",
+      "وکتوری و الجبری",
+      "الجبری و انتقال"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "انتقال و متوازی الاضالع",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 63,
+    "question": "اگر k > 1 باشد پس حاصل k·a عبارت از:",
+    "options": [
+      "وکتور کوچک میشود مختلف الجهت",
+      "وکتور بزرگ میشود مختلف الجهت",
+      "وکتور کوچک میشود هم جهت",
+      "وکتور بزرگ میشود هم جهت"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "وکتور بزرگ میشود هم جهت",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 64,
+    "question": "اگر 0 < k < 1 باشد پس حاصل k·a عبارت از:",
+    "options": [
+      "وکتور کوچک میشود مختلف الجهت",
+      "وکتور بزرگ میشود مختلف الجهت",
+      "وکتور کوچک میشود هم جهت",
+      "وکتور بزرگ میشود هم جهت"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "وکتور کوچک میشود هم جهت",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 65,
+    "question": "اگر a ≠ 0 شود در صورت:",
+    "options": [
+      "a > -1",
+      "a = 0",
+      "a < -1",
+      "هیچکدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "a > -1",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 66,
+    "question": "حاصل جمع وکتور های عبارت از:",
+    "options": [
+      "2",
+      "a+b+c",
+      "0",
+      "1"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "0",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 67,
+    "question": "اگر زاویه بین دو وکتور را بزرگ نماییم در آن صورت:",
+    "options": [
+      "محصله شان بزرگ میشود",
+      "محصله شان بزرگ نمیشود",
+      "محصله شان مساوی میشود",
+      "هیچکدام"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "محصله شان بزرگ نمیشود",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 68,
+    "question": "در طریقه متوازی الاضالع قطر کوچک متوازی الاضالع.......... است:",
+    "options": [
+      "محصله",
+      "حاصل تفریق",
+      "حاصل جمع",
+      "1 و 3"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "حاصل تفریق",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 69,
+    "question": "وکتوری که مبدا و انجام آن بالای هم منطبق باشد بنام ........... یاد میشود:",
+    "options": [
+      "وکتور منفی",
+      "وکتور منتقل",
+      "وکتور صفری",
+      "وکتور موازی"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "وکتور صفری",
+    "subject": "physics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 70,
+    "question": "محصله دو وکتور با زاویه بین ای دو وکتور چه رابطه دارد؟",
+    "options": [
+      "مستقیم",
+      "معکوس",
+      "مساوی",
+      "هیچکدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "مستقیم",
+    "subject": "physics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 71,
+    "question": "یک کشتی 30 کیلومتر بطرف غرب بعدا 100 کیلومتر به طرف شمال حرکت می کند چقدر فاصله را طی کرده است؟",
+    "options": [
+      "137.84",
+      "130",
+      "70",
+      "100"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "137.84",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 72,
+    "question": "یک شخص 10 کیلومتر بطرف شمال، 20 کیلومتر بطرف شمال و بعدا 30 کیلومتر بطرف غرب حرکت میکند تغییر مکان شخص را دریابید:",
+    "options": [
+      "60",
+      "90",
+      "30",
+      "50"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "50",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 73,
+    "question": "وکتور های |a| = 2 و |b| = 3 داده شده هرگاه زاویه بین آنها 60° باشد محصله آنها را دریابید:",
+    "options": [
+      "37",
+      "28",
+      "18",
+      "هیچکدام"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "18",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 74,
+    "question": "محصله وکتور |a| = 7 و |b| = 4 مساوی به 3 است. زاویه بین آنها را دریابید؟",
+    "options": [
+      "90",
+      "0",
+      "180",
+      "60"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "180",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 75,
+    "question": "وکتور های |a| = 6 و |b| = 2 زاویه 60 درجه را میسازد محصله آنها را دریابید:",
+    "options": [
+      "50",
+      "52",
+      "45",
+      "هیچکدام"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "52",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 76,
+    "question": "هرگاه دو وکتور مساوی 4 برابر شوند محصله آن چند برابر میشود؟",
+    "options": [
+      "4",
+      "8",
+      "16",
+      "2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "4",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 77,
+    "question": "وکتور های |a| = 2 و |b| = 3 بین هم زاویه 120 درجه را میسازند محصله آنها را دریابید:",
+    "options": [
+      "7",
+      "√7",
+      "24",
+      "هیچکدام"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "√7",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 78,
+    "question": "محصله وکتور های |a| = 8، |b| = 4 عبارت از |R| = 12 باشد پس زاویه بین این دو وکتور را دریابید:",
+    "options": [
+      "30 درجه",
+      "0 درجه",
+      "180 درجه",
+      "90 درجه"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "0 درجه",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 79,
+    "question": "یک موتر 8 کیلومتر تحت زاویه 25 بطرف جنوب غرب بعدا 6 کیلومتر تحت زاویه 65 به طرف شمال غرب حرکت می کند تغییر مکان موتر را دریابید:",
+    "options": [
+      "13.84",
+      "13",
+      "10",
+      "15"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "13.84",
+    "subject": "physics",
+    "difficulty": "hard"
+  },
+  {
+    "id": 80,
+    "question": "یک پرنده 20 کیلومتر بطرف شمال شرق، و بعدا 30 کیلومتر بطرف جنوب غرب حرکت میکند دریابید که پرنده چقدر فاصله را طی نموده؟",
+    "options": [
+      "60",
+      "90",
+      "30",
+      "50"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "30",
+    "subject": "physics",
+    "difficulty": "hard"
+  }
+]
