@@ -41,6 +41,8 @@ Afghanistan-kankoor-exam-dataset/
 │   │   └── dari.json
 │   ├── chemistry/
 │   │   └── general_chemistry.json
+│   ├── physics/
+│   │   └── physics_mechanics_simple.json
 │   └── schema.json
 ├── README.md
 ├── LICENSE
@@ -128,6 +130,7 @@ Optional, but helps support future development.
 ## 7. License
 MIT License — see LICENSE file.
 You can freely use, copy, modify, and distribute this dataset, with proper credit.
+
 
 
 
