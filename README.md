@@ -4,12 +4,14 @@
 **License:** MIT  
 **Date:** 2025  
 
+![Total Questions](https://img.shields.io/badge/Total%20Questions-0-blue)
+
 ---
 
 ## 1. Project Description
 
 This dataset contains **Kankoor (Afghanistan University Entrance Exam) questions** in structured JSON format.  
-Right Now it have ![Total Questions](https://img.shields.io/badge/Total%20Questions-0-blue) Questions
+<br>
 
 
 ## 📚 Available Subjects
@@ -135,6 +137,7 @@ Optional, but helps support future development.
 ## 7. License
 MIT License — see LICENSE file.
 You can freely use, copy, modify, and distribute this dataset, with proper credit.
+
 
 
 
