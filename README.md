@@ -33,20 +33,22 @@ More subjects will be added continuously (Math, Chemistry, Biology, Physics, etc
 ## 2. Repository Structure
 
 ```
-Afghanistan-kankoor-exam-dataset/
+Afghanistan-kankoor-questions-dataset/
 ├── dataset/
-│   ├── geology/
-│   │   └── geology.json
-│   ├── dari/
-│   │   └── dari.json
-│   ├── chemistry/
-│   │   └── general_chemistry.json
-│   ├── physics/
-│   │   └── physics_mechanics_simple.json
-│   └── schema.json
+│   └── data/
+│       ├── geology/
+│       │   └── geology.json
+│       ├── dari/
+│       │   └── dari.json
+│       ├── chemistry/
+│       │   └── general_chemistry.json
+│       ├── physics/
+│       │   └── physics_mechanics_simple.json
+│       └── schema.json
 ├── README.md
 ├── LICENSE
 └── CONTRIBUTING.md
+
 ```
 
 - **data/** — contains subject-specific folder with JSON files  
@@ -130,6 +132,7 @@ Optional, but helps support future development.
 ## 7. License
 MIT License — see LICENSE file.
 You can freely use, copy, modify, and distribute this dataset, with proper credit.
+
 
 
 
