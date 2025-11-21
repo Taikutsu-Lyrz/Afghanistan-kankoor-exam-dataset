@@ -1,0 +1,6738 @@
+[
+  {
+    "id": 1,
+    "question": "اگر معادله پارابولا (y-4)²=12(x-1) باشد محور تناظر آن عبارت است از:",
+    "options": [
+      "y=4",
+      "y=-4",
+      "x=1",
+      "x=-1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=4",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 2,
+    "question": "طول شعاع دایره x²+y²-2x-14y-12=0 عبارت است از:",
+    "options": [
+      "√62",
+      "√41",
+      "√63",
+      "√65"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "√62",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 3,
+    "question": "فاصله خط مستقیم 3x-4y-30=0 را از مبدا کمیات وضعیه دریابید:",
+    "options": [
+      "2",
+      "3",
+      "6",
+      "5"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "6",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 4,
+    "question": "مرکز دایره x²+y²-2x-4y+2=0 عبارت است از:",
+    "options": [
+      "(-1,-2)",
+      "(1,-2)",
+      "(1,2)",
+      "(-1,2)"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "(1,2)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 5,
+    "question": "فاصله بین دو نقطه (2,7) و (2,-3) عبارت است از:",
+    "options": [
+      "0",
+      "10",
+      "4",
+      "√10"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "10",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 6,
+    "question": "اگر معادله بیضوی بصورت 9x²+10y²=90 عن المزكيت (Eccentricity) آن عبارت است از:",
+    "options": [
+      "√10/10",
+      "1/10",
+      "√10/3",
+      "3/√10"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "√10/10",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 7,
+    "question": "خط مستقیم y-x-2=0 با محور مثبت x زاویه چند درجه را میسازد:",
+    "options": [
+      "90 درجه",
+      "45 درجه",
+      "135 درجه",
+      "315 درجه"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "45 درجه",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 8,
+    "question": "فاصله خط مستقیم 3x-4y-25=0 از مبدا کمیات وضعیه مساوی است به:",
+    "options": [
+      "6",
+      "4",
+      "2",
+      "5"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 9,
+    "question": "مسافه بين خط مستقیم y=4 و محور x مساوی است به:",
+    "options": [
+      "3",
+      "6",
+      "5",
+      "4"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "4",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 10,
+    "question": "معادله خط مستقیم که از جوره های نقاط (3,2) و (2,3) عبور مینماید, عبارت است از:",
+    "options": [
+      "y=-x+5",
+      "y=x+1",
+      "y=x-5",
+      "y=-x-1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=-x+5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 11,
+    "question": "معادله خط مستقیم که از نقطه (9,-3) میگذرد و با محور y موازی باشد, عبارت است از:",
+    "options": [
+      "x=3",
+      "x=-3",
+      "x=9",
+      "x=-9"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "x=9",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 12,
+    "question": "فاصله نقطه p(-1,-1) از مستقیم x+y=1 مساوی است به:",
+    "options": [
+      "√2/2",
+      "0",
+      "3√2/2",
+      "2√2/2"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "3√2/2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 13,
+    "question": "میل خط مستقیم 5x-3y-3=0 را دریابید:",
+    "options": [
+      "5/3",
+      "-3/5",
+      "3/5",
+      "-5/3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5/3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 14,
+    "question": "میل خط مستقیم که از نقاط P(-1,2) و Q(3,2) میگذرد مساوی است به:",
+    "options": [
+      "0",
+      "-1",
+      "1",
+      "2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 15,
+    "question": "معادله دايره که شعاع آن 2√3 واحد و مرکز آن در مبدا کمیات وضعیه باشد عبارت است از:",
+    "options": [
+      "x²+y²-54=0",
+      "x²+y²-25=0",
+      "x²+y²-12=0",
+      "x²+y²+12=0"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "x²+y²-12=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 16,
+    "question": "معادله دایره که مرکز آن (4,-1) و شعاع آن 10 واحد باشد عبارت است از:",
+    "options": [
+      "x²+y²=83",
+      "x²+y²-8x+2y-83=0",
+      "x²+y²+8x-2y-83=0",
+      "x²+y²=100"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "x²+y²-8x+2y-83=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 17,
+    "question": "اگر معادله بیضوی بصورت 9x²+10y²-90=0 باشد فاصله بین محراقهای آن مساوی است به:",
+    "options": [
+      "4√60",
+      "2",
+      "2√5",
+      "4√5"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 18,
+    "question": "معادله خط مستقیم که میل آن 2√2 و محور Y را در (0, √5) قطع کند عبارت است از:",
+    "options": [
+      "y=√3x+√5",
+      "y=√3x-√5",
+      "y=2√2x-√5",
+      "y=2√2x+√5"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "y=2√2x+√5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 19,
+    "question": "فاصله خط مستقیم 4x-3y-60=0 از مبدا کمیات وضعیه مساوی است به:",
+    "options": [
+      "10",
+      "14",
+      "9",
+      "12"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "12",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 20,
+    "question": "کمیات وضعیه نقطه وسطی قطعه خط که از نقاط A(3,1) و B(-2,4) عبور میکند مساوی است به:",
+    "options": [
+      "(1/2,-3/2)",
+      "(-1/2,3/2)",
+      "(-1/2,-3/2)",
+      "(1/2,5/2)"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "(1/2,5/2)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 21,
+    "question": "معادله پارابولا که محور تناظر روی محور X منطبق باشد عبارت است از:",
+    "options": [
+      "X²=4PY",
+      "Y²=4PX",
+      "Y=4PX",
+      "X=4PY"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "Y²=4PX",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 22,
+    "question": "هر گاه یک مخروط توسط مستوی طوری قطع شود که موازی به مولد مخروط باشد شکل حاصله عبارت است از:",
+    "options": [
+      "دایره",
+      "هایپربولا",
+      "بیضوی",
+      "پارابولا"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "پارابولا",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 23,
+    "question": "نقطه (1, 2) در کدام یکی از ربعهای ذیل واقع است:",
+    "options": [
+      "II",
+      "III",
+      "IV",
+      "I"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "I",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 24,
+    "question": "اگر x ≠ 0 و y = 0 باشد, موقعیت نقطه (x,y) عبارت است از:",
+    "options": [
+      "بالای محور x",
+      "بالای محور y",
+      "ناحیه سوم",
+      "ناحیه چهارم"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "بالای محور x",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 25,
+    "question": "فاصله بین خطوط y = 2 و y = -1/2 مساویست به:",
+    "options": [
+      "2",
+      "2.5",
+      "3",
+      "5"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "2.5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 26,
+    "question": "فاصله نقطه P(1,-2) از خط مستقیم 8x-y-1=0 مساوی است به:",
+    "options": [
+      "10√65/65",
+      "9√65/65",
+      "√65/65",
+      "√65/13"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "9√65/65",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 27,
+    "question": "معادله خط مستقیمی 0 = 4-y به شکل نورمال عبارت است از:",
+    "options": [
+      "x cos 90° + y sin 90° + 4 = 0",
+      "x cos 90° + y sin 90°-4=0",
+      "x cos90°-1=0",
+      "xsin 90° +1=0"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "x cos 90° + y sin 90°-4=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 28,
+    "question": "معادله خط مستقیمی که از نقطه (-√5,4) میگذرد و با محور y موازی باشد. عبارت است از:",
+    "options": [
+      "x = −4",
+      "x = √5",
+      "x = 4",
+      "x = -√5"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "x = -√5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 29,
+    "question": "اگر A(2,6), B(2,-6) و C(2,-2) راس های یک مثلث باشند, این نقاط:",
+    "options": [
+      "تشکیل مثلث نمیدهند (روی یک خط هستند)",
+      "قائم الزاویه",
+      "منفرجه الزاویه",
+      "متساوی الاضلاع"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "تشکیل مثلث نمیدهند (روی یک خط هستند)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 30,
+    "question": "معادله دو خط مستقیم به ترتیب 0 = 5+3x-2y و 0 = 3-4y-5x است. این دو خط مستقیم با هم دارای کدام حالت زیر می باشند:",
+    "options": [
+      "موازی اند",
+      "منطبق اند",
+      "متقاطع اند",
+      "هیچکدام"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "متقاطع اند",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 31,
+    "question": "مستقیم 6y-2√3x-2=0 با محور x زاویه چند درجه را می سازد:",
+    "options": [
+      "30 درجه",
+      "45 درجه",
+      "120 درجه",
+      "270 درجه"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "30 درجه",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 32,
+    "question": "کمیات وضعیه نقطه تنصیف خط مستقیم را دریابید که از نقطه (3√2,3√5) و (-√2,-√5) عبور می نماید:",
+    "options": [
+      "(√2,√5)",
+      "(2√2,√5)",
+      "(√5,√2)",
+      "(√5,-√2)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(√2,√5)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 33,
+    "question": "معادله خط مستقیم که از نقطه (-2,4) میگذرد و با محور y موازی باشد, عبارت است از:",
+    "options": [
+      "x = 2",
+      "x = -2",
+      "x = 4",
+      "x = -4"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "x = -2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 34,
+    "question": "معادله خط مستقیم که از نقطه (-3,3) میگذرد و با محور x موازی باشد, عبارت است از:",
+    "options": [
+      "y = 3",
+      "y = -3",
+      "y = 2",
+      "y = -2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y = 3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 35,
+    "question": "معادله خط مستقیم به ترتیب 6x+4y=0 و 4x+10y-4=0 است, این دو خط مستقیم با هم دارای کدام حالت زیر می باشند:",
+    "options": [
+      "متقاطع اند",
+      "موازی اند",
+      "منطبق اند",
+      "هیچکدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "متقاطع اند",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 36,
+    "question": "معادله نورمال خط مستقیم xcos90°+ysin90°-4=0 بشکل ستندرد عبارت است از:",
+    "options": [
+      "y = 3",
+      "y = 4",
+      "y = -4",
+      "y = -3"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "y = 4",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 37,
+    "question": "فاصله نقطه P(9,-11) از خط مستقیم 5x-12y-13=0 مساوی است به:",
+    "options": [
+      "164/13",
+      "205/13",
+      "190/13",
+      "13/201"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "164/13",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 38,
+    "question": "میل خط مستقیم y=-3 مساوی است به:",
+    "options": [
+      "0",
+      "-1",
+      "1",
+      "تعریف نشده"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 39,
+    "question": "معادله خط مستقیمی که میل آن m=-1 و از نقطه (0,3) بگذرد, مساویست به:",
+    "options": [
+      "y=x+2",
+      "y=-x+2",
+      "y=-x+3",
+      "y=x-2"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "y=-x+3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 40,
+    "question": "اگر زاویه میل یک خط مستقیم 25° باشد پس میل آن عبارت است از:",
+    "options": [
+      "صفر",
+      "منفی است",
+      "تعریف نشده است",
+      "مثبت است"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "مثبت است",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 41,
+    "question": "معادله خط مستقیم که میل آن √7 و از نقطه (6,-4) عبور نماید عبارت است از:",
+    "options": [
+      "y-√7x+4+6√7=0",
+      "y-√7x-47=0",
+      "y-√7x+46=0",
+      "y+√7x-47=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y-√7x+4+6√7=0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 42,
+    "question": "معادله خط مستقیم که از نقاط (-5,0) و (8,-6) میگذرد مساویست به:",
+    "options": [
+      "6x+13y+30=0",
+      "13y+6x+30=0",
+      "13y-6x-30=0",
+      "13y-6x+30=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "6x+13y+30=0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 43,
+    "question": "معادله خط مستقیم که از نقاط (8,-18) و (0,4) میگذرد مساویست به:",
+    "options": [
+      "11x+4y-16=0",
+      "y-7x+40=0",
+      "4y-7x-16=0",
+      "4y+7x+16=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "11x+4y-16=0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 44,
+    "question": "کمیات وضعیه نقطه تنصیف قطعه خط مستقیم که از نقاط (-12,11) و (14,-16) میگذرد, عبارت است از:",
+    "options": [
+      "(1, -2.5)",
+      "(-2/5,1)",
+      "(-5/2,1)",
+      "(5/2,-1)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(1, -2.5)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 45,
+    "question": "معادله خط مستقیم 2√2x+2√2y-50=0 به شکل نورمال آن عبارت است از:",
+    "options": [
+      "xcos45°+ysin45°-12.5=0",
+      "ysin225°-25=0",
+      "xcos45°-25=0",
+      "xcos225°+ysin225°-25=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "xcos45°+ysin45°-12.5=0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 46,
+    "question": "نقطه (-2,12) در کدام یکی از ربع های ذیل واقع است:",
+    "options": [
+      "IV",
+      "I",
+      "III",
+      "II"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "II",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 47,
+    "question": "خط مستقیم x=√3 و خط مستقیم y=√3 با هم:",
+    "options": [
+      "موازی اند",
+      "عمود اند",
+      "مساوی اند",
+      "منطبق اند"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "عمود اند",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 48,
+    "question": "اگر A(6,2), B(2,2) و C(2,6) راس های یک مثلث باشد, پس مثلث در کدام ربع است:",
+    "options": [
+      "I",
+      "II",
+      "IV",
+      "III"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "I",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 49,
+    "question": "فاصله بین خطوط مستقیم موازی x+y-3=0 و x+y-9=0 مساوی است به:",
+    "options": [
+      "2√2",
+      "4√2",
+      "3√2",
+      "6√2"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "3√2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 50,
+    "question": "معادله خط مستقیمی که میل آن m=0 و از نقطه (6,6) بگذرد مساویست به:",
+    "options": [
+      "y = 5",
+      "y = 4",
+      "y = 3",
+      "y = 6"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "y = 6",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 51,
+    "question": "معادله خط مستقیم که از نقاط (8,-18) و (0,4) میگذرد مساویست به:",
+    "options": [
+      "11x + 4y - 16 = 0",
+      "y - 7x + 40 = 0",
+      "4y - 7x - 16 = 0",
+      "4y + 7x + 16 = 0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "11x + 4y - 16 = 0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 52,
+    "question": "اگر A(-5,1), B(2,-6) و C(-1,1) راس های یک مثلث باشد, پس موقعیت مثلث در کدام ربع است:",
+    "options": [
+      "III",
+      "IV",
+      "I",
+      "II و III و IV"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "II و III و IV",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 53,
+    "question": "نقطه (x,-4,5) در کدام یکی از ربع های ذیل واقع است طوریکه x>0 باشد:",
+    "options": [
+      "IV",
+      "III",
+      "I",
+      "II"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "IV (اگر در فضای سه بعدی باشد، اکتانت است)",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 54,
+    "question": "معادله خط مستقیم که از نقطه p(4,3) میگذرد و زاویه میل آن با محور x,30° میباشد, عبارت است از:",
+    "options": [
+      "x - √3y + 3√3 - 4 = 0",
+      "3√3y-3x+4√3-9=0",
+      "√3y-3x+3√3-4=0",
+      "3√3y-4x+4=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x - √3y + 3√3 - 4 = 0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 55,
+    "question": "معادله خط مستقیم که طول نورمال آن 30 واحد, نورمال آن در جهت مثبت محور x زاویه 60° درجه میسازد عبارت است از:",
+    "options": [
+      "x+√3y-30=0",
+      "x+√3y-60=0",
+      "3√3x+y-10=0",
+      "x+y-15=0"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "x+√3y-60=0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 56,
+    "question": "فاصله نقطه p(2,-2) از خط مستقیم 5x-12y-29=0 مساوی است به:",
+    "options": [
+      "5/13",
+      "13/15",
+      "12/15",
+      "15/13"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5/13",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 57,
+    "question": "اگر A(-5,-3), B(5,3), C(-5,3) و D(5,-3) راس های یک شکل هندسی باشد پس کدام یکی از شکل های هندسی ذیل را نشان میدهد:",
+    "options": [
+      "مثلث",
+      "مستطیل",
+      "دایره",
+      "مربع"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "مستطیل",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 58,
+    "question": "معادله خط مستقیم که از نقطه p(-2,4) میگذرد و زاویه میل آن با محور x,60° درجه میباشد عبارت است از:",
+    "options": [
+      "y=√3x+2√3+4",
+      "y=-√3x+4√3",
+      "y=√3x-4√3",
+      "y=√3x-4√3-2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=√3x+2√3+4",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 59,
+    "question": "معادله خط مستقیم که محور x را در 5 و محور y را در -6 قطع می کند, عبارت است از:",
+    "options": [
+      "6x-5y-30=0",
+      "6x+5y-30=0",
+      "6x-5y=0",
+      "6x+5y+30=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "6x-5y-30=0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 60,
+    "question": "نقطه (-5,6) در کدام یکی از ربع های ذیل واقع است:",
+    "options": [
+      "I",
+      "III",
+      "II",
+      "IV"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "II",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 61,
+    "question": "اگر x>0 و y>0 باشد, پس p(x,y) در کدام ربع ذیل واقع است:",
+    "options": [
+      "II",
+      "IV",
+      "I",
+      "III"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "I",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 62,
+    "question": "میل خط مستقیم y=10 مساوی است به:",
+    "options": [
+      "0",
+      "2",
+      "-1",
+      "هیچکدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 63,
+    "question": "معادالت دو خط مستقیم به ترتیب y+x-8=0, y-x+4=0 می باشد, این دو خط مستقیم با هم کدام حالت زیر را دارند:",
+    "options": [
+      "عمود اند",
+      "موازی اند",
+      "منطبق اند",
+      "متقاطع اند"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "عمود اند",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 64,
+    "question": "معادله خط مستقیم که میل آن -4/3 و محور y را در (0, 7/3) قطع کند, عبارت است از:",
+    "options": [
+      "3y+4x-7=0",
+      "3y+3x+7=0",
+      "3y+3x-7=0",
+      "3y-4x-7=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3y+4x-7=0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 65,
+    "question": "میل خطوط مستقیم موازی با محور x عبارت است از:",
+    "options": [
+      "صفر",
+      "منفی است",
+      "مثبت است",
+      "تعریف نشده است"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "صفر",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 66,
+    "question": "معادله خط مستقیم که طول نورمال آن 10 واحد, نورمال آن در جهت مثبت محور x زاویه 45° درجه میسازد, عبارت است از:",
+    "options": [
+      "x+y-10√2=0",
+      "√2x+√2y-12=0",
+      "√2x+√2y+12=0",
+      "√2x-√2y-12=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x+y-10√2=0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 67,
+    "question": "نقطه (0,8) در کدام یکی از ناحیه ذیل واقع است:",
+    "options": [
+      "III",
+      "II",
+      "بالای محور y",
+      "IV"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "بالای محور y",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 68,
+    "question": "فاصله نقطه P(2,1) از خط مستقیم x/2+y/√2=1 مساویست به:",
+    "options": [
+      "√2/3",
+      "√2/8",
+      "3√2/8",
+      "|2-√2| / √(0.25+0.5)"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "|2-√2| / √(0.25+0.5)",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 69,
+    "question": "میل خط مستقیم x=3 مساوی است به:",
+    "options": [
+      "هیچکدام",
+      "یک",
+      "تعریف نشده است",
+      "صفر"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "تعریف نشده است",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 70,
+    "question": "نقطه (10,-6) در کدام یکی از ربع های ذیل قرار دارد:",
+    "options": [
+      "دوم",
+      "سوم",
+      "چهارم",
+      "اول"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "چهارم",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 71,
+    "question": "اگر A(8,4), B(4,8) و C(4,4) راس های یک مثلث باشند, نوعیت مثلث عبارت است از:",
+    "options": [
+      "حاده الزاویه",
+      "قایم الزاویه",
+      "منفرجه الزاویه",
+      "متساوی الاضلاع"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "قایم الزاویه",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 72,
+    "question": "نقطه (2,0) در کدام ناحیه قرار دارد:",
+    "options": [
+      "III",
+      "بالای محور x",
+      "IV",
+      "I"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "بالای محور x",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 73,
+    "question": "معادله خط مستقیم را دریابید که از نقطه (4,3) گذشته و با محور x زاویه 30° را تشکیل دهد:",
+    "options": [
+      "x - √3y + 3√3 - 4 = 0",
+      "y-√3/3x-9-4√3=0",
+      "y-√3-3√3+4",
+      "y-√3/3x-3√3-4=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x - √3y + 3√3 - 4 = 0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 74,
+    "question": "فاصله بین نقاط (8,-7√2) و (4,-6√2) مساوی است به:",
+    "options": [
+      "3√2",
+      "√2",
+      "7√2",
+      "√18"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "√18",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 75,
+    "question": "فاصله نقطه (-1,1) از مستقیم x+y=1 مساوی است به:",
+    "options": [
+      "√2/2",
+      "0",
+      "3√2/2",
+      "2√2/2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "√2/2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 76,
+    "question": "اگر x<0 و y<0 باشد, پس موقعیت نقطه p(x,y) عبارت است از:",
+    "options": [
+      "ناحیه III",
+      "روی محور x",
+      "روی محور y",
+      "ناحیه I"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "ناحیه III",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 77,
+    "question": "مسافه نقطه (3,4) از مبدا کمیات وضعیه مساوی است به:",
+    "options": [
+      "5",
+      "2",
+      "√6",
+      "6"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 78,
+    "question": "رابطه بین خطوط x=-5 و x=5 عبارت است از:",
+    "options": [
+      "مساوی است",
+      "عمود است",
+      "منطبق است",
+      "موازی است"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "موازی است",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 79,
+    "question": "نقطه (0,-5) در کدام یکی از ناحیه های ذیل واقع است:",
+    "options": [
+      "II",
+      "I",
+      "IV",
+      "بالای محور y"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "بالای محور y",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 80,
+    "question": "میل خط مستقیم که از نقاط P(1,√3) و Q(3,4) میگذرد مساوی است به:",
+    "options": [
+      "(4-√3)/2",
+      "m=-1/2",
+      "m=1",
+      "m=-1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(4-√3)/2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 81,
+    "question": "معادله خط مستقیمی که از نقاط P1(-5,4) و P2(7,-2) عبور میکند, عبارت است از:",
+    "options": [
+      "x + 2y - 3 = 0",
+      "2y+3x=0",
+      "2y-3x=0",
+      "x - 2y + 13 = 0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x + 2y - 3 = 0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 82,
+    "question": "معادله خط مستقیم که میل آن 2√7/7 و محور y را در نقطه (0,-3) قطع میکند, عبارت است از:",
+    "options": [
+      "2x - √7y - 3√7 = 0",
+      "2√7y-x+21=0",
+      "2√7y-x-21=0",
+      "√7y-2√7x-21=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2x - √7y - 3√7 = 0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 83,
+    "question": "اگر ارتفاع یک مثلث متساوی االضالع 3cm باشد, طول هر یکی از اضالع آن مساوی است به:",
+    "options": [
+      "2√3",
+      "3√3",
+      "2√2",
+      "3√2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2√3",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 84,
+    "question": "اگر در مثلث ABC اندازه نصف محیط 27cm و اندازه دو ضلع آن به ترتیب 12cm و 18cm باشد, پس طول ضلع سوم آن مساوی است به:",
+    "options": [
+      "24cm",
+      "18cm",
+      "27cm",
+      "36cm"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "24cm",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 85,
+    "question": "کدام یک از مستقیم های ذیل با محور مثبت x زاویه 45° را میسازد:",
+    "options": [
+      "y-x-1=0",
+      "y+x-1=0",
+      "y=x-1",
+      "y=-2x+1"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "y=x-1",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 86,
+    "question": "در هر مثلث قایم الزاویه مربع وتر مساوی است به:",
+    "options": [
+      "مجموع مربعات اضالع قایم",
+      "تفاضل مربعات اضالع قایم",
+      "حاصل تقسیم مربعات اضالع قایم",
+      "حاصل تقسیم اضالع قایم"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "مجموع مربعات اضالع قایم",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 87,
+    "question": "زاویه بین دو مستقیم y=x-7/6 و 7x+y-2=0 چند درجه است:",
+    "options": [
+      "45°",
+      "90°",
+      "0°",
+      "60°"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "90°",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 88,
+    "question": "مجموع خطوطی که یک شکل را احاطه نموده باشد, عبارت است از:",
+    "options": [
+      "محیط",
+      "قطر",
+      "شعاع",
+      "مساحت"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "محیط",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 89,
+    "question": "خط نورمال یک خط مستقیم عبارت از خطی است که از مبدا کمیات وضعیه گذشته و باالی خط مذکور:",
+    "options": [
+      "عمود است",
+      "عمود نیست",
+      "موازی است",
+      "متنافر است"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "عمود است",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 90,
+    "question": "هرگاه مجموعه دو زاویه داخلی یک مثلث مساوی به 110° باشد, زاویه دیگر آن عبارت است از:",
+    "options": [
+      "60°",
+      "70°",
+      "80°",
+      "90°"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "70°",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 91,
+    "question": "اگر 2p محیط مثلث و a,b,c اضالع مثلث باشد, مساحت مثلث عبارت است از:",
+    "options": [
+      "S=√[p(p-a)(p-b)(p-c)]",
+      "S=√[(p-a)(p-b)(p-c)]",
+      "S=√[-p(p-a)(p-b)(p-c)]",
+      "S=√[(a)(p-b)(p-c)]"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "S=√[p(p-a)(p-b)(p-c)]",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 92,
+    "question": "ارتفاع مثلث متساوی االضالع که طول یک ضلع آن 6cm باشد, عبارت است از:",
+    "options": [
+      "0",
+      "2",
+      "3√3",
+      "10"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "3√3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 93,
+    "question": "اگر محیط یک دایره مساوی به 10πcm باشد, شعاع دایره مساوی است به:",
+    "options": [
+      "r=1cm",
+      "r=2cm",
+      "r=4cm",
+      "r=5cm"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "r=5cm",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 94,
+    "question": "اگر شعاع یک دایره 4cm باشد, پس مساحت دایره مساوی است به:",
+    "options": [
+      "4πcm²",
+      "16πcm²",
+      "6πcm²",
+      "56πcm²"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "16πcm²",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 95,
+    "question": "اگر معادله دایره به شکل x²+y²+2λ1x+2λ2y+λ=0 باشد, پس مختصات مرکز دایره عبارت است از:",
+    "options": [
+      "(-λ1,-λ2)",
+      "(-λ2,-λ2)",
+      "(λ2,λ2)",
+      "(λ2,-λ2)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(-λ1,-λ2)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 96,
+    "question": "معادله دایره که مرکز آن (0,-5) و شعاع آن 1 واحد باشد, عبارت است از:",
+    "options": [
+      "x²+y²+10y+24=0",
+      "x²+y²=81",
+      "x²+y²=56",
+      "x²+y²+10y+56=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²+y²+10y+24=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 97,
+    "question": "طول مماس از نقطه P(-6,12) بر دایره x²+y²+6x-10y-14=0 مساوی است به:",
+    "options": [
+      "√33",
+      "√10",
+      "√34",
+      "√38"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "√10",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 98,
+    "question": "معادله دایره که مرکز آن (-1,5) و شعاع آن 7 واحد باشد عبارت است از:",
+    "options": [
+      "x²+y²-2x-10y=0",
+      "x²+y²+2x-10y-23=0",
+      "x²+y²=19",
+      "x²+y²=25"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "x²+y²+2x-10y-23=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 99,
+    "question": "اگر معادله دایره به شکل x²+y²-2x-2y=0 باشد, مختصات مرکز دایره عبارت است از:",
+    "options": [
+      "(1,1)",
+      "(-1,-1)",
+      "(-1,1)",
+      "(1,-1)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(1,1)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 100,
+    "question": "اگر x²+y²-16x-20y+3=0 معادله دایره باشد, طول شعاع دایره مساوی است به:",
+    "options": [
+      "√167",
+      "√161",
+      "√163",
+      "√165"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "√161",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 101,
+    "question": "x²+y²-2x-14y-12=0 معادله دایره است, کمیات وضعیه مرکز این دایره مساوی است به:",
+    "options": [
+      "(-1,-7)",
+      "(1,7)",
+      "(-1,7)",
+      "(1,-7)"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "(1,7)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 102,
+    "question": "محیط دایره که قطر آن 3m باشد, عبارت است از:",
+    "options": [
+      "8.42m",
+      "9.42m",
+      "9.24m",
+      "8.24m"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "9.42m",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 103,
+    "question": "معادله دایره به شکل x²+y²-14x-24y+8=0 میباشد, مختصات مرکز دایره عبارت است از:",
+    "options": [
+      "(7,12)",
+      "(-7,12)",
+      "(7,-12)",
+      "(-7,-12)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(7,12)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 104,
+    "question": "اگر شعاع یک دایره r واحد باشد پس در این طول قوس که در مقابل زاویه مرکزی Θ رادیان قرار دارد مساوی است به:",
+    "options": [
+      "rΘ",
+      "2rΘ/π",
+      "rΘ/2",
+      "4π"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "rΘ",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 105,
+    "question": "معادله دایره که مرکز آن (4,-5) و شعاع آن 7 واحد باشد, عبارت است از:",
+    "options": [
+      "x²+y²-8x+10y-8=0",
+      "x²+y²-8x+10y+8=0",
+      "x²+y²=8",
+      "x²+y²=64"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²+y²-8x+10y-8=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 106,
+    "question": "معادله دایره به شکل 4x²+4y²+32x-24y=0 میباشد, مختصات مرکز دایره عبارت است از:",
+    "options": [
+      "(-4,-3)",
+      "(-4,3)",
+      "(4,3)",
+      "(4,-3)"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "(-4,3)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 107,
+    "question": "6x²+6y²-24x-12y-6=0 معادله دایره است, طول شعاع این دایره مساوی است به:",
+    "options": [
+      "7/√2",
+      "0",
+      "√6",
+      "5/√5"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "√6",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 108,
+    "question": "x²+y²-12x-8y-45=0 معادله دایره است, کمیات وضعیه مرکز دایره عبارت است از:",
+    "options": [
+      "(4,6)",
+      "(-4,6)",
+      "(6,4)",
+      "(-6,4)"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "(6,4)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 109,
+    "question": "اگر شعاع دایره 3πcm باشد, طول قوس مقابل زاویه مرکزی π/9 مساوی است به:",
+    "options": [
+      "π²/3 cm",
+      "4cm",
+      "1/3πcm",
+      "3cm"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "π²/3 cm",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 110,
+    "question": "خط مستقیم y=x-1 دایره x²+y²-4x+4y-4=0 را در چند نقطه قطع میکند:",
+    "options": [
+      "یک نقطه",
+      "دو نقطه",
+      "سه نقطه",
+      "قطع نمیکند"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "دو نقطه",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 111,
+    "question": "معادله خط مستقیم که در نقطه P(4,7) به دایره که مرکز آن S(2,5) است, مماس باشد, عبارت است از:",
+    "options": [
+      "y+x-11=0",
+      "y-x=3",
+      "y-x-4=0",
+      "y-x+4=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y+x-11=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 112,
+    "question": "شعاع یک دایره r=5cm است, طول بزرگترین وتر آن (قطر) مساوی است به:",
+    "options": [
+      "9cm",
+      "11cm",
+      "12cm",
+      "10cm"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "10cm",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 113,
+    "question": "محیط دایره ای با شعاع 5cm عبارت است از:",
+    "options": [
+      "3.140cm",
+      "31.40cm",
+      "3140cm",
+      "3.14cm"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "31.40cm",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 114,
+    "question": "اکر مرکز دایره C(-2,1) و شعاع آن R=2 باشد, پس معادله آن عبارت است از:",
+    "options": [
+      "x²+y²-4x-2y-1=0",
+      "x²+y²-4x-2y+1=0",
+      "x²+y²+4x-2y-1=0",
+      "x²+y²+4x-2y+1=0"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "x²+y²+4x-2y+1=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 115,
+    "question": "معادله x²+y²-4=4 مربوط یکی از منحنی های ذیل است:",
+    "options": [
+      "دایره",
+      "بیضوی",
+      "هایپربوال",
+      "پارابوال"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "دایره",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 116,
+    "question": "اگر C(-4,4) مرکز دایره و P(-10,10) یک نقطه محیط دایره باشد, طول شعاع دایره مساوی است به:",
+    "options": [
+      "6√2",
+      "7√2",
+      "√2",
+      "4√2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "6√2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 117,
+    "question": "از نقطه (1,2) بر دایره (x-1)²+(y+1)²=4 چند مماس رسم می شود:",
+    "options": [
+      "مماس رسم نمیشود",
+      "0",
+      "2",
+      "1"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 118,
+    "question": "طول شعاع دایره x²+y²+2x-14y-12=0 عبارت است از:",
+    "options": [
+      "√61",
+      "√62",
+      "√63",
+      "√65"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "√62",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 119,
+    "question": "طول شعاع دايره 4x²+4y²-8x-16y-40=0 عبارت است از:",
+    "options": [
+      "√15",
+      "√40",
+      "√42",
+      "√41"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "√15",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 120,
+    "question": "اگر C(-2,2) مرکز دایره و P(-4,4) یک نقطه محیط دایره باشد, طول شعاع دایره مساوی است به:",
+    "options": [
+      "2√5",
+      "2√7",
+      "2√3",
+      "2√2"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "2√2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 121,
+    "question": "اگر معادله دایره به شکل x²+y²+8x+12y-10=0 باشد پس طول شعاع این دایره عبارت از:",
+    "options": [
+      "√63",
+      "√65",
+      "√60",
+      "√62"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "√65",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 122,
+    "question": "اگر معادله دایره به شکل x²+y²+2x+12y-10=0 باشد پس مختصات مرکز این دایره عبارت از:",
+    "options": [
+      "(4,6)",
+      "(-4,6)",
+      "(-1,-6)",
+      "(-4,-6)"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "(-1,-6)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 123,
+    "question": "در بیضوی (x-8)²/16+y²/120=1 کمیات وضیعه مرکز مرکز آن عبارت از:",
+    "options": [
+      "(0,8)",
+      "(0,0)",
+      "(3,0)",
+      "(8,0)"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "(8,0)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 124,
+    "question": "طول مماس از نقطه (2,3) به دایره x²+y²=4 عبارت از:",
+    "options": [
+      "3",
+      "√9",
+      "√2",
+      "√3"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "√9 (که مساوی 3 است)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 125,
+    "question": "هرگاه معادله هایپربولا به صورت x²/13-y²/3=1 باشد کمیات وضیعه محراق های آن عبارت از:",
+    "options": [
+      "(0,5),(0,-5)",
+      "(0,2),(0,-2)",
+      "(0,4),(0,-4)",
+      "(4,0),(-4,0)"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "(4,0),(-4,0)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 126,
+    "question": "اگر شعاع دایره 45cm و زاویه مرکزی π/4 باشد طول قوسی را دریابید که مقابل زاویه مرکزی تشکیل میشود:",
+    "options": [
+      "2πcm",
+      "11.25π cm",
+      "2π/4cm",
+      "2π/6cm"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "11.25π cm",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 127,
+    "question": "در معادله x²+4y²=64 محراق های بیضوی عبارت از:",
+    "options": [
+      "F₁(0,-√12),F₂(√12,-√12)",
+      "F₁(0,√12),F₂(√12,-√12)",
+      "F₁(0,√12),F₂(0,-√12)",
+      "F₁(4√3,0),F₂(-4√3,0)"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "F₁(4√3,0),F₂(-4√3,0)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 128,
+    "question": "هرگاه در مثلث ABC نصف محیط 45cm و اندازه دو ضلع آن به ترتیب 24cm و 30cm باشد پس طول ضلع سوم آن مساوی است به:",
+    "options": [
+      "38cm",
+      "34cm",
+      "36cm",
+      "35cm"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "36cm",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 129,
+    "question": "اگر مرکز بیضوی در مبدا کمیات وضعیه طول قطر اطول آن 10 واحد و مختصات محراق های آن F₁(4,0) و F₂(-4,0) باشند تفاضل طول قطرهای آن مساویست به:",
+    "options": [
+      "4 واحد",
+      "2 واحد",
+      "3 واحد",
+      "5 واحد"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "4 واحد",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 130,
+    "question": "اگر C(-2,-2)=c مرکز دایره و P(-8,8)=P یک نقطه محیط دایره باشد طول شعاع دایره:",
+    "options": [
+      "2√34",
+      "7√3",
+      "4√3",
+      "√6"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2√34",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 131,
+    "question": "میل خط مستقیم که از نقاط P₁(1,2) و Q(10,10) میگذرد عبارت از:",
+    "options": [
+      "m=1/4",
+      "m=8/9",
+      "m=1",
+      "m=-1/2"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "m=8/9",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 132,
+    "question": "عن المرکزیت بیضوی که معادله آن به شکل x²/49+y²/13=1 باشد مساوی است به:",
+    "options": [
+      "36/49",
+      "13/49",
+      "6/7",
+      "√88/13"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "6/7",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 133,
+    "question": "میل خط مستقیم که از نقاط P(√3,3) و Q(√3,√3) میگذرد عبارت از:",
+    "options": [
+      "تعریف نشده (خط عمودی)",
+      "m=1/2",
+      "m=-1",
+      "m=-2/√5"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "تعریف نشده (خط عمودی)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 134,
+    "question": "عن المركزيت بیضوی x²/9+y²/22=1 عبارت از:",
+    "options": [
+      "3/4",
+      "√13/6",
+      "√13/√22",
+      "√7/2"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "√13/√22",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 135,
+    "question": "طول مماس از نقطه (7,0) به دایره x²+y²-13=0 مساویست به:",
+    "options": [
+      "6",
+      "5",
+      "2",
+      "3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "6",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 136,
+    "question": "اگر معادله هایپربولا بصورت x²/16-y²/9=1 باشد عين المركزیت آن مساوی است به:",
+    "options": [
+      "5/4",
+      "2/√3",
+      "2/3",
+      "√9/2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5/4",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 137,
+    "question": "کمیات وضعیه نقطه تنصیف خط مستقیم را دریابید که از نقاط (√7,4) و (4,-6) عبور مینماید:",
+    "options": [
+      "((4+√7)/2, -1)",
+      "(39/14,10/5)",
+      "(27/5,16/5)",
+      "(27/5,-16/5)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "((4+√7)/2, -1)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 138,
+    "question": "هرگاه دو مخروط توسط یک مستوی طوری قطع شود که مستوی موازی به محور اصلی مخروط باشد شکل حاصله عبارت است از:",
+    "options": [
+      "دایره",
+      "بیضوی",
+      "پارابولا",
+      "هایپربولا"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "هایپربولا",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 139,
+    "question": "اگر کمیات وضعیه راس پارابولا (1,-6) و کمیات وضعیه محراق آن (1,-3) باشد فاصله بین راس و خط هادی آن عبارت است از:",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "6"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 140,
+    "question": "میل خط مستقیم y=√3 مساوی است به:",
+    "options": [
+      "صفر",
+      "-1",
+      "1",
+      "هیچکدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "صفر",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 141,
+    "question": "معادله خط مستقیم که میل آن 7/3 و محور Y را در (0,-1/3) قطع کند عبارت است از:",
+    "options": [
+      "3y-7x-1=0",
+      "3y-7x+1=0",
+      "3y+7x-1=0",
+      "y-7x-1=0"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "3y-7x+1=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 142,
+    "question": "اگر عن المرکزیت بیضوی 1/3 باشد نسبت بین طول قطر اطول و طول قطر اصغر مساوی است به:",
+    "options": [
+      "3/(2√2)",
+      "3√5/5",
+      "2√5/5",
+      "√8/3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3/(2√2)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 143,
+    "question": "عن المرکزیت بیضوی که معادله آن x²+9y²-4x-18y+4=0 باشد مساوی است به:",
+    "options": [
+      "2√2/3",
+      "√2/3",
+      "2/3",
+      "√2/3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2√2/3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 144,
+    "question": "اگر معادله پارابولا بصورت Y²-2Y-8X+25=0 باشد مختصات محراق پارابولا عبارت است از:",
+    "options": [
+      "F(5,1)",
+      "F(1,5)",
+      "F(-5,1)",
+      "F(3,1)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "F(5,1)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 145,
+    "question": "اگر معادله پارایولا y²=-8x باشد دهن پارابولا بکدام طرف باز است:",
+    "options": [
+      "راست",
+      "چپ",
+      "بالا",
+      "پایین"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "چپ",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 146,
+    "question": "معادله پارابولا بصورت (y-2)²=12(x-1) باشد دهن پارابولا بکدام طرف باز میباشد:",
+    "options": [
+      "بالا",
+      "پایین",
+      "راست",
+      "چپ"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "راست",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 147,
+    "question": "اگر معادله پارابولا به شکل (x-2)²=-12(y-1) باشد معادله خط موجه آن عبارت است از:",
+    "options": [
+      "y=4",
+      "y=1",
+      "y=-2",
+      "y=2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=4",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 148,
+    "question": "راس پارابولا Y²-4X+25=0 عبارت است از:",
+    "options": [
+      "(6.25, 0)",
+      "(4,2)",
+      "(2,4)",
+      "(-2,0)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(6.25, 0)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 149,
+    "question": "اگر معادله بیضوى بشكل x²/100+y²/36=1 باشد مختصات محراق های آنرا دریابید:",
+    "options": [
+      "F(0,8),F'(0,-8)",
+      "F(4,0),F'(-4,0)",
+      "F(8,0),F'(-8,0)",
+      "F(0,4),F'(0,-4)"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "F(8,0),F'(-8,0)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 150,
+    "question": "میل خطوط مستقیم موازی با محور Y عبارت است از:",
+    "options": [
+      "صفر",
+      "منفی است",
+      "مثبت است",
+      "تعریف نشده است"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "تعریف نشده است",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 151,
+    "question": "اگر نقطه (3,4) روی دایره ای به مرکز (0,0) باشد، شعاع دایره چقدر است؟",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "5",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 152,
+    "question": "معادله خطی که از (2,5) می گذرد و موازی محور x است کدام است؟",
+    "options": [
+      "x=2",
+      "y=5",
+      "y=2",
+      "x=5"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "y=5",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 153,
+    "question": "شیب خط 2x + 3y = 6 چقدر است؟",
+    "options": [
+      "2/3",
+      "-2/3",
+      "3/2",
+      "-3/2"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "-2/3",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 154,
+    "question": "مختصات نقطه وسط پاره خط واصل (1,1) و (3,3) چیست؟",
+    "options": [
+      "(1,1)",
+      "(2,2)",
+      "(3,3)",
+      "(4,4)"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "(2,2)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 155,
+    "question": "فاصله نقطه (0,0) تا خط 3x + 4y = 10 چقدر است؟",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "10"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 156,
+    "question": "معادله دایره ای به مرکز (0,0) و شعاع 3 کدام است؟",
+    "options": [
+      "x² + y² = 3",
+      "x² + y² = 6",
+      "x² + y² = 9",
+      "x² + y² = 1"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "x² + y² = 9",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 157,
+    "question": "اگر دو خط موازی باشند، شیب آنها چگونه است؟",
+    "options": [
+      "مساوی است",
+      "قرینه و معکوس است",
+      "مجموعشان صفر است",
+      "حاصلضربشان 1 است"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "مساوی است",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 158,
+    "question": "در مثلث قائم الزاویه، رابطه فیثاغورث کدام است؟",
+    "options": [
+      "a² + b² = c²",
+      "a + b = c",
+      "a² - b² = c²",
+      "a² + b² = 2c"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "a² + b² = c²",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 159,
+    "question": "مجموع زوایای داخلی یک مثلث چقدر است؟",
+    "options": [
+      "90 درجه",
+      "180 درجه",
+      "270 درجه",
+      "360 درجه"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "180 درجه",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 160,
+    "question": "مساحت دایره ای به شعاع r چیست؟",
+    "options": [
+      "2πr",
+      "πr²",
+      "πr",
+      "2πr²"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "πr²",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 161,
+    "question": "حجم کره ای به شعاع r کدام است؟",
+    "options": [
+      "4/3 πr³",
+      "4πr²",
+      "πr²",
+      "2/3 πr³"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "4/3 πr³",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 162,
+    "question": "سینوس 30 درجه چقدر است؟",
+    "options": [
+      "1/2",
+      "√3/2",
+      "1",
+      "0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "1/2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 163,
+    "question": "تانژانت 45 درجه چقدر است؟",
+    "options": [
+      "1",
+      "0",
+      "√3",
+      "1/√3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 164,
+    "question": "لگاریتم 100 در پایه 10 چند است؟",
+    "options": [
+      "1",
+      "2",
+      "10",
+      "100"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 165,
+    "question": "ریشه دوم 144 چند است؟",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "12",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 166,
+    "question": "اگر f(x) = 2x + 1 باشد، f(3) چند است؟",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "7",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 167,
+    "question": "مشتق x² چیست؟",
+    "options": [
+      "x",
+      "2x",
+      "x²",
+      "1"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "2x",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 168,
+    "question": "انتگرال 2x dx چیست؟",
+    "options": [
+      "x² + C",
+      "2x² + C",
+      "x + C",
+      "2 + C"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x² + C",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 169,
+    "question": "حد (1/x) وقتی x به سمت بی نهایت می رود چیست؟",
+    "options": [
+      "0",
+      "1",
+      "بی نهایت",
+      "تعریف نشده"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 170,
+    "question": "حاصلضرب برداری i × j چیست؟",
+    "options": [
+      "k",
+      "-k",
+      "0",
+      "1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "k",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 171,
+    "question": "ماتریس همانی 2x2 کدام است؟",
+    "options": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[1,1]]",
+      "[[0,0],[0,0]]"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "[[1,0],[0,1]]",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 172,
+    "question": "دترمینان ماتریس [[1,2],[3,4]] چقدر است؟",
+    "options": [
+      "-2",
+      "2",
+      "10",
+      "-10"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "-2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 173,
+    "question": "تعداد یال های یک مکعب چند تاست؟",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "6"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "12",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 174,
+    "question": "کدام عدد اول است؟",
+    "options": [
+      "4",
+      "6",
+      "9",
+      "11"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "11",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 175,
+    "question": "بزرگترین مقسوم علیه مشترک 12 و 18 چیست؟",
+    "options": [
+      "2",
+      "3",
+      "6",
+      "12"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "6",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 176,
+    "question": "کچکترین مضرب مشترک 4 و 6 چیست؟",
+    "options": [
+      "12",
+      "24",
+      "2",
+      "10"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "12",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 177,
+    "question": "معادله درجه دوم x² - 4 = 0 چه ریشه هایی دارد؟",
+    "options": [
+      "2, -2",
+      "2, 2",
+      "4, -4",
+      "0, 4"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2, -2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 178,
+    "question": "مجموع ریشه های معادله x² - 5x + 6 = 0 چقدر است؟",
+    "options": [
+      "5",
+      "-5",
+      "6",
+      "-6"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 179,
+    "question": "اگر a=3 و b=4 باشد، طول وتر مثلث قائم الزاویه چقدر است؟",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "12"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 180,
+    "question": "حاصل !5 (فاکتوریل 5) چقدر است؟",
+    "options": [
+      "20",
+      "60",
+      "100",
+      "120"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "120",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 181,
+    "question": "تعداد زیرمجموعه های یک مجموعه 3 عضوی چقدر است؟",
+    "options": [
+      "3",
+      "6",
+      "8",
+      "9"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "8",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 182,
+    "question": "احتمال آمدن عدد 6 در پرتاب یک تاس چقدر است؟",
+    "options": [
+      "1/6",
+      "1/2",
+      "1/3",
+      "1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "1/6",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 183,
+    "question": "میانه اعداد 1, 3, 5, 7, 9 چیست؟",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "25"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "5",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 184,
+    "question": "میانگین اعداد 2, 4, 6 چیست؟",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "12"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "4",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 185,
+    "question": "شیب خط مماس بر منحنی y=x² در نقطه x=1 چقدر است؟",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 186,
+    "question": "دامنه تابع f(x) = √x کدام است؟",
+    "options": [
+      "x > 0",
+      "x ≥ 0",
+      "x < 0",
+      "همه اعداد حقیقی"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "x ≥ 0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 187,
+    "question": "برد تابع sin(x) کدام است؟",
+    "options": [
+      "[-1, 1]",
+      "[0, 1]",
+      "(-∞, ∞)",
+      "[-π, π]"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "[-1, 1]",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 188,
+    "question": "اگر log(x) = 2 باشد (پایه 10)، x چقدر است؟",
+    "options": [
+      "20",
+      "100",
+      "200",
+      "10"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "100",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 189,
+    "question": "معادله خطی که از مبدا می گذرد و شیب 1 دارد چیست؟",
+    "options": [
+      "y = x",
+      "y = x + 1",
+      "y = 2x",
+      "y = 1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y = x",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 190,
+    "question": "فاصله بین دو نقطه (1,1) و (4,5) چقدر است؟",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 191,
+    "question": "شیب خط عمود بر خط y = 2x + 1 چیست؟",
+    "options": [
+      "2",
+      "-2",
+      "1/2",
+      "-1/2"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "-1/2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 192,
+    "question": "راس سهمی y = (x-2)² + 3 کجاست؟",
+    "options": [
+      "(2, 3)",
+      "(-2, 3)",
+      "(2, -3)",
+      "(-2, -3)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(2, 3)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 193,
+    "question": "محور تقارن سهمی y = x² کدام است؟",
+    "options": [
+      "x = 0",
+      "y = 0",
+      "x = 1",
+      "y = 1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x = 0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 194,
+    "question": "کانون سهمی y² = 4x کجاست؟",
+    "options": [
+      "(1, 0)",
+      "(0, 1)",
+      "(4, 0)",
+      "(0, 0)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(1, 0)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 195,
+    "question": "طول قطر مستطیلی با ابعاد 3 و 4 چقدر است؟",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "12"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 196,
+    "question": "مساحت لوزی با قطرهای 6 و 8 چقدر است؟",
+    "options": [
+      "24",
+      "48",
+      "14",
+      "12"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "24",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 197,
+    "question": "حجم استوانه ای به شعاع 2 و ارتفاع 5 چقدر است؟",
+    "options": [
+      "10π",
+      "20π",
+      "40π",
+      "4π"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "20π",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 198,
+    "question": "مساحت جانبی مکعبی به ضلع 2 چقدر است؟",
+    "options": [
+      "4",
+      "8",
+      "16",
+      "24"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "16",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 199,
+    "question": "cos(0) چقدر است؟",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "تعریف نشده"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 200,
+    "question": "sin(90) چقدر است؟",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "1/2"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 201,
+    "question": "اگر بردار A=(1,2) و B=(3,4) باشد، A+B چیست؟",
+    "options": [
+      "(4, 6)",
+      "(2, 2)",
+      "(3, 8)",
+      "(4, 8)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(4, 6)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 202,
+    "question": "طول بردار (3,4) چقدر است؟",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "25"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 203,
+    "question": "ضرب داخلی بردارهای (1,2) و (3,4) چقدر است؟",
+    "options": [
+      "7",
+      "11",
+      "10",
+      "5"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "11",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 204,
+    "question": "زاویه بین دو بردار عمود بر هم چقدر است؟",
+    "options": [
+      "0",
+      "45",
+      "90",
+      "180"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "90",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 205,
+    "question": "کدام تابع زوج است؟",
+    "options": [
+      "x²",
+      "x³",
+      "sin(x)",
+      "x"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 206,
+    "question": "کدام تابع فرد است؟",
+    "options": [
+      "x²",
+      "cos(x)",
+      "x³",
+      "|x|"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "x³",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 207,
+    "question": "معکوس تابع f(x) = x + 2 چیست؟",
+    "options": [
+      "x - 2",
+      "2 - x",
+      "x + 2",
+      "-x - 2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x - 2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 208,
+    "question": "دوره تناوب تابع sin(x) چقدر است؟",
+    "options": [
+      "π",
+      "2π",
+      "π/2",
+      "4π"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "2π",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 209,
+    "question": "مقدار e تقریبا چقدر است؟",
+    "options": [
+      "2.718",
+      "3.141",
+      "1.618",
+      "1.414"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2.718",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 210,
+    "question": "مقدار π تقریبا چقدر است؟",
+    "options": [
+      "3.14",
+      "2.71",
+      "1.41",
+      "1.73"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3.14",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 211,
+    "question": "اگر y = e^x باشد، مشتق آن چیست؟",
+    "options": [
+      "e^x",
+      "xe^(x-1)",
+      "x",
+      "1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "e^x",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 212,
+    "question": "اگر y = ln(x) باشد، مشتق آن چیست؟",
+    "options": [
+      "1/x",
+      "e^x",
+      "x",
+      "1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "1/x",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 213,
+    "question": "تعداد نقاط برخورد y=x و y=x² چقدر است؟",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 214,
+    "question": "جواب نامعادله x > 2 چیست؟",
+    "options": [
+      "(2, ∞)",
+      "[2, ∞)",
+      "(-∞, 2)",
+      "(-∞, 2]"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(2, ∞)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 215,
+    "question": "قدر مطلق -5 چقدر است؟",
+    "options": [
+      "5",
+      "-5",
+      "0",
+      "25"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 216,
+    "question": "نقطه عطف تابع y = x³ کجاست؟",
+    "options": [
+      "(0, 0)",
+      "(1, 1)",
+      "(-1, -1)",
+      "ندارد"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(0, 0)",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 217,
+    "question": "آسیمتوت افقی y = 1/x چیست؟",
+    "options": [
+      "y = 0",
+      "x = 0",
+      "y = 1",
+      "x = 1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y = 0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 218,
+    "question": "آسیمتوت قائم y = 1/(x-1) چیست؟",
+    "options": [
+      "x = 1",
+      "y = 1",
+      "x = 0",
+      "y = 0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x = 1",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 219,
+    "question": "مجموع زوایای خارجی یک چندضلعی محدب چقدر است؟",
+    "options": [
+      "360",
+      "180",
+      "90",
+      "720"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "360",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 220,
+    "question": "تعداد قطرهای یک 4 ضلعی چقدر است؟",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 221,
+    "question": "اگر مساحت مربع 16 باشد، محیط آن چقدر است؟",
+    "options": [
+      "16",
+      "8",
+      "12",
+      "20"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "16",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 222,
+    "question": "اگر محیط مربع 20 باشد، ضلع آن چقدر است؟",
+    "options": [
+      "5",
+      "4",
+      "10",
+      "2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 223,
+    "question": "کوچکترین عدد طبیعی چیست؟",
+    "options": [
+      "1",
+      "0",
+      "-1",
+      "2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 224,
+    "question": "عدد پی (π) عددی است...",
+    "options": [
+      "گنگ",
+      "گویا",
+      "صحیح",
+      "طبیعی"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "گنگ",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 225,
+    "question": "حاصل ضرب دو عدد منفی، عددی است...",
+    "options": [
+      "مثبت",
+      "منفی",
+      "صفر",
+      "تعریف نشده"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "مثبت",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 226,
+    "question": "توان دوم عدد 5 چیست؟",
+    "options": [
+      "25",
+      "10",
+      "5",
+      "125"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "25",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 227,
+    "question": "مکعب عدد 3 چیست؟",
+    "options": [
+      "27",
+      "9",
+      "6",
+      "3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "27",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 228,
+    "question": "حاصل 2 به توان 0 چیست؟",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "-1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 229,
+    "question": "حاصل 0 به توان 5 چیست؟",
+    "options": [
+      "0",
+      "1",
+      "5",
+      "تعریف نشده"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 230,
+    "question": "حاصل تقسیم عدد بر صفر چیست؟",
+    "options": [
+      "تعریف نشده",
+      "0",
+      "1",
+      "بی نهایت"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "تعریف نشده",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 231,
+    "question": "اگر دترمینان ماتریسی صفر باشد، آن ماتریس...",
+    "options": [
+      "معکوس پذیر نیست",
+      "معکوس پذیر است",
+      "همانی است",
+      "صفر است"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "معکوس پذیر نیست",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 232,
+    "question": "ترانهاده ماتریس [[1,2],[3,4]] چیست؟",
+    "options": [
+      "[[1,3],[2,4]]",
+      "[[4,3],[2,1]]",
+      "[[1,2],[3,4]]",
+      "[[-1,-2],[-3,-4]]"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "[[1,3],[2,4]]",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 233,
+    "question": "کدام گزینه یک تابع نمایی است؟",
+    "options": [
+      "2^x",
+      "x^2",
+      "log(x)",
+      "sin(x)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2^x",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 234,
+    "question": "درجه چندجمله ای 3x^5 + 2x^2 + 1 چقدر است؟",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 235,
+    "question": "ضریب x در بسط (x+1)^2 چیست؟",
+    "options": [
+      "2",
+      "1",
+      "0",
+      "3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 236,
+    "question": "تعداد ریشه های حقیقی x^2 + 1 = 0 چقدر است؟",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 237,
+    "question": "اگر f(x) = x و g(x) = x+1 باشد، (fog)(x) چیست؟",
+    "options": [
+      "x+1",
+      "x",
+      "x²+x",
+      "1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x+1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 238,
+    "question": "اگر f(x) = 2x باشد، f^-1(x) چیست؟",
+    "options": [
+      "x/2",
+      "2x",
+      "-2x",
+      "x"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x/2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 239,
+    "question": "مجموع سری هندسی 1 + 1/2 + 1/4 + ... چیست؟",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "1.5"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 240,
+    "question": "جمله nام دنباله حسابی 1, 3, 5, ... چیست؟",
+    "options": [
+      "2n - 1",
+      "2n",
+      "2n + 1",
+      "n"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2n - 1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 241,
+    "question": "فاصله نقطه (3,4,0) از مبدا در فضای سه بعدی چقدر است؟",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "25"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 242,
+    "question": "معادله صفحه xy در فضای سه بعدی چیست؟",
+    "options": [
+      "z = 0",
+      "x = 0",
+      "y = 0",
+      "z = 1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "z = 0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 243,
+    "question": "کدام شکل حجم ندارد؟",
+    "options": [
+      "مربع",
+      "مکعب",
+      "کره",
+      "استوانه"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "مربع",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 244,
+    "question": "تعداد وجه های یک چهاروجهی منتظم چقدر است؟",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "4",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 245,
+    "question": "اگر وتر مثلث قائم الزاویه 10 و یک ضلع 6 باشد، ضلع دیگر چقدر است؟",
+    "options": [
+      "8",
+      "4",
+      "5",
+      "7"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "8",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 246,
+    "question": "sin²(x) + cos²(x) برابر است با...",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "sin(2x)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 247,
+    "question": "اگر tan(x) = 1 باشد، x می تواند چند باشد؟",
+    "options": [
+      "45 درجه",
+      "30 درجه",
+      "60 درجه",
+      "90 درجه"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "45 درجه",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 248,
+    "question": "دامنه تابع y = 1/x چیست؟",
+    "options": [
+      "R - {0}",
+      "R",
+      "x > 0",
+      "x < 0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "R - {0}",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 249,
+    "question": "برد تابع y = x² چیست؟",
+    "options": [
+      "[0, ∞)",
+      "(-∞, ∞)",
+      "(0, ∞)",
+      "R"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "[0, ∞)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 250,
+    "question": "حد sin(x)/x وقتی x به سمت 0 می رود چیست؟",
+    "options": [
+      "1",
+      "0",
+      "بی نهایت",
+      "تعریف نشده"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 251,
+    "question": "معادله خط مستقیم که از نقطه (3,7) میگذرد و با خطی که میل آن -2/3 است موازی باشد:",
+    "options": [
+      "3y+2x-27=0",
+      "2y+3x-23=0",
+      "2y+3x-24=0",
+      "3y+2x-28=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3y+2x-27=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 252,
+    "question": "میل خط مستقیمی که از نقاط P1(√5,3) و P2(2√5,4) میگذرد مساویست به:",
+    "options": [
+      "m=1/√5",
+      "m=1",
+      "m=√5",
+      "m=-√5"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "m=1/√5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 253,
+    "question": "فاصله بین خطوط مستقیم موازی 2x+3y-12=0 و 2x+3y-2=0 مساویست به:",
+    "options": [
+      "2√13",
+      "√13",
+      "10√13/13",
+      "10√13/26"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "10√13/13",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 254,
+    "question": "معادله خط مستقیم که محور x را در (-3,0) و محور y را در (0,5) قطع میکند عبارت است از:",
+    "options": [
+      "5x-3y+15=0",
+      "5x-3y-15=0",
+      "5x+3y-15=0",
+      "5x+3y+15=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5x-3y+15=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 255,
+    "question": "اگر معادله خط مستقیم ax+by+c=0 باشد فاصله خط از مبدا مساویست به:",
+    "options": [
+      "|c|/√(a²+b²)",
+      "|c|/√(ab)",
+      "|ab|/√(a²+b²)",
+      "√(a²+b²)/|c|"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "|c|/√(a²+b²)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 256,
+    "question": "میل خط مستقیم که از نقاط (a,0) و (0,b) میگذرد مساویست به:",
+    "options": [
+      "a/b",
+      "-b/a",
+      "-a/b",
+      "b/a"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "-b/a",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 257,
+    "question": "معادله دایره که مرکز آن (2,3) و شعاع آن 5 واحد باشد عبارت است از:",
+    "options": [
+      "(x-2)²+(y-3)²=25",
+      "(x+2)²+(y+3)²=25",
+      "(x-2)²+(y+3)²=25",
+      "(x+2)²+(y-3)²=25"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(x-2)²+(y-3)²=25",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 258,
+    "question": "طول شعاع دایره x²+y²-6x+8y-11=0 عبارت است از:",
+    "options": [
+      "√56",
+      "√36",
+      "√64",
+      "√100"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "√36",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 259,
+    "question": "مختصات مرکز دایره x²+y²-4x-6y-3=0 عبارت است از:",
+    "options": [
+      "(2,3)",
+      "(-2,-3)",
+      "(2,-3)",
+      "(-2,3)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(2,3)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 260,
+    "question": "معادله خط مستقیمی که میل آن 3/4 و از نقطه (-2,4) میگذرد عبارت است از:",
+    "options": [
+      "3x-4y+22=0",
+      "3x-4y-22=0",
+      "4x-3y+22=0",
+      "4x-3y-22=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3x-4y+22=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 261,
+    "question": "فاصله نقطه (1,1) از خط مستقیم 3x+4y-10=0 مساویست به:",
+    "options": [
+      "1/5",
+      "9/5",
+      "3/5",
+      "7/5"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "3/5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 262,
+    "question": "معادله خط مستقیمی که از نقطه (5,-2) میگذرد و بر خط 2x+3y-6=0 عمود باشد عبارت است از:",
+    "options": [
+      "3x-2y-19=0",
+      "2x-3y-16=0",
+      "3x-2y+19=0",
+      "2x-3y+16=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3x-2y-19=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 263,
+    "question": "میل خط مستقیم 5x-3y+7=0 عبارت است از:",
+    "options": [
+      "5/3",
+      "-3/5",
+      "3/5",
+      "-5/3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5/3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 264,
+    "question": "معادله خط مستقیمی که میل آن 1/2 و محور y را در (0,-3) قطع میکند عبارت است از:",
+    "options": [
+      "x-2y-6=0",
+      "x-2y+6=0",
+      "2x-y-6=0",
+      "2x-y+6=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x-2y-6=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 265,
+    "question": "کمیات وضعیه نقطه تنصیف خط مستقیمی که از نقاط (8,-4) و (2,6) میگذرد عبارت است از:",
+    "options": [
+      "(5,1)",
+      "(5,-1)",
+      "(-5,1)",
+      "(-5,-1)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(5,1)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 266,
+    "question": "اگر دو خط مستقیم موازی باشند شیب آنها:",
+    "options": [
+      "مساوی است",
+      "معکوس است",
+      "منفی یکدیگر است",
+      "هیچکدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "مساوی است",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 267,
+    "question": "معادله خط مستقیم که از نقاط (-1,3) و (2,-3) میگذرد عبارت است از:",
+    "options": [
+      "2x-y+1=0",
+      "2x+y-1=0",
+      "2x+y+1=0",
+      "2x-y-1=0"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "2x+y-1=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 268,
+    "question": "فاصله بین نقاط (-2,3) و (4,-3) مساویست به:",
+    "options": [
+      "6√2",
+      "√72",
+      "2√5",
+      "3√5"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "6√2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 269,
+    "question": "معادله دایره که قطر آن از نقاط (1,3) و (5,1) میگذرد عبارت است از:",
+    "options": [
+      "(x-3)²+(y-2)²=5",
+      "(x-3)²+(y-2)²=20",
+      "(x+3)²+(y+2)²=5",
+      "(x+3)²+(y+2)²=20"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(x-3)²+(y-2)²=5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 270,
+    "question": "معادله خط مستقیم که از نقطه (3,4) میگذرد و زاویه 45° با محور x میسازد عبارت است از:",
+    "options": [
+      "y=x+1",
+      "y=x-1",
+      "y=-x+7",
+      "y=-x+5"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=x+1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 271,
+    "question": "میل خط مستقیم 7x+2y-14=0 عبارت است از:",
+    "options": [
+      "-7/2",
+      "7/2",
+      "-2/7",
+      "2/7"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "-7/2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 272,
+    "question": "معادله خط مستقیمی که میل آن -1/3 و محور y را در (0,2) قطع میکند عبارت است از:",
+    "options": [
+      "x+3y-6=0",
+      "x-3y-6=0",
+      "x+3y+6=0",
+      "x-3y+6=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x+3y-6=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 273,
+    "question": "فاصله نقطه (4,5) از خط مستقیم 12x-5y-3=0 مساویست به:",
+    "options": [
+      "7/13",
+      "20/13",
+      "10/13",
+      "12/13"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "20/13",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 274,
+    "question": "معادله دایره با شعاع 3 و مرکز (-2,1) عبارت است از:",
+    "options": [
+      "x²+y²+4x-2y-4=0",
+      "x²+y²-4x+2y-4=0",
+      "x²+y²+4x-2y+4=0",
+      "x²+y²-4x+2y+4=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²+y²+4x-2y-4=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 275,
+    "question": "نقطه تقاطع خطوط y=2x+1 و y=-x+4 عبارت است از:",
+    "options": [
+      "(1,3)",
+      "(2,5)",
+      "(-1,1)",
+      "(0,1)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(1,3)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 276,
+    "question": "معادله خط مستقیم که از نقاط (0,0) و (3,4) میگذرد عبارت است از:",
+    "options": [
+      "4x-3y=0",
+      "3x-4y=0",
+      "4x+3y=0",
+      "3x+4y=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "4x-3y=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 277,
+    "question": "کمیات وضعیه محراقهای بیضوی x²/25+y²/16=1 عبارت است از:",
+    "options": [
+      "(±3,0)",
+      "(0,±3)",
+      "(±5,0)",
+      "(0,±5)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(±3,0)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 278,
+    "question": "معادله خط مستقیمی که میل آن 2 و از نقطه (1,-3) میگذرد عبارت است از:",
+    "options": [
+      "2x-y-5=0",
+      "2x-y+5=0",
+      "2x+y-5=0",
+      "2x+y+5=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2x-y-5=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 279,
+    "question": "فاصله نقطه (-2,-1) از خط مستقیم x-2y+5=0 مساویست به:",
+    "options": [
+      "2√5/5",
+      "√5",
+      "6√5/5",
+      "8√5/5"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "√5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 280,
+    "question": "نقطه (3,2) در خط مستقیم 2x-y-4=0:",
+    "options": [
+      "روی خط است",
+      "بالای خط است",
+      "پایین خط است",
+      "خط را قطع نمیکند"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "روی خط است",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 281,
+    "question": "معادله بیضوی که محور اطول آن 10 و محور اصغر آن 6 باشد عبارت است از:",
+    "options": [
+      "x²/25+y²/9=1",
+      "x²/9+y²/25=1",
+      "x²/100+y²/36=1",
+      "x²/36+y²/100=1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²/25+y²/9=1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 282,
+    "question": "معادله خط مستقیم که بر خط 3x-4y=12 عمود باشد و از مبدا میگذرد عبارت است از:",
+    "options": [
+      "4x+3y=0",
+      "3x+4y=0",
+      "4x-3y=0",
+      "3x-4y=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "4x+3y=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 283,
+    "question": "میل خط مستقیم 6x-2y+8=0 عبارت است از:",
+    "options": [
+      "3",
+      "-3",
+      "1/3",
+      "-1/3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 284,
+    "question": "معادله خط مستقیم که محور x را در 4 قطع میکند و موازی محور y است عبارت است از:",
+    "options": [
+      "x=4",
+      "y=4",
+      "x=-4",
+      "y=-4"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x=4",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 285,
+    "question": "کمیات وضعیه نقطهای که خط y=2x+1 محور x را قطع میکند عبارت است از:",
+    "options": [
+      "(-1/2,0)",
+      "(1/2,0)",
+      "(0,1)",
+      "(1,0)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(-1/2,0)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 286,
+    "question": "فاصله نقطه (0,0) از خط مستقیم 3x+4y-25=0 مساویست به:",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "25"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 287,
+    "question": "معادله خط مستقیمی که از نقاط (2,1) و (2,5) میگذرد عبارت است از:",
+    "options": [
+      "x=2",
+      "y=2",
+      "x=-2",
+      "y=-2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x=2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 288,
+    "question": "معادله دایره با قطر AB که A(1,1) و B(3,5) عبارت است از:",
+    "options": [
+      "(x-2)²+(y-3)²=5",
+      "(x-2)²+(y-3)²=10",
+      "(x-2)²+(y-3)²=20",
+      "(x+2)²+(y+3)²=5"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(x-2)²+(y-3)²=5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 289,
+    "question": "میل خط مستقیمی که زاویه 30° با محور x میسازد عبارت است از:",
+    "options": [
+      "1/√3",
+      "√3",
+      "1",
+      "√3/3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "1/√3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 290,
+    "question": "معادله خط مستقیمی که میل آن 0 باشد عبارت است از:",
+    "options": [
+      "y=k",
+      "x=k",
+      "y=x",
+      "y=-x"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=k",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 291,
+    "question": "نقطه تقاطع خطوط x+y=5 و x-y=1 عبارت است از:",
+    "options": [
+      "(3,2)",
+      "(2,3)",
+      "(4,1)",
+      "(1,4)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(3,2)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 292,
+    "question": "معادله خط مستقیم که از نقطه (4,-3) میگذرد و بر خط 5x-2y+6=0 عمود باشد عبارت است از:",
+    "options": [
+      "2x+5y+7=0",
+      "2x+5y-7=0",
+      "5x-2y-7=0",
+      "5x-2y+7=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2x+5y+7=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 293,
+    "question": "کمیات وضعیه راس پارابولا y²-4y-12x+16=0 عبارت است از:",
+    "options": [
+      "(1,2)",
+      "(2,1)",
+      "(-1,2)",
+      "(1,-2)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(1,2)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 294,
+    "question": "معادله خط مستقیم که از نقطه (1,1) میگذرد و زاویه 135° با محور x میسازد عبارت است از:",
+    "options": [
+      "x+y-2=0",
+      "x-y=0",
+      "x+y+2=0",
+      "x-y+2=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x+y-2=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 295,
+    "question": "فاصله نقطه (2,-3) از خط x-2y-3=0 مساویست به:",
+    "options": [
+      "√5",
+      "2√5/5",
+      "7√5/5",
+      "9√5/5"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "√5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 296,
+    "question": "معادله دایره که مرکز آن (0,0) و شعاع آن 7 واحد باشد عبارت است از:",
+    "options": [
+      "x²+y²=49",
+      "x²+y²=7",
+      "x²+y²=14",
+      "x²+y²=√49"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²+y²=49",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 297,
+    "question": "میل خط مستقیم که از نقاط (a,b) و (-a,-b) میگذرد مساویست به:",
+    "options": [
+      "b/a",
+      "-b/a",
+      "a/b",
+      "-a/b"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "b/a",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 298,
+    "question": "معادله خط مستقیم که میل آن تعریف نشده است و از نقطه (3,5) میگذرد عبارت است از:",
+    "options": [
+      "x=3",
+      "y=5",
+      "x=5",
+      "y=3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x=3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 299,
+    "question": "معادله خط مستقیمی که میل آن 1/4 و محور y را در (0,3) قطع میکند عبارت است از:",
+    "options": [
+      "x-4y+12=0",
+      "x-4y-12=0",
+      "4x-y+12=0",
+      "4x-y-12=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x-4y+12=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 300,
+    "question": "نقطه (4,6) نسبت به خط 2x+3y-26=0:",
+    "options": [
+      "روی خط است",
+      "پایین خط است",
+      "بالای خط است",
+      "هیچکدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "روی خط است",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 301,
+    "question": "معادله خط مستقیم که با خط 3x-4y+2=0 موازی باشد و فاصله آن 2 واحد باشد عبارت است از:",
+    "options": [
+      "3x-4y-12=0",
+      "3x-4y+12=0",
+      "3x-4y+18=0",
+      "3x-4y-18=0"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "3x-4y+12=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 302,
+    "question": "کمیات وضعیه نقطه تقسیم خط PQ که P(2,3) و Q(8,9) و نقطه تقسیم داخلی به نسبت 2:1 عبارت است از:",
+    "options": [
+      "(6,7)",
+      "(14/3,7)",
+      "(6,5)",
+      "(4,5)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(6,7)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 303,
+    "question": "معادله بیضوی که اضالاع آن 20 و 12 باشند عبارت است از:",
+    "options": [
+      "x²/100+y²/36=1",
+      "x²/36+y²/100=1",
+      "x²/144+y²/400=1",
+      "x²/400+y²/144=1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²/100+y²/36=1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 304,
+    "question": "فاصله خط 2x-3y+6=0 از مبدا کمیات وضعیه مساویست به:",
+    "options": [
+      "6√13/13",
+      "12√13/13",
+      "18√13/13",
+      "24√13/13"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "6√13/13",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 305,
+    "question": "معادله خط مستقیم که از نقطه (-1,2) میگذرد و بر خط 4x+y-1=0 عمود باشد عبارت است از:",
+    "options": [
+      "x-4y+9=0",
+      "x-4y-9=0",
+      "4x+y-9=0",
+      "4x+y+9=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x-4y+9=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 306,
+    "question": "نقطه تقاطع خطوط 3x+2y-6=0 و x-y+3=0 عبارت است از:",
+    "options": [
+      "(0,3)",
+      "(3,0)",
+      "(1,2)",
+      "(2,1)"    ],
+    "correctOption": 1,
+    "correctAnswer": "(0,3)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 307,
+    "question": "معادله خط مستقیمی که از نقطه (5,0) میگذرد و زاویه 60° با محور x میسازد عبارت است از:",
+    "options": [
+      "√3x-y-5√3=0",
+      "√3x+y-5√3=0",
+      "x-√3y-5=0",
+      "x+√3y-5=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "√3x-y-5√3=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 308,
+    "question": "کمیات وضعیه مرکز دایره x²+y²-10x-14y-7=0 عبارت است از:",
+    "options": [
+      "(5,7)",
+      "(-5,-7)",
+      "(5,-7)",
+      "(-5,7)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(5,7)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 309,
+    "question": "معادله خط مستقیم که محور x را در 2 و محور y را در 3 قطع میکند عبارت است از:",
+    "options": [
+      "3x+2y-6=0",
+      "3x+2y+6=0",
+      "2x+3y-6=0",
+      "2x+3y+6=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3x+2y-6=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 310,
+    "question": "فاصله بین خطوط 3x-4y+1=0 و 6x-8y=0 مساویست به:",
+    "options": [
+      "3/5",
+      "1/5",
+      "2/5",
+      "4/5"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "1/5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 311,
+    "question": "معادله دایره که مرکز آن (1,-2) و شعاع آن 3 واحد باشد عبارت است از:",
+    "options": [
+      "(x-1)²+(y+2)²=9",
+      "(x+1)²+(y-2)²=9",
+      "(x-1)²+(y-2)²=9",
+      "(x+1)²+(y+2)²=9"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(x-1)²+(y+2)²=9",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 312,
+    "question": "میل خط مستقیم 9x+3y-12=0 عبارت است از:",
+    "options": [
+      "-3",
+      "3",
+      "-1/3",
+      "1/3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "-3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 313,
+    "question": "معادله خط مستقیم که از نقاط (4,-1) و (2,3) میگذرد عبارت است از:",
+    "options": [
+      "2x+y-7=0",
+      "2x-y-7=0",
+      "2x+y+7=0",
+      "2x-y+7=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2x+y-7=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 314,
+    "question": "نقطه تقاطع خطوط y=3x-2 و y=-x+6 عبارت است از:",
+    "options": [
+      "(2,4)",
+      "(1,3)",
+      "(3,2)",
+      "(4,1)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(2,4)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 315,
+    "question": "کمیات وضعیه نقطه تنصیف خط که از A(1,5) و B(9,3) میگذرد عبارت است از:",
+    "options": [
+      "(5,4)",
+      "(4,5)",
+      "(3,4)",
+      "(4,3)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(5,4)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 316,
+    "question": "معادله خط مستقیم که میل آن 1 و از نقطه (0,0) میگذرد عبارت است از:",
+    "options": [
+      "y=x",
+      "y=-x",
+      "x=0",
+      "y=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=x",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 317,
+    "question": "فاصله نقطه (-1,2) از خط 3x-4y-4=0 مساویست به:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 318,
+    "question": "معادله دایره که قطر آن از (0,0) و (6,8) میگذرد عبارت است از:",
+    "options": [
+      "(x-3)²+(y-4)²=25",
+      "(x-3)²+(y-4)²=100",
+      "(x+3)²+(y+4)²=25",
+      "(x+3)²+(y+4)²=100"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(x-3)²+(y-4)²=25",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 319,
+    "question": "معادله خط مستقیم که موازی محور x باشد عبارت است از:",
+    "options": [
+      "y=c",
+      "x=c",
+      "y=-x",
+      "y=x"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=c",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 320,
+    "question": "میل خط مستقیم که از نقاط (5,2) و (5,8) میگذرد عبارت است از:",
+    "options": [
+      "تعریف نشده",
+      "0",
+      "1",
+      "-1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "تعریف نشده",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 321,
+    "question": "معادله خط مستقیم که بر خط y=x عمود باشد و از (2,3) میگذرد عبارت است از:",
+    "options": [
+      "x+y-5=0",
+      "x-y-5=0",
+      "x+y+5=0",
+      "x-y+5=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x+y-5=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 322,
+    "question": "کمیات وضعیه نقطهای که خط 2x+3y-12=0 محور y را قطع میکند عبارت است از:",
+    "options": [
+      "(0,4)",
+      "(4,0)",
+      "(0,-4)",
+      "(-4,0)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(0,4)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 323,
+    "question": "معادله دایره با شعاع 5 که مرکز آن روی محور x باشد عبارت است از:",
+    "options": [
+      "(x-a)²+y²=25",
+      "x²+(y-a)²=25",
+      "(x-5)²+y²=1",
+      "x²+(y-5)²=1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(x-a)²+y²=25",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 324,
+    "question": "نقطه تقاطع خط y=2 و محور y عبارت است از:",
+    "options": [
+      "(0,2)",
+      "(2,0)",
+      "(0,-2)",
+      "(-2,0)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(0,2)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 325,
+    "question": "معادله خط مستقیمی که میل آن √3 و محور y را در (0,1) قطع میکند عبارت است از:",
+    "options": [
+      "√3x-y+1=0",
+      "√3x-y-1=0",
+      "√3x+y-1=0",
+      "√3x+y+1=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "√3x-y+1=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 326,
+    "question": "فاصله نقطه (3,4) از خط 0=y عبارت است از:",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "7"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "4",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 327,
+    "question": "معادله دایره که مرکز آن (2,-1) و شعاع آن 4 واحد باشد عبارت است از:",
+    "options": [
+      "x²+y²-4x+2y-11=0",
+      "x²+y²-4x+2y+11=0",
+      "x²+y²+4x-2y-11=0",
+      "x²+y²+4x-2y+11=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²+y²-4x+2y-11=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 328,
+    "question": "میل خط مستقیم که زاویه 120° با محور x میسازد عبارت است از:",
+    "options": [
+      "-√3",
+      "√3",
+      "-1/√3",
+      "1/√3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "-√3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 329,
+    "question": "کمیات وضعیه نقطهای که خط y=x محور x را قطع میکند عبارت است از:",
+    "options": [
+      "(0,0)",
+      "(1,0)",
+      "(0,1)",
+      "(1,1)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(0,0)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 330,
+    "question": "معادله خط مستقیم که از (1,1) میگذرد و با خط 2x+y=3 موازی باشد عبارت است از:",
+    "options": [
+      "2x+y-3=0",
+      "2x+y+3=0",
+      "2x-y-3=0",
+      "2x-y+3=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2x+y-3=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 331,
+    "question": "فاصله خط 5x-12y+3=0 از مبدا کمیات وضعیه مساویست به:",
+    "options": [
+      "3/13",
+      "1/13",
+      "5/13",
+      "12/13"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3/13",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 332,
+    "question": "معادله دایره که مرکز آن (0,0) و از نقطه (3,4) میگذرد عبارت است از:",
+    "options": [
+      "x²+y²=25",
+      "x²+y²=9",
+      "x²+y²=16",
+      "x²+y²=7"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²+y²=25",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 333,
+    "question": "معادله خط مستقیم که محور x را در (5,0) و محور y را در (0,-3) قطع میکند عبارت است از:",
+    "options": [
+      "3x-5y-15=0",
+      "3x-5y+15=0",
+      "3x+5y-15=0",
+      "3x+5y+15=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3x-5y-15=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 334,
+    "question": "میل خط مستقیم که از (1,2) و (4,8) میگذرد عبارت است از:",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 335,
+    "question": "کمیات وضعیه نقطه تقسیم خط PQ که P(3,7) و Q(9,1) و نسبت 1:2 عبارت است از:",
+    "options": [
+      "(5,5)",
+      "(6,6)",
+      "(4,4)",
+      "(7,7)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(5,5)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 336,
+    "question": "معادله خط مستقیمی که میل آن -1/2 و از نقطه (-4,6) میگذرد عبارت است از:",
+    "options": [
+      "x+2y-8=0",
+      "x+2y+8=0",
+      "x-2y-8=0",
+      "x-2y+8=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x+2y-8=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 337,
+    "question": "معادله دایره که مرکز آن (-3,4) و شعاع آن 2 واحد باشد عبارت است از:",
+    "options": [
+      "(x+3)²+(y-4)²=4",
+      "(x-3)²+(y+4)²=4",
+      "(x+3)²+(y+4)²=4",
+      "(x-3)²+(y-4)²=4"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(x+3)²+(y-4)²=4",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 338,
+    "question": "فاصله نقطه (6,8) از خط 3x+4y-50=0 مساویست به:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 339,
+    "question": "معادله خط مستقیم که موازی محور y باشد عبارت است از:",
+    "options": [
+      "x=c",
+      "y=c",
+      "y=-x",
+      "y=x"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x=c",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 340,
+    "question": "نقطه تقاطع خطوط 4x-3y-12=0 و x=3 عبارت است از:",
+    "options": [
+      "(3,0)",
+      "(0,3)",
+      "(3,3)",
+      "(0,0)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(3,0)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+    {
+    "id": 341,
+    "question": "معادله خط مستقیم که از نقطه (-2,-3) میگذرد و زاویه 45° با محور x میسازد عبارت است از:",
+    "options": [
+      "x-y-1=0",
+      "x-y+1=0",
+      "x+y+1=0",
+      "x+y-1=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x-y-1=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 342,
+    "question": "کمیات وضعیه نقطهای که خط 3x-2y=6 محور x را قطع میکند عبارت است از:",
+    "options": [
+      "(2,0)",
+      "(0,2)",
+      "(0,-3)",
+      "(-3,0)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(2,0)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 343,
+    "question": "معادله دایره که مرکز آن (4,-3) و شعاع آن 1 واحد باشد عبارت است از:",
+    "options": [
+      "(x-4)²+(y+3)²=1",
+      "(x+4)²+(y-3)²=1",
+      "(x-4)²+(y-3)²=1",
+      "(x+4)²+(y+3)²=1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(x-4)²+(y+3)²=1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 344,
+    "question": "میل خط مستقیم که از (0,3) و (4,0) میگذرد عبارت است از:",
+    "options": [
+      "-3/4",
+      "3/4",
+      "-4/3",
+      "4/3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "-3/4",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 345,
+    "question": "معادله خط مستقیمی که میل آن √3 و محور y را در (0,-2) قطع میکند عبارت است از:",
+    "options": [
+      "√3x-y-2=0",
+      "√3x-y+2=0",
+      "√3x+y-2=0",
+      "√3x+y+2=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "√3x-y-2=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 346,
+    "question": "فاصله نقطه (a,0) از خط x=a عبارت است از:",
+    "options": [
+      "0",
+      "a",
+      "2a",
+      "a²"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 347,
+    "question": "معادله خط مستقیمی که میل آن -2 و از نقطه (1,3) میگذرد عبارت است از:",
+    "options": [
+      "2x+y-5=0",
+      "2x+y+5=0",
+      "2x-y-5=0",
+      "2x-y+5=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2x+y-5=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 348,
+    "question": "کمیات وضعیه نقطه تنصیف خط که از (-3,5) و (7,-1) میگذرد عبارت است از:",
+    "options": [
+      "(2,2)",
+      "(3,3)",
+      "(1,1)",
+      "(4,4)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(2,2)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 349,
+    "question": "معادله دایره که مرکز آن (0,0) و شعاع آن 6 واحد باشد عبارت است از:",
+    "options": [
+      "x²+y²=36",
+      "x²+y²=6",
+      "x²+y²=12",
+      "x²+y²=18"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²+y²=36",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 350,
+    "question": "معادله خط مستقیم که محور x را در (-2,0) قطع میکند و موازی محور y است عبارت است از:",
+    "options": [
+      "x=-2",
+      "y=-2",
+      "x=2",
+      "y=2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x=-2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 351,
+    "question": "معادله خط مستقیم که بر خط 3x-2y+5=0 عمود باشد و از (0,0) میگذرد عبارت است از:",
+    "options": [
+      "2x+3y=0",
+      "3x+2y=0",
+      "2x-3y=0",
+      "3x-2y=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2x+3y=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 352,
+    "question": "فاصله خط x+y-2=0 از مبدا کمیات وضعیه مساویست به:",
+    "options": [
+      "√2",
+      "2√2",
+      "√2/2",
+      "2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "√2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 353,
+    "question": "معادله دایره که از نقاط (1,0)، (0,1)، و (0,0) میگذرد عبارت است از:",
+    "options": [
+      "x²+y²-x-y=0",
+      "x²+y²+x+y=0",
+      "x²+y²-x+y=0",
+      "x²+y²+x-y=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²+y²-x-y=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 354,
+    "question": "نقطه تقاطع خطوط x=4 و y=3 عبارت است از:",
+    "options": [
+      "(4,3)",
+      "(3,4)",
+      "(4,0)",
+      "(0,3)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(4,3)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 355,
+    "question": "معادله خط مستقیم که از (2,0) میگذرد و زاویه 60° با محور x میسازد عبارت است از:",
+    "options": [
+      "√3x-y-2√3=0",
+      "√3x-y+2√3=0",
+      "√3x+y-2√3=0",
+      "√3x+y+2√3=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "√3x-y-2√3=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 356,
+    "question": "کمیات وضعیه نقطهای که خط 2x-y=4 محور y را قطع میکند عبارت است از:",
+    "options": [
+      "(0,-4)",
+      "(4,0)",
+      "(0,4)",
+      "(-4,0)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(0,-4)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 357,
+    "question": "میل خط مستقیم که موازی خط y=3x+2 باشد عبارت است از:",
+    "options": [
+      "3",
+      "-3",
+      "1/3",
+      "-1/3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 358,
+    "question": "معادله دایره که مرکز آن (-2,-3) و شعاع آن 5 واحد باشد عبارت است از:",
+    "options": [
+      "(x+2)²+(y+3)²=25",
+      "(x-2)²+(y-3)²=25",
+      "(x+2)²+(y-3)²=25",
+      "(x-2)²+(y+3)²=25"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(x+2)²+(y+3)²=25",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 359,
+    "question": "فاصله نقطه (0,0) از خط 5x-12y+13=0 مساویست به:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 360,
+    "question": "معادله خط مستقیم که میل آن 0 و از نقطه (5,3) میگذرد عبارت است از:",
+    "options": [
+      "y=3",
+      "y=5",
+      "x=3",
+      "x=5"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 361,
+    "question": "معادله خط مستقیم که میل آن 2/3 و از نقطه (3,1) میگذرد:",
+    "options": [
+      "2x-3y-3=0",
+      "2x-3y+3=0",
+      "3x-2y-7=0",
+      "3x-2y+7=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2x-3y-3=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 362,
+    "question": "فاصله بین نقاط (5,12) و (0,0) عبارت است از:",
+    "options": [
+      "13",
+      "5",
+      "12",
+      "17"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "13",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 363,
+    "question": "کمیات وضعیه محراقهای بیضوی x²/9+y²/4=1 عبارت است از:",
+    "options": [
+      "(±√5,0)",
+      "(0,±√5)",
+      "(±3,0)",
+      "(0,±3)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(±√5,0)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 364,
+    "question": "معادله خط مستقیم که از (0,0) و (-1,1) میگذرد عبارت است از:",
+    "options": [
+      "y=-x",
+      "y=x",
+      "y=x+1",
+      "y=-x-1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=-x",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 365,
+    "question": "میل خط مستقیمی که از P(2,5) و Q(7,15) میگذرد مساویست به:",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "1/2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 366,
+    "question": "معادله دایره که مرکز آن (3,0) و شعاع آن 2 واحد باشد عبارت است از:",
+    "options": [
+      "(x-3)²+y²=4",
+      "(x+3)²+y²=4",
+      "(x-3)²+y²=2",
+      "(x+3)²+y²=2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(x-3)²+y²=4",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 367,
+    "question": "معادله خط مستقیمی که میل آن 5/2 و محور y را در -1 قطع میکند عبارت است از:",
+    "options": [
+      "5x-2y-2=0",
+      "5x-2y+2=0",
+      "2x-5y-2=0",
+      "2x-5y+2=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5x-2y-2=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 368,
+    "question": "فاصله نقطه (3,0) از خط x=0 عبارت است از:",
+    "options": [
+      "3",
+      "0",
+      "6",
+      "1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 369,
+    "question": "معادله خط مستقیم که محور x را در (4,0) قطع میکند و موازی محور y است عبارت است از:",
+    "options": [
+      "x=4",
+      "y=4",
+      "x=-4",
+      "y=-4"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x=4",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 370,
+    "question": "نقطه میانی خط که از (2,8) و (8,2) میگذرد عبارت است از:",
+    "options": [
+      "(5,5)",
+      "(8,8)",
+      "(2,2)",
+      "(3,3)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(5,5)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 371,
+    "question": "معادله خط مستقیم که میل آن 3/5 و از (0,0) میگذرد عبارت است از:",
+    "options": [
+      "3x-5y=0",
+      "3x+5y=0",
+      "5x-3y=0",
+      "5x+3y=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3x-5y=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 372,
+    "question": "شعاع دایره x²+y²+4x-6y-3=0 عبارت است از:",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "4",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 373,
+    "question": "مرکز دایره x²+y²-8x+4y+11=0 عبارت است از:",
+    "options": [
+      "(4,-2)",
+      "(-4,2)",
+      "(4,2)",
+      "(-4,-2)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(4,-2)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 374,
+    "question": "معادله بیضوی با مرکز (0,0) و محراقهای (±2,0) و a=3 عبارت است از:",
+    "options": [
+      "x²/9+y²/5=1",
+      "x²/5+y²/9=1",
+      "x²/4+y²/9=1",
+      "x²/9+y²/4=1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²/9+y²/5=1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 375,
+    "question": "معادله پارابولا با رأس (0,0) و محراق (0,1) عبارت است از:",
+    "options": [
+      "x²=4y",
+      "y²=4x",
+      "x²=2y",
+      "y²=2x"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²=4y",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 376,
+    "question": "معادله خط مستقیم که از نقاط (1,0) و (0,-2) میگذرد عبارت است از:",
+    "options": [
+      "2x-y-2=0",
+      "2x+y-2=0",
+      "2x-y+2=0",
+      "2x+y+2=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2x-y-2=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 377,
+    "question": "فاصله نقطه (2,2) از خط x+y-4=0 مساویست به:",
+    "options": [
+      "0",
+      "√2",
+      "2√2",
+      "√2/2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 378,
+    "question": "معادله دایره که قطر آن از (2,1) و (8,9) میگذرد عبارت است از:",
+    "options": [
+      "(x-5)²+(y-5)²=25",
+      "(x-5)²+(y-5)²=50",
+      "(x+5)²+(y+5)²=25",
+      "(x+5)²+(y+5)²=50"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(x-5)²+(y-5)²=25",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 379,
+    "question": "میل خط مستقیم که از (a,0) و (0,-a) میگذرد عبارت است از:",
+    "options": [
+      "1",
+      "-1",
+      "a",
+      "-a"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 380,
+    "question": "معادله خط مستقیمی که میل آن -3/4 و عرض از مبدا 2 عبارت است از:",
+    "options": [
+      "3x+4y-8=0",
+      "3x+4y+8=0",
+      "3x-4y-8=0",
+      "3x-4y+8=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3x+4y-8=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 381,
+    "question": "کمیات وضعیه نقطهای که خط x+y-5=0 محور x را قطع میکند عبارت است از:",
+    "options": [
+      "(5,0)",
+      "(0,5)",
+      "(-5,0)",
+      "(0,-5)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(5,0)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 382,
+    "question": "فاصله خط 12x-5y=0 از مبدا کمیات وضعیه مساویست به:",
+    "options": [
+      "0",
+      "12",
+      "5",
+      "13"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 383,
+    "question": "معادله خط مستقیم که بر خط x-y+1=0 عمود باشد و از (0,0) میگذرد عبارت است از:",
+    "options": [
+      "x+y=0",
+      "x-y=0",
+      "y=2x",
+      "y=x/2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x+y=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 384,
+    "question": "نقطه تقاطع خطوط 2x-y=0 و x+y-3=0 عبارت است از:",
+    "options": [
+      "(1,2)",
+      "(2,1)",
+      "(1,1)",
+      "(2,2)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(1,2)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 385,
+    "question": "معادله دایره با مرکز (1,1) و از نقطه (4,5) عبارت است از:",
+    "options": [
+      "(x-1)²+(y-1)²=25",
+      "(x-1)²+(y-1)²=16",
+      "(x+1)²+(y+1)²=25",
+      "(x+1)²+(y+1)²=16"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(x-1)²+(y-1)²=25",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 386,
+    "question": "شیب خط عمود بر خط میل آن 2/3 عبارت است از:",
+    "options": [
+      "-3/2",
+      "3/2",
+      "2/3",
+      "-2/3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "-3/2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 387,
+    "question": "معادله خط مستقیمی که از نقاط (0,-1) و (1,1) میگذرد عبارت است از:",
+    "options": [
+      "y=2x-1",
+      "y=2x+1",
+      "y=x-1",
+      "y=x+1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=2x-1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 388,
+    "question": "کمیات وضعیه نقطه تقسیم داخلی که از A(1,1) و B(7,7) و نسبت 1:2 عبارت است از:",
+    "options": [
+      "(3,3)",
+      "(2,2)",
+      "(4,4)",
+      "(5,5)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(3,3)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 389,
+    "question": "معادله خط مستقیم که محور x را در 3 و محور y را در -4 قطع میکند عبارت است از:",
+    "options": [
+      "4x-3y-12=0",
+      "4x-3y+12=0",
+      "4x+3y-12=0",
+      "4x+3y+12=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "4x-3y-12=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 390,
+    "question": "فاصله بین نقاط (1,4) و (4,8) عبارت است از:",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 391,
+    "question": "معادله دایره که قطر آن 10 و مرکز آن (0,0) عبارت است از:",
+    "options": [
+      "x²+y²=25",
+      "x²+y²=100",
+      "x²+y²=10",
+      "x²+y²=50"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²+y²=25",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 392,
+    "question": "میل خط موازی با خط 2x-3y+5=0 عبارت است از:",
+    "options": [
+      "2/3",
+      "-2/3",
+      "3/2",
+      "-3/2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2/3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 393,
+    "question": "معادله خط مستقیم که بر خط 3x-4y=0 عمود باشد عبارت است از:",
+    "options": [
+      "4x+3y=c",
+      "3x+4y=c",
+      "4x-3y=c",
+      "3x-4y=c"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "4x+3y=c",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 394,
+    "question": "کمیات وضعیه راس بیضوی x²/16+y²/9=1 عبارت است از:",
+    "options": [
+      "(±4,0)",
+      "(0,±3)",
+      "(±4,0) و (0,±3)",
+      "هیچکدام"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "(±4,0) و (0,±3)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 395,
+    "question": "معادله خط مستقیم که میل آن 0 و مشخص باشد عبارت است از:",
+    "options": [
+      "y=c",
+      "x=c",
+      "y=x",
+      "y=-x"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=c",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 396,
+    "question": "شعاع دایره x²+y²=81 عبارت است از:",
+    "options": [
+      "9",
+      "81",
+      "√81",
+      "18"    ],
+    "correctOption": 1,
+    "correctAnswer": "9",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 397,
+    "question": "مرکز دایره (x-2)²+(y+3)²=16 عبارت است از:",
+    "options": [
+      "(2,-3)",
+      "(-2,3)",
+      "(2,3)",
+      "(-2,-3)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(2,-3)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 398,
+    "question": "معادله خط مستقیمی که میل آن بی نهایت و از (2,5) میگذرد عبارت است از:",
+    "options": [
+      "x=2",
+      "y=5",
+      "x=5",
+      "y=2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x=2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 399,
+    "question": "فاصله نقطه (3,4) از خط 3x+4y-25=0 مساویست به:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 400,
+    "question": "معادله بیضوی با محراقهای (±3,0) و محور اصغر 4 عبارت است از:",
+    "options": [
+      "x²/13+y²/4=1",
+      "x²/4+y²/13=1",
+      "x²/9+y²/4=1",
+      "x²/4+y²/9=1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²/13+y²/4=1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+    {
+    "id": 401,
+    "question": "معادله خط مستقیم که از نقطه (5,2) میگذرد و بر خط x=0 عمود باشد عبارت است از:",
+    "options": [
+      "y=2",
+      "y=5",
+      "x=2",
+      "x=5"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 402,
+    "question": "نقطه تقاطع خطوط x-2=0 و y=3 عبارت است از:",
+    "options": [
+      "(2,3)",
+      "(3,2)",
+      "(2,0)",
+      "(0,3)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(2,3)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 403,
+    "question": "کمیات وضعیه نقطه تنصیف خط که از (3,-1) و (7,9) میگذرد عبارت است از:",
+    "options": [
+      "(5,4)",
+      "(4,5)",
+      "(3,7)",
+      "(7,3)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(5,4)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 404,
+    "question": "معادله دایره ای با قطر 8 و مرکز (1,-1) عبارت است از:",
+    "options": [
+      "(x-1)²+(y+1)²=16",
+      "(x+1)²+(y-1)²=16",
+      "(x-1)²+(y-1)²=16",
+      "(x+1)²+(y+1)²=16"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(x-1)²+(y+1)²=16",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 405,
+    "question": "شیب خط که زاویه 0° با محور x میسازد عبارت است از:",
+    "options": [
+      "0",
+      "∞",
+      "1",
+      "-1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 406,
+    "question": "معادله خط مستقیمی که میل آن 4/5 و از (0,0) میگذرد عبارت است از:",
+    "options": [
+      "4x-5y=0",
+      "4x+5y=0",
+      "5x-4y=0",
+      "5x+4y=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "4x-5y=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 407,
+    "question": "فاصله نقطه (0,0) از خط x=3 عبارت است از:",
+    "options": [
+      "3",
+      "0",
+      "6",
+      "1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 408,
+    "question": "معادله خط مستقیم که از نقاط (3,2) و (-3,2) میگذرد عبارت است از:",
+    "options": [
+      "y=2",
+      "x=2",
+      "y=-2",
+      "x=-2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 409,
+    "question": "کمیات وضعیه نقطهای که خط y-1=0 محور y را قطع میکند عبارت است از:",
+    "options": [
+      "(0,1)",
+      "(1,0)",
+      "(-1,0)",
+      "(0,-1)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(0,1)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 410,
+    "question": "معادله بیضوی با الف=5 و ب=3 عبارت است از:",
+    "options": [
+      "x²/25+y²/9=1",
+      "x²/9+y²/25=1",
+      "x²/5+y²/3=1",
+      "x²/3+y²/5=1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²/25+y²/9=1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 411,
+    "question": "معادله پارابولا با محراق (1,0) و خط موجه x=-1 عبارت است از:",
+    "options": [
+      "y²=4x",
+      "y²=2x",
+      "x²=4y",
+      "x²=2y"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y²=4x",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 412,
+    "question": "میل خط که از نقاط P(π,e) و Q(π,0) میگذرد عبارت است از:",
+    "options": [
+      "∞",
+      "0",
+      "e/π",
+      "π/e"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 413,
+    "question": "معادله خط مستقیم که میل آن 1/3 و عرض از مبدا -2 عبارت است از:",
+    "options": [
+      "x-3y-6=0",
+      "x-3y+6=0",
+      "3x-y-6=0",
+      "3x-y+6=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x-3y-6=0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 414,
+    "question": "فاصله بین نقاط (1,1) و (4,5) عبارت است از:",
+    "options": [
+      "5",
+      "3",
+      "7",
+      "6"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 415,
+    "question": "معادله دایره که مرکز آن (-1,-1) و شعاع آن 3 عبارت است از:",
+    "options": [
+      "(x+1)²+(y+1)²=9",
+      "(x-1)²+(y-1)²=9",
+      "(x+1)²+(y-1)²=9",
+      "(x-1)²+(y+1)²=9"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(x+1)²+(y+1)²=9",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 416,
+    "question": "کمیات وضعیه نقطهای که خط 2x-3=0 محور x را قطع میکند عبارت است از:",
+    "options": [
+      "(3/2,0)",
+      "(0,3/2)",
+      "(2,0)",
+      "(0,2)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(3/2,0)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 417,
+    "question": "معادله خط مستقیم که موازی خط y=2 باشد عبارت است از:",
+    "options": [
+      "y=c",
+      "x=c",
+      "y=2x",
+      "y=x/2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=c",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 418,
+    "question": "شیب خط که موازی خط 5x-2y+3=0 باشد عبارت است از:",
+    "options": [
+      "5/2",
+      "-5/2",
+      "2/5",
+      "-2/5"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5/2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 419,
+    "question": "معادله خط مستقیمی که میل آن 1 و عرض از مبدا 1 عبارت است از:",
+    "options": [
+      "y=x+1",
+      "y=x-1",
+      "y=-x+1",
+      "y=-x-1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=x+1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 420,
+    "question": "فاصله نقطه (1,0) از خط y=1 عبارت است از:",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "√2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 421,
+    "question": "معادله دایره با مرکز (0,0) و شعاع √2 عبارت است از:",
+    "options": [
+      "x²+y²=2",
+      "x²+y²=4",
+      "x²+y²=1",
+      "x²+y²=8"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²+y²=2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 422,
+    "question": "کمیات وضعیه نقطه تنصیف خط که از (0,0) و (10,10) میگذرد عبارت است از:",
+    "options": [
+      "(5,5)",
+      "(10,10)",
+      "(0,0)",
+      "(3,3)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(5,5)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 423,
+    "question": "معادله خط مستقیمی که میل آن منفی باشد و از (1,1) میگذرد عبارت است از:",
+    "options": [
+      "y=-x+2",
+      "y=x+1",
+      "y=-x-1",
+      "y=x-1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=-x+2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 424,
+    "question": "معادله خط مستقیم که محور y را در -5 قطع میکند و موازی محور x عبارت است از:",
+    "options": [
+      "y=-5",
+      "x=-5",
+      "y=5",
+      "x=5"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=-5",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 425,
+    "question": "شعاع دایره (x-1)²+(y-1)²=9 عبارت است از:",
+    "options": [
+      "3",
+      "9",
+      "√9",
+      "6"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 426,
+    "question": "مرکز دایره x²+y²-2x+4y+1=0 عبارت است از:",
+    "options": [
+      "(1,-2)",
+      "(-1,2)",
+      "(1,2)",
+      "(-1,-2)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(1,-2)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 427,
+    "question": "معادله بیضوی با مرکز (0,0) و a=4 و b=2 عبارت است از:",
+    "options": [
+      "x²/16+y²/4=1",
+      "x²/4+y²/16=1",
+      "x²/16+y²/2=1",
+      "x²/2+y²/16=1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²/16+y²/4=1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 428,
+    "question": "معادله خط مستقیم که از (2,3) و (4,7) میگذرد عبارت است از:",
+    "options": [
+      "2x-y-1=0",
+      "2x+y-1=0",
+      "2x-y+1=0",
+      "2x+y+1=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2x-y-1=0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 429,
+    "question": "فاصله خط x=0 از نقطه (3,5) عبارت است از:",
+    "options": [
+      "3",
+      "5",
+      "8",
+      "2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 430,
+    "question": "معادله خط مستقیمی که میل آن √3 و عرض از مبدا 0 عبارت است از:",
+    "options": [
+      "y=√3x",
+      "y=x/√3",
+      "y=-√3x",
+      "y=-x/√3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=√3x",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 431,
+    "question": "نقطه تقاطع خطوط y=x و y=2 عبارت است از:",
+    "options": [
+      "(2,2)",
+      "(2,0)",
+      "(0,2)",
+      "(1,1)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(2,2)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 432,
+    "question": "کمیات وضعیه نقطهای که خط y=0 محور x است در کل صحیح عبارت است از:",
+    "options": [
+      "تمام نقاط",
+      "(x,0)",
+      "(0,0)",
+      "هیچکدام"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "(x,0)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 433,
+    "question": "معادله دایره که از مبدا و نقطه (4,0) و (0,4) میگذرد عبارت است از:",
+    "options": [
+      "(x-2)²+(y-2)²=8",
+      "(x+2)²+(y+2)²=8",
+      "(x-2)²+(y+2)²=8",
+      "(x+2)²+(y-2)²=8"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(x-2)²+(y-2)²=8",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 434,
+    "question": "شیب خط که بر خط میل آن 1/2 عمود است عبارت است از:",
+    "options": [
+      "-2",
+      "2",
+      "1/2",
+      "-1/2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "-2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 435,
+    "question": "معادله خط مستقیمی که میل آن 2 و از (-1,3) میگذرد عبارت است از:",
+    "options": [
+      "2x-y+5=0",
+      "2x-y-5=0",
+      "2x+y-5=0",
+      "2x+y+5=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2x-y+5=0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 436,
+    "question": "فاصله نقطه (3,3) از خط 2x-2y=0 مساویست به:",
+    "options": [
+      "0",
+      "√2",
+      "2√2",
+      "3√2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 437,
+    "question": "معادله دایره با قطر 6 و مرکز (2,1) عبارت است از:",
+    "options": [
+      "(x-2)²+(y-1)²=9",
+      "(x+2)²+(y+1)²=9",
+      "(x-2)²+(y+1)²=9",
+      "(x+2)²+(y-1)²=9"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(x-2)²+(y-1)²=9",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 438,
+    "question": "کمیات وضعیه نقطه تقسیم خط که از (0,0) و (3,3) و نسبت 2:1 عبارت است از:",
+    "options": [
+      "(2,2)",
+      "(1,1)",
+      "(3,3)",
+      "(0,0)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(2,2)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 439,
+    "question": "معادله خط مستقیم که میل آن 1/2 و از (2,4) میگذرد عبارت است از:",
+    "options": [
+      "x-2y+6=0",
+      "x-2y-6=0",
+      "2x-y+6=0",
+      "2x-y-6=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x-2y+6=0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 440,
+    "question": "فاصله بین خطوط y=3 و y=-1 عبارت است از:",
+    "options": [
+      "4",
+      "2",
+      "6",
+      "8"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "4",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 441,
+    "question": "معادله بیضوی که محراقهای آن (0,±4) و a=5 عبارت است از:",
+    "options": [
+      "x²/9+y²/25=1",
+      "x²/25+y²/9=1",
+      "x²/16+y²/25=1",
+      "x²/25+y²/16=1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²/9+y²/25=1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 442,
+    "question": "معادله خط مستقیم که از (1,2) و (1,5) میگذرد عبارت است از:",
+    "options": [
+      "x=1",
+      "y=1",
+      "x=2",
+      "y=2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x=1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 443,
+    "question": "شعاع دایره (x+2)²+(y-1)²=4 عبارت است از:",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "√4"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 444,
+    "question": "مرکز دایره x²+y²+6x-8y=0 عبارت است از:",
+    "options": [
+      "(-3,4)",
+      "(3,-4)",
+      "(-3,-4)",
+      "(3,4)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(-3,4)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 445,
+    "question": "معادله خط مستقیم که میل آن -1 و عرض از مبدا 2 عبارت است از:",
+    "options": [
+      "x+y-2=0",
+      "x-y-2=0",
+      "x+y+2=0",
+      "x-y+2=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x+y-2=0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 446,
+    "question": "فاصله نقطه (0,2) از خط y=2 عبارت است از:",
+    "options": [
+      "0",
+      "2",
+      "4",
+      "1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 447,
+    "question": "معادله دایره ای که از نقاط (2,0) و (0,2) و مرکز (0,0) میگذرد عبارت است از:",
+    "options": [
+      "x²+y²=4",
+      "x²+y²=8",
+      "x²+y²=2",
+      "x²+y²=1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²+y²=4",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 448,
+    "question": "نقطه تقاطع خطوط 3x-2y=1 و x+y=2 عبارت است از:",
+    "options": [
+      "(1,1)",
+      "(2,0)",
+      "(0,2)",
+      "(1,2)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(1,1)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 449,
+    "question": "معادله خط مستقیمی که میل آن 0 و از (3,5) میگذرد عبارت است از:",
+    "options": [
+      "y=5",
+      "x=3",
+      "y=3",
+      "x=5"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=5",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 450,
+    "question": "کمیات وضعیه نقطهای که خط x+y=0 از مبدا میگذرد عبارت است از:",
+    "options": [
+      "(0,0)",
+      "(1,-1)",
+      "(-1,1)",
+      "تمام نقاط"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(0,0)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 451,
+    "question": "معادله خط مستقیم که موازی y=0 باشد عبارت است از:",
+    "options": [
+      "y=c",
+      "x=c",
+      "y=x",
+      "y=-x"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=c",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 452,
+    "question": "شیب خط افقی x=3 عبارت است از:",
+    "options": [
+      "تعریف نشده",
+      "0",
+      "1",
+      "-1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "تعریف نشده",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 453,
+    "question": "معادله دایره با مرکز (3,4) و از نقطه (0,0) عبارت است از:",
+    "options": [
+      "(x-3)²+(y-4)²=25",
+      "(x+3)²+(y+4)²=25",
+      "(x-3)²+(y+4)²=25",
+      "(x+3)²+(y-4)²=25"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(x-3)²+(y-4)²=25",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 454,
+    "question": "کمیات وضعیه نقطه تنصیف خط که از (2,4) و (8,10) میگذرد عبارت است از:",
+    "options": [
+      "(5,7)",
+      "(7,5)",
+      "(4,6)",
+      "(6,4)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(5,7)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 455,
+    "question": "فاصله بین نقاط (0,0) و (a,b) عبارت است از:",
+    "options": [
+      "√(a²+b²)",
+      "a+b",
+      "√(a-b)",
+      "a²+b²"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "√(a²+b²)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 456,
+    "question": "معادله خط مستقیم که محور x را در 0 و محور y را در 0 قطع میکند عبارت است از:",
+    "options": [
+      "y=x",
+      "y=-x",
+      "x+y=0",
+      "هیچکدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "y=x",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 457,
+    "question": "شعاع دایره x²+y²=10 عبارت است از:",
+    "options": [
+      "√10",
+      "10",
+      "5",
+      "20"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "√10",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 458,
+    "question": "معادله خط مستقیم که میل آن 3 و عرض از مبدا 4 عبارت است از:",
+    "options": [
+      "3x-y+4=0",
+      "3x-y-4=0",
+      "3x+y-4=0",
+      "3x+y+4=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3x-y+4=0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 459,
+    "question": "کمیات وضعیه نقطه (x,y) روی خط y=2x+1 عبارت است از:",
+    "options": [
+      "(x,2x+1)",
+      "(2x+1,x)",
+      "(x,x+1)",
+      "(x+1,2x)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(x,2x+1)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 460,
+    "question": "فاصله نقطه (1,1) از خط x=0 عبارت است از:",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "√2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 461,
+    "question": "معادله دایره با مرکز (0,0) و شعاع 5 عبارت است از:",
+    "options": [
+      "x²+y²=25",
+      "x²+y²=5",
+      "x²+y²=10",
+      "x²+y²=50"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²+y²=25",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 462,
+    "question": "معادله خط مستقیمی که میل آن -2 و عرض از مبدا -3 عبارت است از:",
+    "options": [
+      "2x+y+3=0",
+      "2x-y-3=0",
+      "2x+y-3=0",
+      "2x-y+3=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2x+y+3=0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 463,
+    "question": "نقطه تقاطع خطوط x=0 و y=0 عبارت است از:",
+    "options": [
+      "(0,0)",
+      "(1,0)",
+      "(0,1)",
+      "(1,1)"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(0,0)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 464,
+    "question": "معادله بیضوی با a=6 و b=4 عبارت است از:",
+    "options": [
+      "x²/36+y²/16=1",
+      "x²/16+y²/36=1",
+      "x²/36+y²/4=1",
+      "x²/4+y²/36=1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x²/36+y²/16=1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 465,
+    "question": "شیب خط عمودی عبارت است از:",
+    "options": [
+      "تعریف نشده",
+      "0",
+      "1",
+      "-1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "تعریف نشده",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 466,
+    "question": "فاصله نقطه (-1,0) از خط y=0 عبارت است از:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "-1"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 467,
+    "question": "معادله خط مستقیم که از (0,3) و (3,0) میگذرد عبارت است از:",
+    "options": [
+      "x+y-3=0",
+      "x-y-3=0",
+      "x+y+3=0",
+      "x-y+3=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x+y-3=0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 468,
+    "question": "کمیات وضعیه نقطهای که خط 2x=0 محور y است عبارت است از:",
+    "options": [
+      "(0,y)",
+      "(x,0)",
+      "(0,0)",
+      "تمام نقاط"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(0,y)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 469,
+    "question": "معادله دایره با قطر از (1,1) و (3,3) عبارت است از:",
+    "options": [
+      "(x-2)²+(y-2)²=2",
+      "(x-2)²+(y-2)²=4",
+      "(x+2)²+(y+2)²=2",
+      "(x+2)²+(y+2)²=4"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "(x-2)²+(y-2)²=2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 470,
+    "question": "شعاع دایره x²+y²-4x-4y+4=0 عبارت است از:",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 471,
+    "question": "معادله خط مستقیم که میل آن 1 و از (1,0) میگذرد عبارت است از:",
+    "options": [
+      "x-y-1=0",
+      "x-y+1=0",
+      "x+y-1=0",
+      "x+y+1=0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x-y-1=0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 472,
+    "question": "فاصله بین نقاط (2,2) و (5,6) عبارت است از:",
+    "options": ["5", "4", "3", "6"],
+    "correctOption": 1,
+    "correctAnswer": "5",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 473,
+    "question": "معادله خط مستقیم که بر محور x عمود باشد و از (2,0) میگذرد عبارت است از:",
+    "options": ["x=2", "y=2", "x=-2", "y=-2"],
+    "correctOption": 1,
+    "correctAnswer": "x=2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 474,
+    "question": "کمیات وضعیه نقطه تقسیم خط که از (0,0) و (6,6) و نسبت 1:1 عبارت است از:",
+    "options": ["(3,3)", "(6,6)", "(0,0)", "(2,2)"],
+    "correctOption": 1,
+    "correctAnswer": "(3,3)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 475,
+    "question": "معادله بیضوی که محراقهای آن (±1,0) و a=2 عبارت است از:",
+    "options": ["x²/4+y²/3=1", "x²/3+y²/4=1", "x²/1+y²/4=1", "x²/4+y²/1=1"],
+    "correctOption": 1,
+    "correctAnswer": "x²/4+y²/3=1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 476,
+    "question": "شیب خط که موازی محور x باشد عبارت است از:",
+    "options": ["0", "تعریف نشده", "1", "-1"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 477,
+    "question": "معادله خط مستقیمی که میل آن 1/3 و از (3,3) میگذرد عبارت است از:",
+    "options": ["x-3y+6=0", "x-3y-6=0", "3x-y-6=0", "3x-y+6=0"],
+    "correctOption": 1,
+    "correctAnswer": "x-3y+6=0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 478,
+    "question": "فاصله نقطه (0,3) از خط x=0 عبارت است از:",
+    "options": ["0", "3", "6", "1"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 479,
+    "question": "معادله دایره بند از (0,0) و (2,0) و مرکز روی محور x عبارت است از:",
+    "options": ["x²+y²-2x=0", "x²+y²+2x=0", "x²+y²-4x=0", "x²+y²+4x=0"],
+    "correctOption": 1,
+    "correctAnswer": "x²+y²-2x=0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 480,
+    "question": "کمیات وضعیه نقطهای که خط y-3=0 موازی محور x است عبارت است از:",
+    "options": ["(x,3)", "(3,y)", "(0,3)", "تمام نقاط"],
+    "correctOption": 1,
+    "correctAnswer": "(x,3)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 481,
+    "question": "معادله خط مستقیم که از (4,2) و (4,8) میگذرد عبارت است از:",
+    "options": ["x=4", "y=4", "x=2", "y=2"],
+    "correctOption": 1,
+    "correctAnswer": "x=4",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 482,
+    "question": "شعاع دایره x²+y²-6x+8y+9=0 عبارت است از:",
+    "options": ["4", "3", "5", "2"],
+    "correctOption": 1,
+    "correctAnswer": "4",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 483,
+    "question": "معادله خط مستقیمی که میل آن 2/5 و عرض از مبدا 0 عبارت است از:",
+    "options": ["2x-5y=0", "2x+5y=0", "5x-2y=0", "5x+2y=0"],
+    "correctOption": 1,
+    "correctAnswer": "2x-5y=0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 484,
+    "question": "فاصله بین نقاط (-2,-2) و (1,2) عبارت است از:",
+    "options": ["5", "3", "4", "6"],
+    "correctOption": 1,
+    "correctAnswer": "5",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 485,
+    "question": "معادله دایره که مرکز آن (-1,1) و شعاع آن 2 عبارت است از:",
+    "options": ["(x+1)²+(y-1)²=4", "(x-1)²+(y+1)²=4", "(x+1)²+(y+1)²=4", "(x-1)²+(y-1)²=4"],
+    "correctOption": 1,
+    "correctAnswer": "(x+1)²+(y-1)²=4",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 486,
+    "question": "کمیات وضعیه نقطه تنصیف خط که از (-2,0) و (2,0) میگذرد عبارت است از:",
+    "options": ["(0,0)", "(2,0)", "(-2,0)", "(1,0)"],
+    "correctOption": 1,
+    "correctAnswer": "(0,0)",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 487,
+    "question": "معادله خط مستقیم که موازی خط x=0 باشد عبارت است از:",
+    "options": ["x=c", "y=c", "y=x", "y=-x"],
+    "correctOption": 1,
+    "correctAnswer": "x=c",
+    "subject": "Math",
+    "difficulty": "hard"
+  }
+]
