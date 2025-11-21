@@ -17,7 +17,7 @@ fs.readdirSync(datasetPath).forEach(subject => {
       const raw = fs.readFileSync(filePath, 'utf-8');
       const data = JSON.parse(raw);
 
- 
+
       if (Array.isArray(data)) {
         total += data.length;
       } else if (data.questions && Array.isArray(data.questions)) {
