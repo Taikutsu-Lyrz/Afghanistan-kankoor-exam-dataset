@@ -12,7 +12,8 @@
 
 ## 1. Project Description
 This dataset contains **Kankoor (Afghanistan University Entrance Exam) questions** in structured JSON format.
-Subjects and Question Counts
+<br><br>
+**Subjects and Question Counts**
 <!-- QUESTION_TABLE -->
 | Subject | Questions |
 |---------|----------|
@@ -21,6 +22,10 @@ Subjects and Question Counts
 | Geology | 304 |
 | Physics | 80 |
 | **Total** | **1509** |
+
+
+
+<br>
 
 
 ## 📚 Available Subjects
@@ -35,7 +40,7 @@ Each subject has its own JSON folder containing the file inside the `dataset/` d
 - **Chemistry** 
 - **Physics** ← *Newly added*
   
-More subjects will be added continuously (Math, Chemistry, Biology, etc).
+More subjects will be added continuously (Math, Pashto, Biology, Geography etc).
 
 
 **Purpose:**  
@@ -49,6 +54,9 @@ More subjects will be added continuously (Math, Chemistry, Biology, etc).
 
 ```
 Afghanistan-kankoor-questions-dataset/
+├── .github/
+│   └── workflows/
+│       └── update-count.yml
 ├── dataset/
 │   └── data/
 │       ├── geology/
@@ -60,16 +68,19 @@ Afghanistan-kankoor-questions-dataset/
 │       ├── physics/
 │       │   └── physics_mechanics_simple.json
 │       └── schema.json
-├── README.md
+├── CONTRIBUTING.md
 ├── LICENSE
-└── CONTRIBUTING.md
-
+├── README.md
+└── countQuestions.js
 ```
 
-- **data/** — contains subject-specific folder with JSON files  
-- **schema.json** — defines question structure and rules  
-- **LICENSE** — MIT License  
-- **README.md / README.pdf** — project documentation  
+**github/workflows/update-count.yml** — GitHub Actions workflow to automatically update total question count <br>
+**dataset/data/** — subject-specific folders containing JSON question files <br>
+**dataset/data/schema.json** — defines question structure and validation rules <br>
+**countQuestions.js** — script to calculate and update total questions <br>
+**CONTRIBUTING.md** — contribution guidelines for the dataset <br>
+**LICENSE** — MIT License <br>
+**README.md** / README.pdf — project documentation <br>
 
 ---
 
