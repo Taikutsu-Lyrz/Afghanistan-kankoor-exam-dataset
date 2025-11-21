@@ -21,70 +21,43 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Count questions and generate table
-        id: count
         run: |
-          total=0
-          declare -A subjects
+          echo "| Subject | Questions |" > table.tmp
+          echo "|---------|----------|" >> table.tmp
           
-          # Count questions per subject
+          total=0
+          
           for file in dataset/data/*/*.json; do
             if [ -f "$file" ] && [ "$(basename "$file")" != "schema.json" ]; then
-              subject=$(basename "$(dirname "$file")")
+              folder=$(basename "$(dirname "$file")")
               count=$(jq 'length' "$file" 2>/dev/null || echo 0)
               
-              # Capitalize first letter of subject name
-              subject_name=$(echo "$subject" | sed 's/_/ /g' | awk '{for(i=1;i<=NF;i++) $i=toupper(substr($i,1,1)) tolower(substr($i,2));}1')
+              # Format subject name (capitalize, replace underscores)
+              subject=$(echo "$folder" | sed 's/_/ /g' | awk '{for(i=1;i<=NF;i++) $i=toupper(substr($i,1,1)) tolower(substr($i,2));}1')
               
-              subjects["$subject_name"]=$count
+              echo "| $subject | $count |" >> table.tmp
               total=$((total + count))
-              echo "Found $count questions in $subject_name"
             fi
           done
           
-          # Generate markdown table
-          table="| Subject | Questions |\n"
-          table+="|---------|----------|\n"
+          echo "| **Total** | **$total** |" >> table.tmp
           
-          for subject in "${!subjects[@]}"; do
-            table+="| $subject | ${subjects[$subject]} |\n"
-          done
-          
-          table+="| **Total** | **$total** |"
-          
-          # Save to environment
-          echo "TOTAL_QUESTIONS=$total" >> $GITHUB_ENV
-          echo "QUESTION_TABLE<<EOF" >> $GITHUB_ENV
-          echo -e "$table" >> $GITHUB_ENV
-          echo "EOF" >> $GITHUB_ENV
-          
-          echo "Total questions: $total"
+          cat table.tmp
+          echo "TOTAL=$total" >> $GITHUB_ENV
       
       - name: Update README with table
         run: |
-          # Create marker comments if they don't exist
           if ! grep -q "<!-- QUESTIONS_TABLE_START -->" README.md; then
-            # Add markers after Project Description section
-            sed -i '/## 1\. Project Description/a \\n<!-- QUESTIONS_TABLE_START -->\n<!-- QUESTIONS_TABLE_END -->' README.md
+            sed -i '/This dataset contains \*\*Kankoor/a \\n<!-- QUESTIONS_TABLE_START -->\n<!-- QUESTIONS_TABLE_END -->' README.md
           fi
           
-          # Replace content between markers
-          awk -v table="$QUESTION_TABLE" '
-            /<!-- QUESTIONS_TABLE_START -->/ {
-              print $0
-              print ""
-              print table
-              print ""
-              skip=1
-              next
-            }
-            /<!-- QUESTIONS_TABLE_END -->/ {
-              skip=0
-            }
-            !skip
-          ' README.md > README.tmp && mv README.tmp README.md
+          sed -i '/<!-- QUESTIONS_TABLE_START -->/,/<!-- QUESTIONS_TABLE_END -->/{//!d;}' README.md
+          sed -i '/<!-- QUESTIONS_TABLE_START -->/r table.tmp' README.md
+          
+          rm table.tmp
       
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🔄 Auto-update: Total questions → ${{ env.TOTAL_QUESTIONS }}"
+          commit_message: "🔄 Auto-update: Total questions → ${{ env.TOTAL }}"
           file_pattern: README.md
