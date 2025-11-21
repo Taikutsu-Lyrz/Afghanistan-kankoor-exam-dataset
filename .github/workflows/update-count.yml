@@ -19,52 +19,61 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Count questions and create table
-        run: |
-          echo "| Subject | Questions |" > table.txt
-          echo "|---------|----------|" >> table.txt
-          
-          total=0
-          
-          cd Afghanistan-kankoor-questions-dataset/dataset/data
-          
-          for dir in */; do
-            if [ -d "$dir" ]; then
-              folder=${dir%/}
-              for jsonfile in "$folder"/*.json; do
-                if [ -f "$jsonfile" ]; then
-                  count=$(jq 'length' "$jsonfile")
-                  subject=$(echo "$folder" | sed 's/_/ /g' | awk '{for(i=1;i<=NF;i++)sub(/./,toupper(substr($i,1,1)),$i)}1')
-                  echo "| $subject | $count |" >> ../../../table.txt
-                  total=$((total + count))
-                fi
-              done
-            fi
-          done
-          
-          cd ../../..
-          echo "| **Total** | **$total** |" >> table.txt
-          echo "TOTAL=$total" >> $GITHUB_ENV
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
       
-      - name: Update README safely
+      - name: Count and update README
         run: |
-          awk '
-            /<!-- QUESTION_TABLE -->/ {
-              print
-              while (getline line < "table.txt") print line
-              skip=1
-              next
-            }
-            /<!-- END_TABLE -->/ {
-              skip=0
-            }
-            !skip
-          ' README.md > README_new.md
+          python3 << 'EOF'
+          import json
+          import os
+          import re
           
-          mv README_new.md README.md
-          rm table.txt
+          # Count questions
+          total = 0
+          subjects = []
+          
+          data_path = "Afghanistan-kankoor-questions-dataset/dataset/data"
+          
+          for folder in os.listdir(data_path):
+            folder_path = os.path.join(data_path, folder)
+            if os.path.isdir(folder_path):
+              for file in os.listdir(folder_path):
+                if file.endswith('.json'):
+                  file_path = os.path.join(folder_path, file)
+                  with open(file_path, 'r') as f:
+                    data = json.load(f)
+                    count = len(data)
+                    subject = folder.replace('_', ' ').title()
+                    subjects.append((subject, count))
+                    total += count
+          
+          # Create table
+          table = "| Subject | Questions |\n"
+          table += "|---------|----------|\n"
+          for subject, count in sorted(subjects):
+            table += f"| {subject} | {count} |\n"
+          table += f"| **Total** | **{total}** |"
+          
+          # Read README
+          with open('README.md', 'r') as f:
+            content = f.read()
+          
+          # Replace content between markers
+          pattern = r'(<!-- QUESTION_TABLE -->).*?(<!-- END_TABLE -->)'
+          replacement = r'\1\n' + table + r'\n\2'
+          new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+          
+          # Write back
+          with open('README.md', 'w') as f:
+            f.write(new_content)
+          
+          print(f"Updated! Total: {total}")
+          EOF
       
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "📊 Update: ${{ env.TOTAL }} total questions"
+          commit_message: "📊 Auto-update question count"
           file_pattern: README.md
