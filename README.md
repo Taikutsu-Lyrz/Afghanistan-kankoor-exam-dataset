@@ -13,7 +13,13 @@
 This dataset contains **Kankoor (Afghanistan University Entrance Exam) questions** in structured JSON format.
 Subjects and Question Counts
 <!-- QUESTION_TABLE -->
-<!-- END_TABLE -->
+| Subject | Questions |
+|---------|----------|
+| Chemistry | 915 |
+| Dari | 210 |
+| Geology | 304 |
+| Physics | 80 |
+| **Total** | **1509** |
 
 
 ## 📚 Available Subjects
