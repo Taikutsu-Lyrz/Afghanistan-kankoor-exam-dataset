@@ -1,49 +1,45 @@
 name: Update Total Questions
 
 on:
+  workflow_dispatch:       # allows manual run
   push:
-    branches: [master]
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    paths:
+      - 'Afghanistan-kankoor-questions-dataset/dataset/**'
+  schedule:
+    - cron: '0 0 * * *' # daily at midnight
 
 jobs:
   update-count:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          fetch-depth: 0
-      
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-      
-      - name: Count questions in JSON files
+          node-version: '20'
+
+      - name: Count questions
+        run: node countQuestions.js
+
+      - name: Update README badge
         run: |
-          total=0
-          for file in data/*.json; do
-            if [ -f "$file" ]; then
-              count=$(jq 'length' "$file")
-              total=$((total + count))
-            fi
-          done
-          echo "TOTAL_QUESTIONS=$total" >> $GITHUB_ENV
-          echo "Total questions found: $total"
-      
-      - name: Update README.md
+          COUNT=$(cat questions-count.txt)
+          sed -i "s/Total%20Questions-[0-9]\+/Total%20Questions-$COUNT/" README.md
+          echo "Updated README badge to $COUNT questions"
+
+      - name: Commit changes
         run: |
-          sed -i "s/Questions: [0-9]\+/Questions: $TOTAL_QUESTIONS/" README.md
-          echo "Updated README with $TOTAL_QUESTIONS questions"
-      
-      - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update total questions count [skip ci]" || echo "No changes"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
         with:
-          commit_message: "Auto-update: Total questions count to ${{ env.TOTAL_QUESTIONS }}"
-          file_pattern: README.md
-          commit_user_name: github-actions[bot]
-          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          github_token: ${{ secrets.GITHUB_TOKEN }}
