@@ -37,18 +37,31 @@ jobs:
           
           data_path = "Afghanistan-kankoor-questions-dataset/dataset/data"
           
-          for folder in os.listdir(data_path):
+          print(f"Looking in: {data_path}")
+          print(f"Folders found: {os.listdir(data_path)}")
+          
+          for folder in sorted(os.listdir(data_path)):
             folder_path = os.path.join(data_path, folder)
             if os.path.isdir(folder_path):
+              print(f"\nChecking folder: {folder}")
               for file in os.listdir(folder_path):
-                if file.endswith('.json'):
+                if file.endswith('.json') and file != 'schema.json':
                   file_path = os.path.join(folder_path, file)
-                  with open(file_path, 'r') as f:
-                    data = json.load(f)
-                    count = len(data)
-                    subject = folder.replace('_', ' ').title()
-                    subjects.append((subject, count))
-                    total += count
+                  print(f"  Reading: {file}")
+                  try:
+                    with open(file_path, 'r', encoding='utf-8') as f:
+                      data = json.load(f)
+                      count = len(data)
+                      subject = folder.replace('_', ' ').title()
+                      subjects.append((subject, count))
+                      total += count
+                      print(f"  ✓ {subject}: {count} questions")
+                  except Exception as e:
+                    print(f"  ✗ Error reading {file}: {e}")
+          
+          print(f"\n{'='*50}")
+          print(f"TOTAL QUESTIONS: {total}")
+          print(f"{'='*50}\n")
           
           # Create table
           table = "| Subject | Questions |\n"
@@ -58,19 +71,22 @@ jobs:
           table += f"| **Total** | **{total}** |"
           
           # Read README
-          with open('README.md', 'r') as f:
+          with open('README.md', 'r', encoding='utf-8') as f:
             content = f.read()
           
           # Replace content between markers
-          pattern = r'(<!-- QUESTION_TABLE -->).*?(<!-- END_TABLE -->)'
-          replacement = r'\1\n' + table + r'\n\2'
-          new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
-          
-          # Write back
-          with open('README.md', 'w') as f:
-            f.write(new_content)
-          
-          print(f"Updated! Total: {total}")
+          if '<!-- QUESTION_TABLE -->' in content and '<!-- END_TABLE -->' in content:
+            pattern = r'(<!-- QUESTION_TABLE -->).*?(<!-- END_TABLE -->)'
+            replacement = r'\1\n' + table + r'\n\2'
+            new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+            
+            # Write back
+            with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(new_content)
+            print("✓ README updated successfully!")
+          else:
+            print("✗ ERROR: Markers not found in README.md")
+            print("Please add <!-- QUESTION_TABLE --> and <!-- END_TABLE --> to your README")
           EOF
       
       - uses: stefanzweifel/git-auto-commit-action@v5
