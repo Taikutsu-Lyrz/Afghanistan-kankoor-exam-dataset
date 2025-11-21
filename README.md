@@ -22,6 +22,7 @@ This dataset contains **Kankoor (Afghanistan University Entrance Exam) questions
 | Geology | 304 |
 | Physics | 80 |
 | **Total** | **1509** |
+<!-- END_TABLE -->
 
 
 
