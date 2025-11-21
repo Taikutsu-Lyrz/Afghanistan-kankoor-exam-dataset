@@ -40,15 +40,26 @@ Each subject has its own JSON folder containing the file inside the `dataset/` d
 - **Geology**
 - **Dari**
 - **Chemistry** 
-- **Physics** ← *Newly added*
+- **Physics** 
+- **Math** ← *Newly added*
+
+
   
-More subjects will be added continuously (Math, Pashto, Biology, Geography etc).
+More subjects will be added continuously (Pashto, Biology, Geography etc).
 
 
 **Purpose:**  
 - Educational & research use  
 - Building quiz apps, web apps, or AI study assistants  
-- Public reference for Afghan students  
+- Public reference for Afghan students
+
+<br>
+
+***Note***<br>
+Some subjects contain multiple parts or specialized fields that are not individually listed above.
+For example, Physics includes sections such as mechanics, which appear inside the repository’s directory structure.
+To view all available parts and detailed breakdowns, please refer to the folders under:
+
 
 ---
 
