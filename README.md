@@ -8,6 +8,8 @@
 
 ---
 
+**Total Questions:** 0
+
 ## 1. Project Description
 
 This dataset contains **Kankoor (Afghanistan University Entrance Exam) questions** in structured JSON format.  
