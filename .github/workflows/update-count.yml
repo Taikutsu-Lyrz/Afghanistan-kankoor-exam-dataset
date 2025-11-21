@@ -6,7 +6,7 @@ on:
     paths:
       - 'Afghanistan-kankoor-questions-dataset/dataset/data/**/*.json'
   schedule:
-    - cron: '0 12 * * *'  # Runs daily at 12:00 PM UTC (4:30 PM Afghanistan time)
+    - cron: '0 12 * * *'
   workflow_dispatch:
 
 permissions:
@@ -46,9 +46,22 @@ jobs:
           echo "| **Total** | **$total** |" >> table.txt
           echo "TOTAL=$total" >> $GITHUB_ENV
       
-      - name: Update README
+      - name: Update README safely
         run: |
-          sed -i '/<!-- QUESTION_TABLE -->/,/<!-- END_TABLE -->/!b; /<!-- QUESTION_TABLE -->/!d; r table.txt' README.md
+          awk '
+            /<!-- QUESTION_TABLE -->/ {
+              print
+              while (getline line < "table.txt") print line
+              skip=1
+              next
+            }
+            /<!-- END_TABLE -->/ {
+              skip=0
+            }
+            !skip
+          ' README.md > README_new.md
+          
+          mv README_new.md README.md
           rm table.txt
       
       - uses: stefanzweifel/git-auto-commit-action@v5
