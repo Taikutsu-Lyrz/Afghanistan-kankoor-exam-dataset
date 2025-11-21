@@ -24,8 +24,6 @@ jobs:
         id: count
         run: |
           total=0
-          
-          # Loop through all JSON files in dataset/data subdirectories
           for file in dataset/data/*/*.json; do
             if [ -f "$file" ] && [ "$(basename "$file")" != "schema.json" ]; then
               count=$(jq 'length' "$file" 2>/dev/null || echo 0)
@@ -33,27 +31,19 @@ jobs:
               total=$((total + count))
             fi
           done
-          
           echo "Total questions: $total"
           echo "TOTAL_QUESTIONS=$total" >> $GITHUB_ENV
       
       - name: Update README with total count
         run: |
-          # Add or update the total questions badge/line in README
           if grep -q "Total Questions:" README.md; then
             sed -i "s/Total Questions: [0-9]*/Total Questions: $TOTAL_QUESTIONS/" README.md
           else
-            # Add after the title section
-            sed -i '/## 1\. Project Description/i \
-**Total Questions:** '"$TOTAL_QUESTIONS"'\
-\
-' README.md
+            sed -i '/## 1\. Project Description/i **Total Questions:** '"$TOTAL_QUESTIONS"'\n' README.md
           fi
       
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🔄 Auto-update: Total questions count → ${{ env.TOTAL_QUESTIONS }}"
+          commit_message: "🔄 Auto-update: Total questions count to ${{ env.TOTAL_QUESTIONS }}"
           file_pattern: README.md
-          commit_user_name: github-actions[bot]
-          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
