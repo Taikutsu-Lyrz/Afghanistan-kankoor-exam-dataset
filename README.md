@@ -13,6 +13,11 @@
 This dataset contains **Kankoor (Afghanistan University Entrance Exam) questions** in structured JSON format.
 
 <!-- QUESTIONS_TABLE_START -->
+
+| Subject | Questions |
+|---------|----------|
+| **Total** | **0** |
+
 <!-- QUESTIONS_TABLE_END -->
 
 ## 📚 Available Subjects
