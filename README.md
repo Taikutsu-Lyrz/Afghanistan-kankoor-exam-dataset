@@ -2,6 +2,14 @@
 
 | Subject | Questions |
 |---------|----------|
+| Chemistry | 915 |
+| Dari | 210 |
+| Geology | 304 |
+| Physics | 80 |
+| **Total** | **1509** |
+
+| Subject | Questions |
+|---------|----------|
 | Chemistry |  |
 | Dari | 210 |
 | Geology | 304 |
