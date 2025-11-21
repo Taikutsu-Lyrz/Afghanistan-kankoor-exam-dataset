@@ -1,13 +1,5 @@
 ### Kankoor Exam Questions Dataset (Afghanistan)
 
-| Subject | Questions |
-|---------|----------|
-| Chemistry | 915 |
-| Dari | 210 |
-| Geology | 304 |
-| Physics | 80 |
-| **Total** | **1509** |
-
 **Author:** Salim Noor (Taikutsu Lyrz)  
 **License:** MIT  
 **Date:** 2025  
@@ -20,11 +12,13 @@
 
 This dataset contains **Kankoor (Afghanistan University Entrance Exam) questions** in structured JSON format.
 
-<!-- QUESTIONS_TABLE_START -->
 | Subject | Questions |
 |---------|----------|
-| **Total** | **0** |
-<!-- QUESTIONS_TABLE_END -->
+| Chemistry | 915 |
+| Dari | 210 |
+| Geology | 304 |
+| Physics | 80 |
+| **Total** | **1509** |
 
 ## 📚 Available Subjects
 
@@ -150,6 +144,7 @@ Optional, but helps support future development.
 ## 7. License
 MIT License — see LICENSE file.
 You can freely use, copy, modify, and distribute this dataset, with proper credit.
+
 
 
 
