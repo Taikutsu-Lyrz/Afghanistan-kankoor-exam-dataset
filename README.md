@@ -1,5 +1,13 @@
 ### Kankoor Exam Questions Dataset (Afghanistan)
 
+| Subject | Questions |
+|---------|----------|
+| Chemistry | 915 |
+| Dari | 210 |
+| Geology | 304 |
+| Physics | 80 |
+| **Total** | **1509** |
+
 **Author:** Salim Noor (Taikutsu Lyrz)  
 **License:** MIT  
 **Date:** 2025  
