@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const datasetPath = './dataset/data';
+const datasetPath = './Afghanistan-kankoor-questions-dataset/dataset/data';
 let total = 0;
 
 fs.readdirSync(datasetPath).forEach(subject => {
