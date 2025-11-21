@@ -70,6 +70,7 @@ Afghanistan-kankoor-questions-dataset/
 ├── .github/
 │   └── workflows/
 │       └── update-count.yml
+|
 ├── dataset/
 │   └── data/
 │       ├── geology/
@@ -80,7 +81,10 @@ Afghanistan-kankoor-questions-dataset/
 │       │   └── general_chemistry.json
 │       ├── physics/
 │       │   └── physics_mechanics_simple.json
-│       └── schema.json
+|       ├── math/
+│       |   └── math_geomatry.json
+|       └── schema.json
+|
 ├── CONTRIBUTING.md
 ├── LICENSE
 ├── README.md
