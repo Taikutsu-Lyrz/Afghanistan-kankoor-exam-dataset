@@ -20,30 +20,71 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: Count all questions across subjects
+      - name: Count questions and generate table
         id: count
         run: |
           total=0
+          declare -A subjects
+          
+          # Count questions per subject
           for file in dataset/data/*/*.json; do
             if [ -f "$file" ] && [ "$(basename "$file")" != "schema.json" ]; then
+              subject=$(basename "$(dirname "$file")")
               count=$(jq 'length' "$file" 2>/dev/null || echo 0)
-              echo "Found $count questions in $file"
+              
+              # Capitalize first letter of subject name
+              subject_name=$(echo "$subject" | sed 's/_/ /g' | awk '{for(i=1;i<=NF;i++) $i=toupper(substr($i,1,1)) tolower(substr($i,2));}1')
+              
+              subjects["$subject_name"]=$count
               total=$((total + count))
+              echo "Found $count questions in $subject_name"
             fi
           done
-          echo "Total questions: $total"
+          
+          # Generate markdown table
+          table="| Subject | Questions |\n"
+          table+="|---------|----------|\n"
+          
+          for subject in "${!subjects[@]}"; do
+            table+="| $subject | ${subjects[$subject]} |\n"
+          done
+          
+          table+="| **Total** | **$total** |"
+          
+          # Save to environment
           echo "TOTAL_QUESTIONS=$total" >> $GITHUB_ENV
+          echo "QUESTION_TABLE<<EOF" >> $GITHUB_ENV
+          echo -e "$table" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+          
+          echo "Total questions: $total"
       
-      - name: Update README with total count
+      - name: Update README with table
         run: |
-          if grep -q "Total Questions:" README.md; then
-            sed -i "s/Total Questions: [0-9]*/Total Questions: $TOTAL_QUESTIONS/" README.md
-          else
-            sed -i '/## 1\. Project Description/i **Total Questions:** '"$TOTAL_QUESTIONS"'\n' README.md
+          # Create marker comments if they don't exist
+          if ! grep -q "<!-- QUESTIONS_TABLE_START -->" README.md; then
+            # Add markers after Project Description section
+            sed -i '/## 1\. Project Description/a \\n<!-- QUESTIONS_TABLE_START -->\n<!-- QUESTIONS_TABLE_END -->' README.md
           fi
+          
+          # Replace content between markers
+          awk -v table="$QUESTION_TABLE" '
+            /<!-- QUESTIONS_TABLE_START -->/ {
+              print $0
+              print ""
+              print table
+              print ""
+              skip=1
+              next
+            }
+            /<!-- QUESTIONS_TABLE_END -->/ {
+              skip=0
+            }
+            !skip
+          ' README.md > README.tmp && mv README.tmp README.md
       
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🔄 Auto-update: Total questions count to ${{ env.TOTAL_QUESTIONS }}"
+          commit_message: "🔄 Auto-update: Total questions → ${{ env.TOTAL_QUESTIONS }}"
           file_pattern: README.md
