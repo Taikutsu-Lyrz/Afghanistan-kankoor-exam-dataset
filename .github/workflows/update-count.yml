@@ -35,30 +35,18 @@ jobs:
                   subject=$(echo "$folder" | sed 's/_/ /g' | awk '{for(i=1;i<=NF;i++)sub(/./,toupper(substr($i,1,1)),$i)}1')
                   echo "| $subject | $count |" >> ../../../table.txt
                   total=$((total + count))
-                  echo "Found $count questions in $subject"
                 fi
               done
             fi
           done
           
           cd ../../..
-          
           echo "| **Total** | **$total** |" >> table.txt
-          
-          cat table.txt
           echo "TOTAL=$total" >> $GITHUB_ENV
       
       - name: Update README
         run: |
-          if grep -q "<!-- STATS -->" README.md; then
-            sed -i '/<!-- STATS -->/r table.txt' README.md
-            sed -i '/<!-- STATS -->/d' README.md
-          else
-            sed -i '1a\\n<!-- STATS -->' README.md
-            sed -i '/<!-- STATS -->/r table.txt' README.md
-            sed -i '/<!-- STATS -->/d' README.md
-          fi
-          
+          sed -i '/<!-- QUESTION_TABLE -->/,/<!-- END_TABLE -->/!b; /<!-- QUESTION_TABLE -->/!d; r table.txt' README.md
           rm table.txt
       
       - uses: stefanzweifel/git-auto-commit-action@v5
