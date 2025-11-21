@@ -4,7 +4,7 @@ on:
   push:
     branches: [main, master]
     paths:
-      - 'dataset/data/**/*.json'
+      - 'Afghanistan-kankoor-questions-dataset/dataset/data/**/*.json'
   workflow_dispatch:
 
 permissions:
@@ -15,49 +15,53 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
       
-      - name: Count questions and generate table
+      - name: Count questions and create table
         run: |
-          echo "| Subject | Questions |" > table.tmp
-          echo "|---------|----------|" >> table.tmp
+          echo "| Subject | Questions |" > table.txt
+          echo "|---------|----------|" >> table.txt
           
           total=0
           
-          for file in dataset/data/*/*.json; do
-            if [ -f "$file" ] && [ "$(basename "$file")" != "schema.json" ]; then
-              folder=$(basename "$(dirname "$file")")
-              count=$(jq 'length' "$file" 2>/dev/null || echo 0)
-              
-              # Format subject name (capitalize, replace underscores)
-              subject=$(echo "$folder" | sed 's/_/ /g' | awk '{for(i=1;i<=NF;i++) $i=toupper(substr($i,1,1)) tolower(substr($i,2));}1')
-              
-              echo "| $subject | $count |" >> table.tmp
-              total=$((total + count))
+          cd Afghanistan-kankoor-questions-dataset/dataset/data
+          
+          for dir in */; do
+            if [ -d "$dir" ]; then
+              folder=${dir%/}
+              for jsonfile in "$folder"/*.json; do
+                if [ -f "$jsonfile" ]; then
+                  count=$(jq 'length' "$jsonfile")
+                  subject=$(echo "$folder" | sed 's/_/ /g' | awk '{for(i=1;i<=NF;i++)sub(/./,toupper(substr($i,1,1)),$i)}1')
+                  echo "| $subject | $count |" >> ../../../table.txt
+                  total=$((total + count))
+                  echo "Found $count questions in $subject"
+                fi
+              done
             fi
           done
           
-          echo "| **Total** | **$total** |" >> table.tmp
+          cd ../../..
           
-          cat table.tmp
+          echo "| **Total** | **$total** |" >> table.txt
+          
+          cat table.txt
           echo "TOTAL=$total" >> $GITHUB_ENV
       
-      - name: Update README with table
+      - name: Update README
         run: |
-          if ! grep -q "<!-- QUESTIONS_TABLE_START -->" README.md; then
-            sed -i '/This dataset contains \*\*Kankoor/a \\n<!-- QUESTIONS_TABLE_START -->\n<!-- QUESTIONS_TABLE_END -->' README.md
+          if grep -q "<!-- STATS -->" README.md; then
+            sed -i '/<!-- STATS -->/r table.txt' README.md
+            sed -i '/<!-- STATS -->/d' README.md
+          else
+            sed -i '1a\\n<!-- STATS -->' README.md
+            sed -i '/<!-- STATS -->/r table.txt' README.md
+            sed -i '/<!-- STATS -->/d' README.md
           fi
           
-          sed -i '/<!-- QUESTIONS_TABLE_START -->/,/<!-- QUESTIONS_TABLE_END -->/{//!d;}' README.md
-          sed -i '/<!-- QUESTIONS_TABLE_START -->/r table.tmp' README.md
-          
-          rm table.tmp
+          rm table.txt
       
-      - name: Commit and push if changed
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🔄 Auto-update: Total questions → ${{ env.TOTAL }}"
+          commit_message: "📊 Update: ${{ env.TOTAL }} total questions"
           file_pattern: README.md
