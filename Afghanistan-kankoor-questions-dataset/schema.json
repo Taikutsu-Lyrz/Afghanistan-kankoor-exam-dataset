@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Kankoor Exam Question Schema",
+  "description": "Schema for all Kankoor exam questions in Afghanistan",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer",
+      "description": "Unique question ID"
+    },
+    "question": {
+      "type": "string",
+      "description": "The text of the question"
+    },
+    "options": {
+      "type": "array",
+      "description": "Array of multiple-choice options",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 2
+    },
+    "correctOption": {
+      "type": "integer",
+      "description": "Index of the correct option (1-based)",
+      "minimum": 1
+    },
+    "correctAnswer": {
+      "type": "string",
+      "description": "Correct option as text"
+    },
+    "subject": {
+      "type": "string",
+      "description": "Subject of the question, e.g., Geology, Dari"
+    },
+    "difficulty": {
+      "type": "string",
+      "enum": ["easy", "medium", "hard"],
+      "description": "Difficulty level"
+    },
+    "year": {
+      "type": ["integer", "null"],
+      "description": "Optional: year the question appeared in Kankoor exam"
+    }
+  },
+  "required": ["id", "question", "options", "correctOption", "correctAnswer", "subject"],
+  "additionalProperties": false
+}
