@@ -30,21 +30,22 @@ jobs:
           import json
           import os
           import re
+          from collections import defaultdict
           
           # Count questions
           total = 0
-          subjects = []
+          subject_counts = defaultdict(int)
           
           data_path = "Afghanistan-kankoor-questions-dataset/dataset/data"
           
           print(f"Looking in: {data_path}")
-          print(f"Folders found: {os.listdir(data_path)}")
+          print(f"Folders found: {os.listdir(data_path)}\n")
           
           for folder in sorted(os.listdir(data_path)):
             folder_path = os.path.join(data_path, folder)
             if os.path.isdir(folder_path):
-              print(f"\nChecking folder: {folder}")
-              for file in os.listdir(folder_path):
+              print(f"Checking folder: {folder}")
+              for file in sorted(os.listdir(folder_path)):
                 if file.endswith('.json') and file != 'schema.json':
                   file_path = os.path.join(folder_path, file)
                   print(f"  Reading: {file}")
@@ -53,21 +54,22 @@ jobs:
                       data = json.load(f)
                       count = len(data)
                       subject = folder.replace('_', ' ').title()
-                      subjects.append((subject, count))
+                      subject_counts[subject] += count
                       total += count
-                      print(f"  ✓ {subject}: {count} questions")
+                      print(f"    ✓ Found {count} questions")
                   except Exception as e:
-                    print(f"  ✗ Error reading {file}: {e}")
+                    print(f"    ✗ Error: {e}")
+              print()
           
-          print(f"\n{'='*50}")
+          print(f"{'='*50}")
           print(f"TOTAL QUESTIONS: {total}")
           print(f"{'='*50}\n")
           
           # Create table
           table = "| Subject | Questions |\n"
           table += "|---------|----------|\n"
-          for subject, count in sorted(subjects):
-            table += f"| {subject} | {count} |\n"
+          for subject in sorted(subject_counts.keys()):
+            table += f"| {subject} | {subject_counts[subject]} |\n"
           table += f"| **Total** | **{total}** |"
           
           # Read README
@@ -86,7 +88,6 @@ jobs:
             print("✓ README updated successfully!")
           else:
             print("✗ ERROR: Markers not found in README.md")
-            print("Please add <!-- QUESTION_TABLE --> and <!-- END_TABLE --> to your README")
           EOF
       
       - uses: stefanzweifel/git-auto-commit-action@v5
