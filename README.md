@@ -41,7 +41,7 @@ Each subject has its own JSON folder containing the file inside the `dataset/` d
 - **Dari**
 - **Chemistry** 
 - **Physics** 
-- **Math** ← *Newly added*
+- **Math (Integral)** ← *Newly added*
 
 
   
@@ -70,25 +70,27 @@ Afghanistan-kankoor-questions-dataset/
 ├── .github/
 │   └── workflows/
 │       └── update-count.yml
-|
+│
 ├── dataset/
-│   └── data/
-│       ├── geology/
-│       │   └── geology.json
-│       ├── dari/
-│       │   └── dari.json
-│       ├── chemistry/
-│       │   └── general_chemistry.json
-│       ├── physics/
-│       │   └── physics_mechanics_simple.json
-|       ├── math/
-│       |   └── math_geomatry.json
-|       └── schema.json
-|
+│   ├── data/
+│   │   ├── geology/
+│   │   │   └── geology.json
+│   │   ├── dari/
+│   │   │   └── dari.json
+│   │   ├── chemistry/
+│   │   │   └── general_chemistry.json
+│   │   ├── physics/
+│   │   │   └── physics_mechanics_simple.json
+│   │   └── math/
+│   │       ├── math_geometry.json
+│   │       └── math_integral.json
+│   └── schema.json
+│
 ├── CONTRIBUTING.md
 ├── LICENSE
 ├── README.md
 └── countQuestions.js
+
 ```
 
 **github/workflows/update-count.yml** — GitHub Actions workflow to automatically update total question count <br>
