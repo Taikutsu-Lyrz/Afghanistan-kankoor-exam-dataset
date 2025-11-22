@@ -1,0 +1,2108 @@
+[
+  {
+    "id": 1,
+    "question": "\\int_{1}^{2}\\frac{1}{18}(2+4x^{2})xdx",
+    "options": ["2", "3", "4", "1"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 2,
+    "question": "\\int cos~2x dx",
+    "options": ["-2~sin~2x+C", "\\frac{1}{2}sin~2x+C", "-\\frac{1}{2}sin~2x+C", "2~sin~2x+C"],
+    "correctOption": 2,
+    "correctAnswer": "\\frac{1}{2}sin~2x+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "question": "\\int cos~4x dx",
+    "options": ["4~sin~4x+C", "\\frac{1}{4}sin~4x+C", "-\\frac{1}{4}sin~4x+C", "sin~4x+C"],
+    "correctOption": 2,
+    "correctAnswer": "\\frac{1}{4}sin~4x+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "question": "\\int\\frac{(x^{3}+1)(x^{3}-1)}{x^{5}}dx",
+    "options": ["\\frac{1}{2}x^{2}+\\frac{1}{4}x^{-2}+C", "\\frac{1}{2}x^{2}+\\frac{1}{4}x^{-4}+C", "\\frac{1}{2}x^{2}+\\frac{1}{4}x^{4}+C", "\\frac{1}{4}x^{2}-\\frac{1}{2}x^{-4}+C"],
+    "correctOption": 2,
+    "correctAnswer": "\\frac{1}{2}x^{2}+\\frac{1}{4}x^{-4}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 5,
+    "question": "\\int ln\\sqrt[5]{x^{2}}dx",
+    "options": ["\\frac{4}{5}x(ln|x|-1)+C", "\\frac{2}{5}x(ln|x|-1)+C", "\\frac{4}{5}x(ln|x|+1)+C", "\\frac{2}{5}x(ln|x|+1)+C"],
+    "correctOption": 2,
+    "correctAnswer": "\\frac{2}{5}x(ln|x|-1)+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 6,
+    "question": "\\int(2-x)^{5}dx",
+    "options": ["\\frac{(x-2)^{6}}{6}+C", "\\frac{(2-x)^{6}}{6}+C", "-\\frac{(2-x)^{6}}{6}+C", "\\frac{(2+x)^{6}}{6}+C"],
+    "correctOption": 3,
+    "correctAnswer": "-\\frac{(2-x)^{6}}{6}+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 7,
+    "question": "\\int(4+x)^{5}dx",
+    "options": ["\\frac{(4+x)^{6}}{6}+C", "\\frac{(4-x)^{6}}{6}+C", "6(4+x)^6+C", "\\frac{(4+x)^{4}}{4}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{(4+x)^{6}}{6}+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 8,
+    "question": "\\int 3^{x+2}cos~3^{x}dx",
+    "options": ["9~ln~3\\cdot sin~3^{x}+C", "\\frac{3}{ln~3}sin~3^{x}+C", "\\frac{9}{ln~3}sin~3^{x}+C", "-\\frac{9}{ln~3}sin~3^{x}+C"],
+    "correctOption": 3,
+    "correctAnswer": "\\frac{9}{ln~3}sin~3^{x}+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 9,
+    "question": "\\int_{0}^{\\infty}\\frac{2dx}{x+2}",
+    "options": ["0", "1", "\\infty", "ln 2"],
+    "correctOption": 3,
+    "correctAnswer": "\\infty",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 10,
+    "question": "\\int_{0}^{1}x^{2}\\sqrt{x^{3}+1}dx",
+    "options": ["\\frac{2}{9}(\\sqrt{8}-1)", "\\frac{2}{9}\\sqrt{8}", "\\frac{1}{9}(\\sqrt{8}-1)", "\\frac{2}{3}(\\sqrt{8}-1)"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{2}{9}(\\sqrt{8}-1)",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 11,
+    "question": "\\int_{0}^{1}\\sqrt{\\sqrt{x}}dx",
+    "options": ["\\frac{1}{5}", "\\frac{1}{4}", "\\frac{4}{5}", "\\frac{5}{4}"],
+    "correctOption": 3,
+    "correctAnswer": "\\frac{4}{5}",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 12,
+    "question": "\\int \\frac{cos^{2}xdx}{(\\sqrt{1-sin^{2}x})^{2}}",
+    "options": ["x+C", "\\frac{\\pi}{2}", "0", "1"],
+    "correctOption": 1,
+    "correctAnswer": "x+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 13,
+    "question": "اگر تابع F(t) تابع اولیه f(t) باشد، کدام رابطه درست است؟",
+    "options": ["\\int_{a}^{b}f(t)dt=F(b)-F(a)", "\\int_{a}^{b}f(t)dt=F(a)-F(b)", "\\int_{a}^{b}f(t)dt=F(b)+F(a)", "هیچکدام"],
+    "correctOption": 1,
+    "correctAnswer": "\\int_{a}^{b}f(t)dt=F(b)-F(a)",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 14,
+    "question": "\\int(6x-5)^{3}dx",
+    "options": ["\\frac{(6x-5)^{4}}{24}+C", "\\frac{(6x-5)^{4}}{18}+C", "\\frac{(6x-5)^{4}}{6}+C", "\\frac{(6x-5)^{4}}{4}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{(6x-5)^{4}}{24}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 15,
+    "question": "\\int_{0}^{2}3x^{2}cos~x^{3}dx",
+    "options": ["sin 8", "cos 8", "sin 2", "1"],
+    "correctOption": 1,
+    "correctAnswer": "sin 8",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 16,
+    "question": "\\int 3^{x+1}dx",
+    "options": ["\\frac{3^{x+1}}{ln 3}+C", "\\frac{3^{x+1}}{3 ln 3}+C", "3^{x+1} ln 3 + C", "\\frac{3^{x}}{ln 3}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{3^{x+1}}{ln 3}+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 17,
+    "question": "\\int_{0}^{1}\\sqrt{3x+1}dx",
+    "options": ["\\frac{14}{9}", "\\frac{16}{9}", "\\frac{15}{9}", "\\frac{12}{9}"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{14}{9}",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 18,
+    "question": "\\int_{0}^{2}\\frac{dx}{(3-2x)^{2}}",
+    "options": ["\\frac{1}{5}", "\\frac{2}{3}", "\\frac{1}{3}", "\\frac{2}{5}"],
+    "correctOption": 2,
+    "correctAnswer": "\\frac{2}{3}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 19,
+    "question": "قیمت B در تجزیه کسر \\frac{x-3}{9x^2-1} = \\frac{A}{3x-1} + \\frac{B}{3x+1}",
+    "options": ["\\frac{5}{3}", "-\\frac{5}{3}", "\\frac{4}{3}", "-\\frac{4}{3}"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{5}{3}",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 20,
+    "question": "\\int_{0}^{\\infty}x(1-x^{2})dx",
+    "options": ["0", "1", "\\infty", "-\\infty"],
+    "correctOption": 4,
+    "correctAnswer": "-\\infty",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 21,
+    "question": "\\int\\frac{dx}{x^{2}}",
+    "options": ["-\\frac{1}{x}+C", "\\frac{1}{x}+C", "ln x + C", "x^{-2}+C"],
+    "correctOption": 1,
+    "correctAnswer": "-\\frac{1}{x}+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 22,
+    "question": "\\int 3x^{2}dx",
+    "options": ["x^{3}+C", "3x^{3}+C", "x^{2}+C", "\\frac{1}{3}x^{3}+C"],
+    "correctOption": 1,
+    "correctAnswer": "x^{3}+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 23,
+    "question": "\\int_{0}^{1}\\frac{x}{x^{2}+x}dx",
+    "options": ["ln 2", "ln 3", "0", "1"],
+    "correctOption": 1,
+    "correctAnswer": "ln 2",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 24,
+    "question": "\\int(2x^{2}+3)dx",
+    "options": ["\\frac{2}{3}x^{3}+3x+C", "2x^{3}+3x+C", "x^{3}+3x+C", "\\frac{2}{3}x^{3}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{2}{3}x^{3}+3x+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 25,
+    "question": "\\int_{-\\infty}^{-1}\\frac{1}{x}dx",
+    "options": ["-\\infty", "\\infty", "0", "1"],
+    "correctOption": 1,
+    "correctAnswer": "-\\infty",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 26,
+    "question": "\\int_{0}^{1}(2x-2x^{2})dx",
+    "options": ["\\frac{1}{3}", "\\frac{1}{2}", "0", "1"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{3}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 27,
+    "question": "\\int_{1}^{4}\\frac{1}{\\sqrt{x}}dx",
+    "options": ["2", "1", "3", "4"],
+    "correctOption": 1,
+    "correctAnswer": "2",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 28,
+    "question": "\\int_{0}^{1}\\frac{1}{1+x^{2}}dx",
+    "options": ["\\frac{\\pi}{4}", "\\frac{\\pi}{2}", "\\pi", "1"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{\\pi}{4}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 29,
+    "question": "\\int(\\frac{2}{3}x^{4}-3x+2)dx",
+    "options": ["\\frac{2}{15}x^{5}-\\frac{3}{2}x^{2}+2x+C", "\\frac{2}{15}x^{5}-\\frac{3}{2}x+C", "x^{5}-x^{2}+2x+C", "\\frac{2}{5}x^{5}-3x^{2}+2x+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{2}{15}x^{5}-\\frac{3}{2}x^{2}+2x+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 30,
+    "question": "\\int_{\\pi}^{\\pi}d\\theta",
+    "options": ["0", "\\pi", "2\\pi", "1"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 31,
+    "question": "اگر f(x)=cos(\\pi) باشد، \\int f(x)dx مساوی است به:",
+    "options": ["-x+C", "x+C", "cos(\\pi x)+C", "sin(\\pi)+C"],
+    "correctOption": 1,
+    "correctAnswer": "-x+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 32,
+    "question": "\\int cot x dx",
+    "options": ["ln|sin x|+C", "ln|cos x|+C", "-ln|sin x|+C", "-ln|cos x|+C"],
+    "correctOption": 1,
+    "correctAnswer": "ln|sin x|+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 33,
+    "question": "\\int_{ln 2}^{ln 6}e^x dx",
+    "options": ["4", "8", "3", "12"],
+    "correctOption": 1,
+    "correctAnswer": "4",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 34,
+    "question": "\\int 3^{x+10}dx",
+    "options": ["\\frac{3^{x+10}}{ln 3}+C", "3^{x+10} ln 3 + C", "\\frac{1}{10 ln 3}3^{x+10}+C", "3^{x+10}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{3^{x+10}}{ln 3}+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 35,
+    "question": "\\int_{0}^{2}(4x^{3}-1)dx",
+    "options": ["14", "12", "10", "16"],
+    "correctOption": 1,
+    "correctAnswer": "14",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 36,
+    "question": "\\int_{1}^{3}(4-x^{2})dx",
+    "options": ["-\\frac{2}{3}", "\\frac{2}{3}", "0", "1"],
+    "correctOption": 1,
+    "correctAnswer": "-\\frac{2}{3}",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 37,
+    "question": "\\int e^{4+x}sin(e^{4+x})dx",
+    "options": ["-cos(e^{4+x})+C", "cos(e^{4+x})+C", "-sin(e^{4+x})+C", "sin(e^{4+x})+C"],
+    "correctOption": 1,
+    "correctAnswer": "-cos(e^{4+x})+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 38,
+    "question": "قیمت A در تجزیه \\frac{x+9}{x^2+4x+3} = \\frac{A}{x+1} + \\frac{B}{x+3}",
+    "options": ["4", "3", "2", "1"],
+    "correctOption": 1,
+    "correctAnswer": "4",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 39,
+    "question": "\\int(\\frac{x+\\pi}{x})dx",
+    "options": ["x+\\pi ln|x|+C", "x+ln|x|+C", "ln|x|+C", "x+\\pi x + C"],
+    "correctOption": 1,
+    "correctAnswer": "x+\\pi ln|x|+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 40,
+    "question": "\\int \\frac{(\\sqrt{27}x+\\sqrt{12})^{6}}{(2+3x)^{5}}dx",
+    "options": ["\\frac{27}{2}(2+3x)^2+C", "\\frac{9}{2}(2+3x)^2+C", "27(2+3x)+C", "\\frac{3}{2}(2+3x)^2+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{27}{2}(2+3x)^2+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 41,
+    "question": "\\int x sin(x^2) dx",
+    "options": ["-\\frac{1}{2}cos(x^2)+C", "\\frac{1}{2}cos(x^2)+C", "-cos(x^2)+C", "sin(x^2)+C"],
+    "correctOption": 1,
+    "correctAnswer": "-\\frac{1}{2}cos(x^2)+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 42,
+    "question": "\\int_{1}^{2}\\frac{ln^{2}x^{2}}{ln^{2}x}dx",
+    "options": ["4", "2", "1", "0"],
+    "correctOption": 1,
+    "correctAnswer": "4",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 43,
+    "question": "\\int x cos x dx",
+    "options": ["cos x + x sin x + C", "x sin x - cos x + C", "sin x + x cos x + C", "x cos x - sin x + C"],
+    "correctOption": 1,
+    "correctAnswer": "cos x + x sin x + C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 44,
+    "question": "\\int \\frac{1+cos^3 x}{1-cos x+cos^2 x} dx",
+    "options": ["x+sin x+C", "x-sin x+C", "x+cos x+C", "x-cos x+C"],
+    "correctOption": 1,
+    "correctAnswer": "x+sin x+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 45,
+    "question": "\\int_{-3}^{3}\\frac{(x+2)^{2}}{x^{2}+4}dx",
+    "options": ["6+\\pi", "6", "3+\\pi", "0"],
+    "correctOption": 1,
+    "correctAnswer": "6+\\pi",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 46,
+    "question": "\\int \\sqrt{x} dx",
+    "options": ["\\frac{2}{3}x^{3/2}+C", "\\frac{3}{2}x^{3/2}+C", "\\frac{1}{2}x^{-1/2}+C", "x^{3/2}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{2}{3}x^{3/2}+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 47,
+    "question": "\\int |x| dx",
+    "options": ["\\frac{1}{2}x|x|+C", "x^2+C", "\\frac{1}{2}x^2+C", "|x|+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{2}x|x|+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 48,
+    "question": "\\int_{2}^{4}\\frac{1}{x^{2}}dx",
+    "options": ["\\frac{1}{4}", "\\frac{1}{2}", "\\frac{3}{4}", "\\frac{1}{3}"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{4}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 49,
+    "question": "تجزیه کسر \\frac{1}{x^2-1}",
+    "options": ["\\frac{1}{2}(\\frac{1}{x-1}-\\frac{1}{x+1})", "\\frac{1}{x-1}+\\frac{1}{x+1}", "\\frac{1}{x-1}-\\frac{1}{x+1}", "\\frac{1}{2}(\\frac{1}{x+1}-\\frac{1}{x-1})"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{2}(\\frac{1}{x-1}-\\frac{1}{x+1})",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 50,
+    "question": "\\int\\frac{dx}{\\sqrt{x}csc\\sqrt{x}}",
+    "options": ["-2cos\\sqrt{x}+C", "2cos\\sqrt{x}+C", "2sin\\sqrt{x}+C", "-2sin\\sqrt{x}+C"],
+    "correctOption": 1,
+    "correctAnswer": "-2cos\\sqrt{x}+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 51,
+    "question": "\\int sin(x^2) d(x^2)",
+    "options": ["-cos(x^2)+C", "cos(x^2)+C", "sin(x^2)+C", "-sin(x^2)+C"],
+    "correctOption": 1,
+    "correctAnswer": "-cos(x^2)+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 52,
+    "question": "برای n=4، \\int x^n dx مساوی است به",
+    "options": ["\\frac{x^5}{5}+C", "\\frac{x^4}{4}+C", "x^5+C", "5x^5+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{x^5}{5}+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 53,
+    "question": "\\int e^{2x}sin(e^{2x})dx",
+    "options": ["-cos(e^{2x})+C", "cos(e^{2x})+C", "sin(e^{2x})+C", "-sin(e^{2x})+C"],
+    "correctOption": 1,
+    "correctAnswer": "-cos(e^{2x})+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 54,
+    "question": "\\int \\frac{5cos\\sqrt{x}}{\\sqrt{x}}dx",
+    "options": ["10sin\\sqrt{x}+C", "5sin\\sqrt{x}+C", "10cos\\sqrt{x}+C", "5cos\\sqrt{x}+C"],
+    "correctOption": 1,
+    "correctAnswer": "10sin\\sqrt{x}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 55,
+    "question": "اگر \\int_{0}^{8}f(x)dx=12 و \\int_{0}^{10}f(x)dx=17، آنگاه \\int_{8}^{10}f(x)dx مساوی است به:",
+    "options": ["5", "29", "6", "4"],
+    "correctOption": 1,
+    "correctAnswer": "5",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 56,
+    "question": "\\int\\sqrt[3]{x^{8}}dx",
+    "options": ["\\frac{3}{11}x^{11/3}+C", "\\frac{3}{8}x^{8/3}+C", "\\frac{11}{3}x^{11/3}+C", "x^{11/3}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{3}{11}x^{11/3}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 57,
+    "question": "\\int\\frac{2dx}{x+2}",
+    "options": ["2ln|x+2|+C", "ln|x+2|+C", "\\frac{2}{x+2}+C", "2(x+2)+C"],
+    "correctOption": 1,
+    "correctAnswer": "2ln|x+2|+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 58,
+    "question": "\\int 10^{x}(\\frac{1}{2})^{x}dx",
+    "options": ["\\frac{5^x}{ln 5}+C", "5^x ln 5+C", "\\frac{10^x}{ln 5}+C", "\\frac{5^x}{ln 10}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{5^x}{ln 5}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 59,
+    "question": "\\int_{0}^{\\pi/2}(sin~x+cos~x)dx",
+    "options": ["2", "0", "1", "\\pi"],
+    "correctOption": 1,
+    "correctAnswer": "2",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 60,
+    "question": "\\int e^{-5x}dx",
+    "options": ["-\\frac{1}{5}e^{-5x}+C", "\\frac{1}{5}e^{-5x}+C", "-5e^{-5x}+C", "e^{-5x}+C"],
+    "correctOption": 1,
+    "correctAnswer": "-\\frac{1}{5}e^{-5x}+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 61,
+    "question": "\\int\\frac{cos^{2}x-sin^{2}x-sin~x}{sin~x~cos~x+cos~x}dx",
+    "options": ["ln|1+sin x|+cos x+C", "ln|sin 2x|+C", "ln|cos x|+C", "ln|1+sin x|-x+C"],
+    "correctOption": 4,
+    "correctAnswer": "ln|1+sin x|-x+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 62,
+    "question": "\\int e^{x}sin(e^{x}+3)dx",
+    "options": ["-cos(e^{x}+3)+C", "cos(e^{x}+3)+C", "sin(e^{x}+3)+C", "-sin(e^{x}+3)+C"],
+    "correctOption": 1,
+    "correctAnswer": "-cos(e^{x}+3)+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 63,
+    "question": "تفاوت بین دو تابع اولیه یک تابع چیست؟",
+    "options": ["یک عدد ثابت", "یک تابع خطی", "صفر", "بی نهایت"],
+    "correctOption": 1,
+    "correctAnswer": "یک عدد ثابت",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 64,
+    "question": "\\int\\sqrt[3]{3x^{2}}dx",
+    "options": ["\\frac{3}{5}\\sqrt[3]{3}x^{5/3}+C", "\\frac{3}{5}x^{5/3}+C", "\\frac{5}{3}\\sqrt[3]{3}x^{5/3}+C", "\\frac{1}{5}x^{5}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{3}{5}\\sqrt[3]{3}x^{5/3}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 65,
+    "question": "\\int(\\frac{\\pi}{3x^{2}}-5\\sqrt{x})dx",
+    "options": ["-\\frac{\\pi}{3x}-\\frac{10}{3}x^{3/2}+C", "\\frac{\\pi}{3x}-\\frac{10}{3}x^{3/2}+C", "-\\frac{\\pi}{3x}+\\frac{10}{3}x^{3/2}+C", "\\frac{\\pi}{x}-5x^{3/2}+C"],
+    "correctOption": 1,
+    "correctAnswer": "-\\frac{\\pi}{3x}-\\frac{10}{3}x^{3/2}+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 66,
+    "question": "\\int_{0}^{1}\\frac{1}{\\sqrt{x+1}+\\sqrt{x}}dx",
+    "options": ["\\frac{2}{3}(\\sqrt{8}-1)", "\\frac{4}{3}(\\sqrt{2}-1)", "\\frac{2}{3}(2\\sqrt{2}-1)", "2"],
+    "correctOption": 2,
+    "correctAnswer": "\\frac{4}{3}(\\sqrt{2}-1)",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 67,
+    "question": "\\int_{-3}^{3}\\frac{1}{x^{2}}dx",
+    "options": ["واگرا (Undefined)", "0", "\\frac{2}{3}", "-\\frac{2}{3}"],
+    "correctOption": 1,
+    "correctAnswer": "واگرا (Undefined)",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 68,
+    "question": "\\int\\sqrt{2px}dx",
+    "options": ["\\frac{2}{3}\\sqrt{2p}x^{3/2}+C", "\\frac{1}{3}\\sqrt{2p}x^{3/2}+C", "\\sqrt{2p}x+C", "2px+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{2}{3}\\sqrt{2p}x^{3/2}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 69,
+    "question": "\\int ln xdx",
+    "options": ["x ln x - x + C", "x ln x + C", "ln x - x + C", "\\frac{1}{x}+C"],
+    "correctOption": 1,
+    "correctAnswer": "x ln x - x + C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 70,
+    "question": "\\int_{2}^{6}\\frac{x^{3}-2x^{2}}{x^{2}}dx",
+    "options": ["8", "10", "12", "16"],
+    "correctOption": 1,
+    "correctAnswer": "8",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 71,
+    "question": "\\int_{0}^{2}(4x^{3}+5)dx",
+    "options": ["26", "21", "16", "30"],
+    "correctOption": 1,
+    "correctAnswer": "26",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 72,
+    "question": "\\int\\frac{2x+1}{x^{2}+1}dx",
+    "options": ["ln(x^2+1)+arctan x+C", "ln(x^2+1)+C", "arctan x+C", "2ln(x)+C"],
+    "correctOption": 1,
+    "correctAnswer": "ln(x^2+1)+arctan x+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 73,
+    "question": "\\int x sin x dx",
+    "options": ["sin x - x cos x + C", "x cos x - sin x + C", "cos x + x sin x + C", "sin x + C"],
+    "correctOption": 1,
+    "correctAnswer": "sin x - x cos x + C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 74,
+    "question": "\\int a^{x-b}dx",
+    "options": ["\\frac{a^{x-b}}{ln a}+C", "a^{x-b} ln a+C", "\\frac{a^{x}}{ln a}+C", "a^{x-b}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{a^{x-b}}{ln a}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 75,
+    "question": "\\int_{0}^{1}x(1-x^{2})dx",
+    "options": ["\\frac{1}{4}", "\\frac{1}{2}", "\\frac{1}{3}", "0"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{4}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 76,
+    "question": "\\int_{8}^{27}(\\frac{\\sqrt[3]{x}}{x})dx",
+    "options": ["1", "2", "3", "4"],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 77,
+    "question": "\\int\\frac{e^{6 ln x}-e^{5 ln x}}{e^{4 ln x}-e^{3 ln x}}dx",
+    "options": ["\\frac{x^3}{3}+C", "\\frac{x^2}{2}+C", "x+C", "ln x+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{x^3}{3}+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 78,
+    "question": "\\int tan^{2}xdx",
+    "options": ["tan x - x + C", "tan x + x + C", "sec^2 x + C", "cot x + C"],
+    "correctOption": 1,
+    "correctAnswer": "tan x - x + C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 79,
+    "question": "\\int_{0}^{1}\\frac{1}{2x-3}dx",
+    "options": ["-\\frac{1}{2}ln 3", "\\frac{1}{2}ln 3", "ln 3", "-ln 3"],
+    "correctOption": 1,
+    "correctAnswer": "-\\frac{1}{2}ln 3",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 80,
+    "question": "\\int_{2}^{3}\\frac{ln^{4}x^{3}}{ln^{4}x}dx",
+    "options": ["81", "27", "9", "3"],
+    "correctOption": 1,
+    "correctAnswer": "81",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 81,
+    "question": "\\int\\frac{(x^{6}-1)(x^{6}+1)}{x^{6}}dx",
+    "options": ["\\frac{x^7}{7}+\\frac{1}{5x^5}+C", "\\frac{x^7}{7}-\\frac{1}{5x^5}+C", "x^7+x^5+C", "\\frac{x^6}{6}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{x^7}{7}+\\frac{1}{5x^5}+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 82,
+    "question": "\\int_{1}^{e}\\frac{dx}{x}",
+    "options": ["1", "0", "e", "ln 2"],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 83,
+    "question": "\\int_{0}^{1}8\\sqrt[5]{x^{3}}dx",
+    "options": ["5", "8", "3", "1"],
+    "correctOption": 1,
+    "correctAnswer": "5",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 84,
+    "question": "\\int\\frac{sin x}{4}dx",
+    "options": ["-\\frac{1}{4}cos x+C", "\\frac{1}{4}cos x+C", "4 cos x+C", "-4 cos x+C"],
+    "correctOption": 1,
+    "correctAnswer": "-\\frac{1}{4}cos x+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 85,
+    "question": "\\int_{1}^{2}\\frac{1}{x^{2}}dx",
+    "options": ["\\frac{1}{2}", "-\\frac{1}{2}", "1", "2"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{2}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 86,
+    "question": "\\int\\frac{sin 2x}{2 sin x}dx",
+    "options": ["sin x+C", "cos x+C", "-cos x+C", "2sin x+C"],
+    "correctOption": 1,
+    "correctAnswer": "sin x+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 87,
+    "question": "\\int\\frac{(1+x)(1-x)}{x-x^{3}}dx",
+    "options": ["ln|x|+C", "ln|x^2|+C", "x+C", "1/x+C"],
+    "correctOption": 1,
+    "correctAnswer": "ln|x|+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 88,
+    "question": "\\int_{0}^{5}\\frac{xdx}{x^{2}+10}",
+    "options": ["\\frac{1}{2}ln(3.5)", "\\frac{1}{2}ln(35)", "ln 3.5", "ln 35"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{2}ln(3.5)",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 89,
+    "question": "\\int x cos 2x dx",
+    "options": ["\\frac{1}{2}x sin 2x + \\frac{1}{4}cos 2x + C", "\\frac{1}{2}x sin 2x - \\frac{1}{4}cos 2x + C", "x sin 2x + C", "sin 2x + cos 2x + C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{2}x sin 2x + \\frac{1}{4}cos 2x + C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 90,
+    "question": "\\int_{0}^{7}\\sqrt{4+3x}dx",
+    "options": ["26", "27", "25", "28"],
+    "correctOption": 1,
+    "correctAnswer": "26",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 91,
+    "question": "اگر \\int_{-1}^{1}f(x)dx=5 و \\int_{1}^{4}f(x)dx=-2، آنگاه \\int_{-1}^{4}f(x)dx مساوی است به:",
+    "options": ["3", "7", "-3", "10"],
+    "correctOption": 1,
+    "correctAnswer": "3",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 92,
+    "question": "\\int_{-2}^{0}(\\frac{x^{3}}{4}+\\frac{x^{2}}{3})dx",
+    "options": ["-\\frac{1}{9}", "\\frac{1}{9}", "0", "1"],
+    "correctOption": 1,
+    "correctAnswer": "-\\frac{1}{9}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 93,
+    "question": "\\int(x^{3}+2)^{2}3x^{2}dx",
+    "options": ["\\frac{1}{3}(x^{3}+2)^{3}+C", "\\frac{1}{2}(x^{3}+2)^{2}+C", "(x^{3}+2)^{3}+C", "3(x^{3}+2)^{3}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{3}(x^{3}+2)^{3}+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 94,
+    "question": "\\int\\sqrt{cos x}sin xdx",
+    "options": ["-\\frac{2}{3}(cos x)^{3/2}+C", "\\frac{2}{3}(cos x)^{3/2}+C", "\\frac{3}{2}(cos x)^{2/3}+C", "-(cos x)^{3/2}+C"],
+    "correctOption": 1,
+    "correctAnswer": "-\\frac{2}{3}(cos x)^{3/2}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 95,
+    "question": "\\int_{-1}^{1}3x^{2}\\sqrt{x^{3}+1}dx",
+    "options": ["\\frac{4}{3}\\sqrt{2}", "\\frac{2}{3}\\sqrt{2}", "2\\sqrt{2}", "\\frac{4}{3}"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{4}{3}\\sqrt{2}",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 96,
+    "question": "\\int_{-2}^{4}(-x)dx",
+    "options": ["-6", "6", "12", "-12"],
+    "correctOption": 1,
+    "correctAnswer": "-6",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 97,
+    "question": "قیمت A در تجزیه \\frac{x+9}{x^{2}+4x+3} = \\frac{A}{x+1} + \\frac{B}{x+3}",
+    "options": ["4", "-4", "3", "-3"],
+    "correctOption": 1,
+    "correctAnswer": "4",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 98,
+    "question": "\\int_{2}^{3}f(x)dx + \\int_{3}^{5}f(x)dx مساوی است به",
+    "options": ["\\int_{2}^{5}f(x)dx", "\\int_{2}^{3}f(x)dx", "0", "2\\int_{2}^{5}f(x)dx"],
+    "correctOption": 1,
+    "correctAnswer": "\\int_{2}^{5}f(x)dx",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 99,
+    "question": "\\int_{1}^{2}\\frac{4}{e^{2x-4}}dx",
+    "options": ["2(e^2-1)", "2(1-e^{-2})", "2e^2", "2(e-1)"],
+    "correctOption": 1,
+    "correctAnswer": "2(e^2-1)",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 100,
+    "question": "\\int\\frac{4^{x+3}}{2^{x}}dx",
+    "options": ["\\frac{2^{x+6}}{ln 2}+C", "\\frac{2^{x+3}}{ln 2}+C", "2^{x+6}+C", "\\frac{4^{x}}{ln 4}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{2^{x+6}}{ln 2}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 101,
+    "question": "\\int\\frac{x^{3}-3}{x^{2}}dx",
+    "options": ["\\frac{1}{2}x^{2}+\\frac{3}{x}+C", "\\frac{1}{2}x^{2}-\\frac{3}{x}+C", "\\frac{x^2}{2}+3ln|x|+C", "x^2+\\frac{3}{x}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{2}x^{2}+\\frac{3}{x}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 102,
+    "question": "\\int_{1}^{2}(2x+3)dx",
+    "options": ["5", "6", "7", "8"],
+    "correctOption": 2,
+    "correctAnswer": "6",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 103,
+    "question": "\\int_{0}^{\\infty}\\frac{dt}{(3-2t)^{2}}",
+    "options": ["\\frac{1}{6}", "\\frac{1}{3}", "0", "\\infty"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{6}",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 104,
+    "question": "\\int\\frac{1}{\\sqrt{x}}dx",
+    "options": ["2\\sqrt{x}+C", "\\sqrt{x}+C", "\\frac{1}{2}\\sqrt{x}+C", "x+C"],
+    "correctOption": 1,
+    "correctAnswer": "2\\sqrt{x}+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 105,
+    "question": "\\int\\frac{1}{a^{x}}dx",
+    "options": ["-\\frac{a^{-x}}{ln a}+C", "\\frac{a^{-x}}{ln a}+C", "a^{-x}ln a+C", "-a^{-x}+C"],
+    "correctOption": 1,
+    "correctAnswer": "-\\frac{a^{-x}}{ln a}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 106,
+    "question": "\\int_{0}^{1}(1-x^{2})^{3}xdx",
+    "options": ["\\frac{1}{8}", "\\frac{1}{4}", "\\frac{1}{2}", "1"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{8}",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 107,
+    "question": "\\int_{1}^{2}\\frac{dx}{(3-5x)^{2}}",
+    "options": ["\\frac{1}{14}", "\\frac{1}{7}", "\\frac{5}{14}", "\\frac{1}{2}"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{14}",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 108,
+    "question": "\\int_{0}^{2}(4x^{3}-1)dx",
+    "options": ["14", "15", "16", "13"],
+    "correctOption": 1,
+    "correctAnswer": "14",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 109,
+    "question": "\\int_{-\\infty}^{2}x(x+3)dx",
+    "options": ["\\infty", "-\\infty", "0", "10"],
+    "correctOption": 1,
+    "correctAnswer": "\\infty",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 110,
+    "question": "\\int_{-2}^{5}(4-2x)dx",
+    "options": ["7", "14", "0", "-7"],
+    "correctOption": 1,
+    "correctAnswer": "7",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 111,
+    "question": "\\int_{0}^{ln 2}e^{x}dx",
+    "options": ["1", "2", "ln 2", "e"],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 112,
+    "question": "\\int\\frac{(x^{6}-1)(x^{6}+1)}{x^{8}}dx",
+    "options": ["\\frac{x^5}{5}+\\frac{1}{7x^7}+C", "\\frac{x^5}{5}-\\frac{1}{7x^7}+C", "\\frac{x^4}{4}+C", "x^4+x^7+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{x^5}{5}+\\frac{1}{7x^7}+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 113,
+    "question": "\\int\\frac{x^{3}+1}{\\sqrt[5]{x}}dx",
+    "options": ["\\frac{5}{19}x^{19/5}+\\frac{5}{4}x^{4/5}+C", "\\frac{19}{5}x^{19/5}+C", "x^{19/5}+x^{4/5}+C", "\\frac{5}{4}x^{4/5}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{5}{19}x^{19/5}+\\frac{5}{4}x^{4/5}+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 114,
+    "question": "\\int_{0}^{2}\\sqrt{x+2}dx",
+    "options": ["\\frac{16}{3}-\\frac{4\\sqrt{2}}{3}", "\\frac{8}{3}", "4", "\\frac{14}{3}"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{16}{3}-\\frac{4\\sqrt{2}}{3}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 115,
+    "question": "\\int_{0}^{2}(x\\sqrt{x})^{2}dx",
+    "options": ["4", "8", "2", "6"],
+    "correctOption": 1,
+    "correctAnswer": "4",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 116,
+    "question": "\\int(\\frac{1}{2})^{x+9}dx",
+    "options": ["-\\frac{(1/2)^{x+9}}{ln 2}+C", "\\frac{(1/2)^{x+9}}{ln 2}+C", "(1/2)^{x+9}ln 2+C", "-(1/2)^{x+9}+C"],
+    "correctOption": 1,
+    "correctAnswer": "-\\frac{(1/2)^{x+9}}{ln 2}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 117,
+    "question": "\\lim_{n\\to\\infty}\\sum_{i=1}^{n}f(x_i)\\Delta x_i به کدام نام یاد میشود؟",
+    "options": ["لیمت مجموعه ریمان", "لیمت مجموعه نیوتن", "لیمت مجموعه اویلر", "لیمت مجموعه ارشمیدس"],
+    "correctOption": 1,
+    "correctAnswer": "لیمت مجموعه ریمان",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 118,
+    "question": "\\int\\sqrt[6]{x^{5}}dx",
+    "options": ["\\frac{6}{11}x^{11/6}+C", "\\frac{11}{6}x^{11/6}+C", "x^{11/6}+C", "6x^{11/6}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{6}{11}x^{11/6}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 119,
+    "question": "\\int_{1}^{4}\\frac{sin^{2}x}{(1-cos^{2}x)^{2}}dx",
+    "options": ["-\\frac{1}{3}cot^3 x+C", "tan x+C", "-cot x+C", "\\frac{1}{3}tan^3 x+C"],
+    "correctOption": 3,
+    "correctAnswer": "-cot x+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 120,
+    "question": "\\int ln\\sqrt[4]{x^{3}}dx",
+    "options": ["\\frac{3}{4}x(ln|x|-1)+C", "\\frac{4}{3}x(ln|x|-1)+C", "\\frac{3}{4}x ln x+C", "\\frac{3}{4}(x ln x - x)+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{3}{4}x(ln|x|-1)+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 121,
+    "question": "\\int\\frac{2sin xdx}{cos x}",
+    "options": ["-2ln|cos x|+C", "2ln|cos x|+C", "2ln|sin x|+C", "-2ln|sin x|+C"],
+    "correctOption": 1,
+    "correctAnswer": "-2ln|cos x|+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 122,
+    "question": "\\int_{0}^{1}(\\sqrt{x}-2)(\\sqrt{x}+2)dx",
+    "options": ["-\\frac{7}{2}", "\\frac{7}{2}", "-3", "3"],
+    "correctOption": 1,
+    "correctAnswer": "-\\frac{7}{2}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 123,
+    "question": "\\int_{0}^{1}e^{2x}dx",
+    "options": ["\\frac{1}{2}(e^{2}-1)", "e^{2}-1", "2(e^{2}-1)", "\\frac{1}{2}e^{2}"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{2}(e^{2}-1)",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 124,
+    "question": "\\int xdx",
+    "options": ["\\frac{1}{2}x^{2}+C", "x^{2}+C", "2x^{2}+C", "x+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{2}x^{2}+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 125,
+    "question": "\\int_{0}^{2}\\frac{x}{\\sqrt{1+4x^{2}}}dx",
+    "options": ["\\frac{1}{4}(\\sqrt{17}-1)", "\\frac{1}{4}\\sqrt{17}", "\\sqrt{17}-1", "\\frac{1}{2}(\\sqrt{17}-1)"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{4}(\\sqrt{17}-1)",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 126,
+    "question": "\\int cos~5x dx",
+    "options": ["\\frac{1}{5}sin 5x+C", "-\\frac{1}{5}sin 5x+C", "5sin 5x+C", "sin 5x+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{5}sin 5x+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 127,
+    "question": "\\int_{0}^{3}(2x+3)dx",
+    "options": ["18", "12", "9", "15"],
+    "correctOption": 1,
+    "correctAnswer": "18",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 128,
+    "question": "\\int e^{-8x+4}dx",
+    "options": ["-\\frac{1}{8}e^{-8x+4}+C", "\\frac{1}{8}e^{-8x+4}+C", "-8e^{-8x+4}+C", "e^{-8x+4}+C"],
+    "correctOption": 1,
+    "correctAnswer": "-\\frac{1}{8}e^{-8x+4}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 129,
+    "question": "اگر a یک عدد ثابت باشد، \\int a f(x)dx مساوی است به:",
+    "options": ["a\\int f(x)dx", "\\int f(x)dx + a", "\\int a dx \\cdot \\int f(x)dx", "هیچکدام"],
+    "correctOption": 1,
+    "correctAnswer": "a\\int f(x)dx",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 130,
+    "question": "\\int_{0}^{1}\\frac{3x^{2}}{x^{3}+1}dx",
+    "options": ["ln 2", "ln 3", "1", "0"],
+    "correctOption": 1,
+    "correctAnswer": "ln 2",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 131,
+    "question": "\\int_{0}^{1}8\\sqrt[5]{x^{3}}dx",
+    "options": ["5", "8", "3", "1"],
+    "correctOption": 1,
+    "correctAnswer": "5",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 132,
+    "question": "\\int 4e^x dx",
+    "options": ["4e^x+C", "e^x+C", "4xe^x+C", "\\frac{1}{4}e^x+C"],
+    "correctOption": 1,
+    "correctAnswer": "4e^x+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 133,
+    "question": "\\int_{0}^{2}(4x^{3}+5)dx",
+    "options": ["26", "21", "16", "30"],
+    "correctOption": 1,
+    "correctAnswer": "26",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 134,
+    "question": "\\int_{1}^{ln 3}e^{6x}dx",
+    "options": ["\\frac{1}{6}(3^6-e^6)", "\\frac{1}{6}(3^6-1)", "3^6-e^6", "\\frac{1}{6}(729-e^6)"],
+    "correctOption": 4,
+    "correctAnswer": "\\frac{1}{6}(729-e^6)",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 135,
+    "question": "\\int_{0}^{3}x^{2}\\sqrt{9-x^{3}}dx",
+    "options": ["6", "9", "18", "4.5"],
+    "correctOption": 1,
+    "correctAnswer": "6",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 136,
+    "question": "اگر F(x) تابع اولیه f(x) باشد، \\int_{a}^{b}f(x)dx مساوی است به:",
+    "options": ["F(b)-F(a)", "F(a)-F(b)", "F(b)+F(a)", "F(x)+C"],
+    "correctOption": 1,
+    "correctAnswer": "F(b)-F(a)",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 137,
+    "question": "\\int_{0}^{1}2x(x^{2}-1)^{4}dx",
+    "options": ["\\frac{1}{5}", "-\\frac{1}{5}", "\\frac{1}{4}", "-\\frac{1}{4}"],
+    "correctOption": 2,
+    "correctAnswer": "-\\frac{1}{5}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 138,
+    "question": "\\int_{1}^{e}\\frac{10dx}{x}",
+    "options": ["10", "1", "5", "e"],
+    "correctOption": 1,
+    "correctAnswer": "10",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 139,
+    "question": "\\int 6^{x+3}dx",
+    "options": ["\\frac{6^{x+3}}{ln 6}+C", "6^{x+3}ln 6+C", "\\frac{6^{x+3}}{3}+C", "6^{x+4}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{6^{x+3}}{ln 6}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 140,
+    "question": "\\int_{1}^{2}\\frac{1}{18}(2+4x^{2})x dx",
+    "options": ["1", "2", "3", "4"],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 141,
+    "question": "\\int tan~6x~d(6x)",
+    "options": ["-ln|cos 6x|+C", "ln|sin 6x|+C", "ln|cos 6x|+C", "-ln|sin 6x|+C"],
+    "correctOption": 1,
+    "correctAnswer": "-ln|cos 6x|+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 142,
+    "question": "\\int e^{sin x}cos x dx",
+    "options": ["e^{sin x}+C", "e^{cos x}+C", "sin x e^{sin x}+C", "cos x e^{sin x}+C"],
+    "correctOption": 1,
+    "correctAnswer": "e^{sin x}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 143,
+    "question": "\\int_{-2}^{2}x^{5}dx",
+    "options": ["0", "64", "32", "16"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 144,
+    "question": "\\int (\\frac{1}{e})^{ln x}dx",
+    "options": ["ln|x|+C", "-\\frac{1}{x}+C", "x+C", "e^x+C"],
+    "correctOption": 1,
+    "correctAnswer": "ln|x|+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 145,
+    "question": "\\int (tan x - \\sqrt{sec^2 x - 1})dx",
+    "options": ["0", "x+C", "tan x + C", "sec x + C"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 146,
+    "question": "\\int_{0}^{1}2^{x+1}dx",
+    "options": ["\\frac{2}{ln 2}", "\\frac{1}{ln 2}", "2 ln 2", "ln 2"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{2}{ln 2}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 147,
+    "question": "\\int (e^{ln 2x}-2x)dx",
+    "options": ["C", "x^2+C", "2x+C", "0"],
+    "correctOption": 1,
+    "correctAnswer": "C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 148,
+    "question": "اگر f(x)=log 2 باشد، \\int f(x)dx مساوی است به:",
+    "options": ["x log 2 + C", "log 2 + C", "0", "x + C"],
+    "correctOption": 1,
+    "correctAnswer": "x log 2 + C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 149,
+    "question": "\\int \\frac{20^x}{2^x}dx",
+    "options": ["\\frac{10^x}{ln 10}+C", "\\frac{20^x}{ln 20}+C", "10^x ln 10+C", "\\frac{2^x}{ln 2}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{10^x}{ln 10}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 150,
+    "question": "\\int \\frac{x^{10}+2x^9}{x+2}dx",
+    "options": ["\\frac{x^{10}}{10}+C", "\\frac{x^{11}}{11}+C", "x^9+C", "\\frac{x^9}{9}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{x^{10}}{10}+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 151,
+    "question": "\\int e^{2x}dx",
+    "options": ["\\frac{1}{2}e^{2x}+C", "2e^{2x}+C", "e^{2x}+C", "e^x+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{2}e^{2x}+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 152,
+    "question": "\\int (\\frac{sin(x-\\pi)}{cos(x-\\pi)})^{-1}dx",
+    "options": ["ln|sin x|+C", "ln|cos x|+C", "-ln|sin x|+C", "-ln|cos x|+C"],
+    "correctOption": 1,
+    "correctAnswer": "ln|sin x|+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 153,
+    "question": "اگر f(x)=\\int_a^x f(t)dt باشد، این رابطه بیانگر کدام قضیه است؟",
+    "options": ["قضیه اساسی حساب دیفرانسیل و انتگرال", "قضیه مقدار میانگین", "قضیه رول", "هیچکدام"],
+    "correctOption": 1,
+    "correctAnswer": "قضیه اساسی حساب دیفرانسیل و انتگرال",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 154,
+    "question": "\\int_{\\pi/4}^{\\pi/2} cot x dx",
+    "options": ["\\frac{1}{2}ln 2", "ln 2", "1", "0"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{2}ln 2",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 155,
+    "question": "\\int x^3 cos(x^4+2)dx",
+    "options": ["\\frac{1}{4}sin(x^4+2)+C", "sin(x^4+2)+C", "4sin(x^4+2)+C", "\\frac{1}{3}sin(x^4+2)+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{4}sin(x^4+2)+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 156,
+    "question": "قیمت A در تجزیه \\frac{x-3}{9x^2-1}=\\frac{A}{3x-1}+\\frac{B}{3x+1}",
+    "options": ["-\\frac{4}{3}", "\\frac{4}{3}", "\\frac{5}{3}", "-\\frac{5}{3}"],
+    "correctOption": 1,
+    "correctAnswer": "-\\frac{4}{3}",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 157,
+    "question": "\\int_{0}^{1}(x^2+1)dx",
+    "options": ["\\frac{4}{3}", "\\frac{2}{3}", "1", "2"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{4}{3}",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 158,
+    "question": "\\int_{0}^{\\pi} sin x dx",
+    "options": ["2", "0", "1", "-2"],
+    "correctOption": 1,
+    "correctAnswer": "2",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 159,
+    "question": "مساحت سطح محصور شده توسط منحنی y=2x-x^2 و محور x",
+    "options": ["\\frac{4}{3}", "\\frac{2}{3}", "1", "\\frac{8}{3}"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{4}{3}",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 160,
+    "question": "\\int_{1}^{2}(3+4x^3)dx",
+    "options": ["18", "15", "12", "21"],
+    "correctOption": 1,
+    "correctAnswer": "18",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 161,
+    "question": "\\int \\frac{3-x}{\\sqrt{x}+\\sqrt{3}}dx",
+    "options": ["\\sqrt{3}x-\\frac{2}{3}x^{3/2}+C", "\\sqrt{3}x+\\frac{2}{3}x^{3/2}+C", "3x-x^{3/2}+C", "3x+x^{3/2}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\sqrt{3}x-\\frac{2}{3}x^{3/2}+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 162,
+    "question": "\\int 4^x \\cdot 5^x dx",
+    "options": ["\\frac{20^x}{ln 20}+C", "20^x ln 20+C", "\\frac{20^x}{ln 9}+C", "9^x+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{20^x}{ln 20}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 163,
+    "question": "\\int (3x^2+2x+1)dx",
+    "options": ["x^3+x^2+x+C", "3x^3+2x^2+x+C", "x^3+x^2+C", "x^3-x^2+x+C"],
+    "correctOption": 1,
+    "correctAnswer": "x^3+x^2+x+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 164,
+    "question": "فورمول انتیگرال گیری قسمی عبارت است از:",
+    "options": ["\\int udv = uv - \\int vdu", "\\int udv = uv + \\int vdu", "\\int vdu = uv - \\int udv", "\\int udv = u - \\int vdu"],
+    "correctOption": 1,
+    "correctAnswer": "\\int udv = uv - \\int vdu",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 165,
+    "question": "\\int 6x dx",
+    "options": ["3x^2+C", "6x^2+C", "2x^2+C", "x^2+C"],
+    "correctOption": 1,
+    "correctAnswer": "3x^2+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 166,
+    "question": "\\int e^{6x}dx",
+    "options": ["\\frac{1}{6}e^{6x}+C", "6e^{6x}+C", "e^{6x}+C", "e^{x}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{6}e^{6x}+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 167,
+    "question": "\\int_{1}^{2}x^3 dx",
+    "options": ["\\frac{15}{4}", "\\frac{7}{4}", "\\frac{3}{4}", "4"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{15}{4}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 168,
+    "question": "\\int 7x^6 dx",
+    "options": ["x^7+C", "7x^7+C", "\\frac{1}{7}x^7+C", "x^6+C"],
+    "correctOption": 1,
+    "correctAnswer": "x^7+C",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 169,
+    "question": "\\int_{0}^{7}\\sqrt{4+3x}dx",
+    "options": ["26", "27", "25", "28"],
+    "correctOption": 1,
+    "correctAnswer": "26",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 170,
+    "question": "\\int \\frac{dx}{1+4x^2}",
+    "options": ["\\frac{1}{2}arctan(2x)+C", "arctan(2x)+C", "2arctan(2x)+C", "arctan(x)+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{2}arctan(2x)+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 171,
+    "question": "\\int \\frac{e^{5ln x}}{x^4}dx",
+    "options": ["\\frac{1}{2}x^2+C", "x+C", "ln x+C", "x^2+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{2}x^2+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 172,
+    "question": "اگر x>0 باشد، \\int e^{-ln x}dx مساوی است به:",
+    "options": ["ln|x|+C", "-ln|x|+C", "x+C", "1/x+C"],
+    "correctOption": 1,
+    "correctAnswer": "ln|x|+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 173,
+    "question": "\\int_{0}^{2}\\frac{2dx}{x+2}",
+    "options": ["2ln 2", "ln 2", "2", "4"],
+    "correctOption": 1,
+    "correctAnswer": "2ln 2",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 174,
+    "question": "\\int ln x dx",
+    "options": ["x ln x - x + C", "x ln x + C", "ln x + x + C", "x + C"],
+    "correctOption": 1,
+    "correctAnswer": "x ln x - x + C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 175,
+    "question": "\\int_{1}^{2}\\frac{e^{ln x}}{x}dx",
+    "options": ["1", "2", "e", "0"],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 176,
+    "question": "\\int 2^{x-1}dx",
+    "options": ["\\frac{2^{x-1}}{ln 2}+C", "2^{x-1}ln 2+C", "\\frac{2^x}{ln 2}+C", "2^x+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{2^{x-1}}{ln 2}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 177,
+    "question": "\\int \\frac{dx}{\\sqrt{e^{2x}}}",
+    "options": ["-e^{-x}+C", "e^{-x}+C", "-e^x+C", "e^x+C"],
+    "correctOption": 1,
+    "correctAnswer": "-e^{-x}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 178,
+    "question": "\\int_{0}^{ln 2}e^{2x}dx",
+    "options": ["\\frac{3}{2}", "3", "1", "2"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{3}{2}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 179,
+    "question": "\\int \\frac{dx}{cot x(csc^2 x-1)^{1/2}}",
+    "options": ["x+C", "-x+C", "tan x+C", "cot x+C"],
+    "correctOption": 1,
+    "correctAnswer": "x+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 180,
+    "question": "\\int \\frac{sin 7x}{7}dx",
+    "options": ["-\\frac{1}{49}cos 7x+C", "\\frac{1}{49}cos 7x+C", "-cos 7x+C", "cos 7x+C"],
+    "correctOption": 1,
+    "correctAnswer": "-\\frac{1}{49}cos 7x+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 181,
+    "question": "\\int_{-\\pi/4}^{\\pi/4} d\\theta",
+    "options": ["\\frac{\\pi}{2}", "\\pi", "0", "\\frac{\\pi}{4}"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{\\pi}{2}",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 182,
+    "question": "\\int_{log_2 e}^{1/log_2 e} x^3 e^x dx",
+    "options": ["C", "e", "1", "0"],
+    "correctOption": 1,
+    "correctAnswer": "C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 183,
+    "question": "\\int (2x+2)cos(x+1)^2 dx",
+    "options": ["sin(x+1)^2+C", "-sin(x+1)^2+C", "cos(x+1)^2+C", "sin(x^2)+C"],
+    "correctOption": 1,
+    "correctAnswer": "sin(x+1)^2+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 184,
+    "question": "\\int \\frac{sin(x-\\pi)}{sin x}dx",
+    "options": ["-x+C", "x+C", "ln|sin x|+C", "0"],
+    "correctOption": 1,
+    "correctAnswer": "-x+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 185,
+    "question": "\\int_{0}^{\\pi/2}\\frac{cos^3 x}{(\\sqrt{1-sin^2 x})^3}dx",
+    "options": ["\\frac{\\pi}{2}", "1", "0", "\\pi"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{\\pi}{2}",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 186,
+    "question": "\\int_{-1}^{1}e^{2x}dx",
+    "options": ["\\frac{1}{2}(e^2-e^{-2})", "e^2-e^{-2}", "2(e^2-e^{-2})", "e^2"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{2}(e^2-e^{-2})",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 187,
+    "question": "\\int_{1}^{10e} log x dx",
+    "options": ["10e log(10e) - 10e + 1", "10e", "1", "0"],
+    "correctOption": 1,
+    "correctAnswer": "10e log(10e) - 10e + 1",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 188,
+    "question": "\\int_{0}^{2}\\sqrt{2}dx",
+    "options": ["2\\sqrt{2}", "\\sqrt{2}", "2", "4"],
+    "correctOption": 1,
+    "correctAnswer": "2\\sqrt{2}",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 189,
+    "question": "\\int \\frac{x^2-1}{\\sqrt{x}}dx",
+    "options": ["\\frac{2}{5}x^{5/2}-2x^{1/2}+C", "\\frac{5}{2}x^{5/2}-2x^{1/2}+C", "x^{5/2}-x^{1/2}+C", "x^2-x+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{2}{5}x^{5/2}-2x^{1/2}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 190,
+    "question": "\\int \\pi e^{3x}dx",
+    "options": ["\\frac{\\pi}{3}e^{3x}+C", "\\pi e^{3x}+C", "3\\pi e^{3x}+C", "e^{3x}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{\\pi}{3}e^{3x}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 191,
+    "question": "\\int_{1}^{3}\\frac{3x^2}{1+x^3}dx",
+    "options": ["ln 14", "ln 28 - ln 2", "ln 28", "ln 2"],
+    "correctOption": 1,
+    "correctAnswer": "ln 14",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 192,
+    "question": "\\int_{-1}^{3}(x^3-\\frac{1}{4}x^4)dx",
+    "options": ["\\frac{32}{5}", "8", "6", "10"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{32}{5}",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 193,
+    "question": "\\int \\frac{dx}{\\sqrt{2x}}",
+    "options": ["\\sqrt{2x}+C", "2\\sqrt{2x}+C", "\\frac{1}{2}\\sqrt{2x}+C", "\\sqrt{x}+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\sqrt{2x}+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 194,
+    "question": "\\int_{0}^{2\\pi} sin x dx",
+    "options": ["0", "2", "4", "1"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 195,
+    "question": "\\int_{ln 2}^{ln 3}e^x dx",
+    "options": ["1", "5", "e", "ln 6"],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 196,
+    "question": "\\int_{0}^{1}dx - \\int_{0}^{1}x dx",
+    "options": ["\\frac{1}{2}", "1", "0", "-\\frac{1}{2}"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{1}{2}",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 197,
+    "question": "اگر x>0 باشد، \\int(\\frac{1}{x}-e^{ln(1/x)})dx",
+    "options": ["C", "\\frac{1}{x}+C", "ln x+C", "0"],
+    "correctOption": 1,
+    "correctAnswer": "C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 198,
+    "question": "\\int ln 2x dx",
+    "options": ["x ln 2x - x + C", "x ln 2x + C", "ln 2x - x + C", "2x ln x + C"],
+    "correctOption": 1,
+    "correctAnswer": "x ln 2x - x + C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 199,
+    "question": "\\int_{0}^{10}\\frac{dx}{\\sqrt{x}}",
+    "options": ["2\\sqrt{10}", "\\sqrt{10}", "10", "20"],
+    "correctOption": 1,
+    "correctAnswer": "2\\sqrt{10}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 200,
+    "question": "\\int \\frac{sin 2x}{sin^2 x}dx",
+    "options": ["2ln|sin x|+C", "ln|sin x|+C", "2ln|cos x|+C", "ln|sin 2x|+C"],
+    "correctOption": 1,
+    "correctAnswer": "2ln|sin x|+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 201,
+    "question": "\\int_{0}^{1}e^{x/2}dx",
+    "options": ["2(e^{1/2}-1)", "e^{1/2}-1", "2e^{1/2}", "\\frac{1}{2}e^{1/2}"],
+    "correctOption": 1,
+    "correctAnswer": "2(e^{1/2}-1)",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 202,
+    "question": "\\int_{1}^{e}xe^{ln x}dx",
+    "options": ["\\frac{e^3-1}{3}", "\\frac{e^2-1}{2}", "e^3-1", "e^2"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{e^3-1}{3}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 203,
+    "question": "\\int 3^{x+2}cos(3^x)dx",
+    "options": ["\\frac{9}{ln 3}sin(3^x)+C", "3 sin(3^x)+C", "9 sin(3^x)+C", "\\frac{3}{ln 3}sin(3^x)+C"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{9}{ln 3}sin(3^x)+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 204,
+    "question": "\\int \\frac{cos(x-11\\pi)}{sin(x-11\\pi)}dx",
+    "options": ["ln|sin x|+C", "-ln|sin x|+C", "ln|cos x|+C", "-ln|cos x|+C"],
+    "correctOption": 1,
+    "correctAnswer": "ln|sin x|+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 205,
+    "question": "اگر x>0 باشد، \\int \\frac{x^3 dx}{e^{3ln x}}",
+    "options": ["x+C", "ln x+C", "x^2+C", "0"],
+    "correctOption": 1,
+    "correctAnswer": "x+C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 206,
+    "question": "\\int \\frac{1}{10}cos(\\frac{x}{10})dx",
+    "options": ["sin(\\frac{x}{10})+C", "10sin(\\frac{x}{10})+C", "\\frac{1}{100}sin(\\frac{x}{10})+C", "-sin(\\frac{x}{10})+C"],
+    "correctOption": 1,
+    "correctAnswer": "sin(\\frac{x}{10})+C",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 207,
+    "question": "\\int log(\\frac{x}{2})dx",
+    "options": ["x log(\\frac{x}{2}) - x ln 10 + C", "x log x - x + C", "x log(\\frac{x}{2e}) + C", "x log x + C"],
+    "correctOption": 1,
+    "correctAnswer": "x log(\\frac{x}{2}) - x ln 10 + C",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 208,
+    "question": "\\int_{0}^{1}\\frac{2(x^3+1)}{x^2-x+1}dx",
+    "options": ["3", "2", "4", "1"],
+    "correctOption": 1,
+    "correctAnswer": "3",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 209,
+    "question": "مساحت سطحی که به منحنی y=\\frac{(x+1)^2}{4} در انتروال [0,1] و بین محور x واقع است",
+    "options": ["\\frac{7}{12}", "\\frac{1}{4}", "\\frac{1}{3}", "\\frac{5}{12}"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{7}{12}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 210,
+    "question": "طول قوس منحنی x=0.1t, y=0.2t در انتروال 0<=t<=1 مساوی است به:",
+    "options": ["\\frac{\\sqrt{5}}{10}", "\\sqrt{5}", "0.5", "1"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{\\sqrt{5}}{10}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 211,
+    "question": "طول قوس منحنی x=3t, y=15t در انتروال 0<=t<=5 عبارت است از:",
+    "options": ["5\\sqrt{234}", "15\\sqrt{2}", "75", "25"],
+    "correctOption": 1,
+    "correctAnswer": "5\\sqrt{234}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 212,
+    "question": "طول قوس منحنی y=1/cos 2\\pi در انتروال [0, 1/10]",
+    "options": ["0.1", "1", "0", "\\pi"],
+    "correctOption": 1,
+    "correctAnswer": "0.1",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 213,
+    "question": "مساحت سطحی که بین منحنی y=x^2+2 در انتروال [0,2] و محور x واقع است",
+    "options": ["\\frac{20}{3}", "\\frac{16}{3}", "6", "8"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{20}{3}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 214,
+    "question": "طول قوس تابع y=5x-2 در انتروال [0,1] مساوی است به:",
+    "options": ["\\sqrt{26}", "5", "26", "\\sqrt{24}"],
+    "correctOption": 1,
+    "correctAnswer": "\\sqrt{26}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 215,
+    "question": "طول قوس تابع x=3/4 y + \\pi در انتروال [1,3] مساوی است به:",
+    "options": ["\\frac{5}{2}", "\\frac{3}{2}", "2", "3"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{5}{2}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 216,
+    "question": "مساحت سطح محصور شده توسط منحنی تابع y=sin x و محور x در انتروال [2\\pi, 3\\pi]",
+    "options": ["2", "0", "1", "\\pi"],
+    "correctOption": 1,
+    "correctAnswer": "2",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 217,
+    "question": "حجم جسمی که از دوران خط y=1/2 x + 1 حول محور x در انتروال [2,6] بدست می آید",
+    "options": ["\\frac{112}{3}\\pi", "36\\pi", "40\\pi", "\\frac{100}{3}\\pi"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{112}{3}\\pi",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 218,
+    "question": "برای محاسبه سطح محصور شده توسط دو منحنی y1 و y2 که y1>y2 باشد از کدام رابطه استفاده میشود؟",
+    "options": ["\\int_{a}^{b}(y_1-y_2)dx", "\\int_{a}^{b}(y_2-y_1)dx", "\\int_{a}^{b}(y_1+y_2)dx", "\\int (y_1 y_2)dx"],
+    "correctOption": 1,
+    "correctAnswer": "\\int_{a}^{b}(y_1-y_2)dx",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 219,
+    "question": "طول قوس منحنی y=-x+4 در انتروال -2<=x<=2 عبارت است از:",
+    "options": ["4\\sqrt{2}", "4", "8", "2\\sqrt{2}"],
+    "correctOption": 1,
+    "correctAnswer": "4\\sqrt{2}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 220,
+    "question": "طول قوس منحنی y=4/3 x + 4/3 در انتروال [2,5] مساوی است به:",
+    "options": ["5", "4", "3", "6"],
+    "correctOption": 1,
+    "correctAnswer": "5",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 221,
+    "question": "مساحت سطحی که بین منحنی y=x^2-1 در انتروال [-1,1] و محور x واقع است (قدر مطلق مساحت)",
+    "options": ["\\frac{4}{3}", "\\frac{2}{3}", "0", "2"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{4}{3}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 222,
+    "question": "اگر معادله منحنی y=f(x) در انتروال [a,b] داده شده باشد، طول قوس منحنی عبارت است از:",
+    "options": ["\\int_{a}^{b}\\sqrt{1+(f'(x))^2}dx", "\\int_{a}^{b}\\sqrt{1+f'(x)}dx", "\\int_{a}^{b}(1+f'(x))dx", "\\int_{a}^{b}f'(x)dx"],
+    "correctOption": 1,
+    "correctAnswer": "\\int_{a}^{b}\\sqrt{1+(f'(x))^2}dx",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 223,
+    "question": "طول قوس منحنی y=cos(\\pi/4) در انتروال [1,11] عبارت است از:",
+    "options": ["10", "1", "11", "5\\sqrt{2}"],
+    "correctOption": 1,
+    "correctAnswer": "10",
+    "subject": "math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 224,
+    "question": "حجم جسمی که از دوران مساحت بین منحنی y=x^3 و خط y=1 حول محور y بدست می آید",
+    "options": ["\\frac{3\\pi}{5}", "\\frac{3\\pi}{4}", "\\pi", "\\frac{\\pi}{5}"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{3\\pi}{5}",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 225,
+    "question": "مساحت سطح محصور شده توسط دو منحنی f(x)=x^3+x^2 و g(x)=x^2+3x-2",
+    "options": ["\\frac{27}{4}", "6", "4", "8"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{27}{4}",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 226,
+    "question": "مساحت سطحی که به منحنی y=3x^2-1 در انتروال [1,2] و بین محور x واقع است",
+    "options": ["6", "7", "5", "8"],
+    "correctOption": 1,
+    "correctAnswer": "6",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 227,
+    "question": "حجم جسمی که از دوران مساحت بین y=\\sqrt{2x} و خط x=3 حول محور x به دست می آید",
+    "options": ["9\\pi", "3\\pi", "6\\pi", "18\\pi"],
+    "correctOption": 1,
+    "correctAnswer": "9\\pi",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 228,
+    "question": "طول قوس منحنی y=1/cos(2\\pi) در انتروال [0, 1/10]",
+    "options": ["0.1", "1", "0", "\\pi"],
+    "correctOption": 1,
+    "correctAnswer": "0.1",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 229,
+    "question": "حجم جسمی که از دوران مساحت بین منحنی y=\\sqrt{x} و خط y=2 حول محور y بدست می آید",
+    "options": ["\\frac{32}{5}\\pi", "8\\pi", "4\\pi", "\\frac{16}{3}\\pi"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{32}{5}\\pi",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 230,
+    "question": "مساحت سطحی که بین منحنی y=2x cos x^2 در انتروال [0, \\frac{\\pi}{6}] و محور x واقع است",
+    "options": ["\\frac{\\sqrt{3}}{2}", "1", "\\frac{1}{2}", "\\frac{\\sqrt{2}}{2}"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{\\sqrt{3}}{2}",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 231,
+    "question": "مساحت سطحی که بین منحنی y=cos^2(x/2)-sin^2(x/2) در انتروال [0, \\pi/2] است مساوی است به",
+    "options": ["1", "2", "0", "\\frac{1}{2}"],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 232,
+    "question": "مساحت بین منحنی y=sin x محور x ها و خطوط x=\\pi/4 , x=\\pi/2 عبارت است از:",
+    "options": ["\\frac{\\sqrt{2}}{2}", "1", "\\frac{1}{2}", "\\sqrt{2}"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{\\sqrt{2}}{2}",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 233,
+    "question": "طول قوس تابع y=\\frac{4}{3}x+\\frac{4}{3} در انتروال [2,5] مساوی است به:",
+    "options": ["5", "3", "4", "6"],
+    "correctOption": 1,
+    "correctAnswer": "5",
+    "subject": "math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 234,
+    "question": "حجم جسم که از دوران سطح تحت منحنی y=sin x در انتروال [0, \\pi] حول محور x بدست می آید",
+    "options": ["\\frac{\\pi^2}{2}", "\\pi^2", "2\\pi", "\\frac{\\pi}{2}"],
+    "correctOption": 1,
+    "correctAnswer": "\\frac{\\pi^2}{2}",
+    "subject": "math",
+    "difficulty": "hard"
+  }
+]
