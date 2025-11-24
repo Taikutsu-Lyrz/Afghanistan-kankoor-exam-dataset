@@ -20,9 +20,9 @@ This dataset contains **Kankoor (Afghanistan University Entrance Exam) questions
 | Chemistry | 915 |
 | Dari | 210 |
 | Geology | 304 |
-| Math | 721 |
+| Math | 1019 |
 | Physics | 80 |
-| **Total** | **2230** |
+| **Total** | **2528** |
 <!-- END_TABLE -->
 
 
