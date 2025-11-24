@@ -1,0 +1,2683 @@
+[
+  {
+    "id": 1,
+    "question": "حاصل lim (x→e⁺) |x+e| / (x-e) عبارت است از:",
+    "options": ["1", "-1", "∞", "-∞"],
+    "correctOption": 3,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 2,
+    "question": "نقطه غیر متمادی تابع f(x) = (x²-2) / (x-√2) عبارت است از:",
+    "options": ["x = ±1", "x = ±2", "x = -√2", "تابع دارای نقطه غیرمتمادی نیست"],
+    "correctOption": 4,
+    "correctAnswer": "تابع دارای نقطه غیرمتمادی نیست",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "question": "حاصل lim (x→5) |5x - 25| / (x - 5) عبارت است از:",
+    "options": ["0", "موجود نیست", "1", "-1"],
+    "correctOption": 2,
+    "correctAnswer": "موجود نیست",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 4,
+    "question": "حاصل lim (x→0⁺) |x| / x² عبارت است از:",
+    "options": ["1", "موجود نیست", "0", "∞"],
+    "correctOption": 4,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "question": "حاصل lim (x→∞) (2x+1)⁷ / (3x²+14) مساوی است به:",
+    "options": ["∞", "2/3", "1", "4/3"],
+    "correctOption": 1,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 6,
+    "question": "حاصل lim (x→∞) ((x²+1)²-10) / (3x⁴+9) مساوی است به:",
+    "options": ["1/3", "2/3", "-10/9", "∞"],
+    "correctOption": 1,
+    "correctAnswer": "1/3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 7,
+    "question": "حاصل lim (x→0) ln³(x+2) / ln³(x+2) مساوی است به:",
+    "options": ["1", "0", "ln 2", "9/ln 2"],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 8,
+    "question": "حاصل lim (x→0) (x²+x) / (x+1) مساوی است به:",
+    "options": ["2", "0", "1", "1/4"],
+    "correctOption": 2,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 9,
+    "question": "حاصل lim (x→2) √x-2 / x-2 مساوی است به:",
+    "options": ["∞", "0", "موجود نیست", "2"],
+    "correctOption": 3,
+    "correctAnswer": "موجود نیست",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 10,
+    "question": "تابع f(x) = x³ + 1 در انتروال [0,1] کدام یکی از خواص زیر را دارد؟",
+    "options": ["f(0) = f(1)", "مشتق پذیر نمی باشد", "متمادی است", "متمادی نیست"],
+    "correctOption": 3,
+    "correctAnswer": "متمادی است",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 11,
+    "question": "مجانب مایل تابع f(x) = (ax+b)/(cx+d) عبارت است از:",
+    "options": ["y = bx", "y = cx", "y = ax", "ندارد"],
+    "correctOption": 4,
+    "correctAnswer": "ندارد",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 12,
+    "question": "حاصل lim (x→∞) (8x¹⁰⁰+(x²-1)¹⁰⁰+x⁵⁰) / (x¹⁰⁰+9x¹⁰⁰+1) عبارت است از:",
+    "options": ["∞", "9/2", "1", "0"],
+    "correctOption": 2,
+    "correctAnswer": "9/2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 13,
+    "question": "نقطه غیرمتمادی تابع f(x) = (x¹⁰+x+4)/2 عبارت است از:",
+    "options": ["x = 0", "x = -1", "x = 2", "تابع دارای نقطه غیر متمادی نیست"],
+    "correctOption": 4,
+    "correctAnswer": "تابع دارای نقطه غیر متمادی نیست",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 14,
+    "question": "نقطه غیرمتمادی تابع f(x) = sin x / (2x-18)¹¹ عبارت است از:",
+    "options": ["x = 11", "x = -9", "x = 9", "x = 1"],
+    "correctOption": 3,
+    "correctAnswer": "x = 9",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 15,
+    "question": "حاصل lim (x→1) log⁶(x+1)² / log⁵(x+1) مساوی است به:",
+    "options": ["16 log 16", "64 log 16", "64 log 4", "16 log 2"],
+    "correctOption": 1,
+    "correctAnswer": "16 log 16",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 16,
+    "question": "تابع f(x) = (7x - 7)^(1/3) در نقطه ذیل متمادی نیست:",
+    "options": ["x = 2/3", "نقطه غیر متمادی ندارد", "x = 1", "x = 2/4"],
+    "correctOption": 2,
+    "correctAnswer": "نقطه غیر متمادی ندارد",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 17,
+    "question": "حاصل lim (x→6) log³(x+3)² / log²(x+3) مساوی است به:",
+    "options": ["64 log 9", "64 log 3", "16 log 3", "64 log 2"],
+    "correctOption": 3,
+    "correctAnswer": "16 log 3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+    {
+    "id": 18,
+    "question": "حاصل lim (x→3) (x² - 9) / (x - 3) عبارت است از:",
+    "options": ["6", "0", "9", "∞"],
+    "correctOption": 1,
+    "correctAnswer": "6",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 19,
+    "question": "حاصل lim (x→0) log⁴(29-2x)³ / log³(29-2x) مساوی است به:",
+    "options": ["81 log 9", "27 log 9", "27 log 3", "81 log 3"],
+    "correctOption": 3,
+    "correctAnswer": "27 log 3",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 20,
+    "question": "حاصل lim (x→20) log³(69-3x)⁴ / log²(69-2x) مساوی است به:",
+    "options": ["27 log 9", "64/9 log 3", "81/3 log 3", "64/9 log 9"],
+    "correctOption": 2,
+    "correctAnswer": "64/9 log 3",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 21,
+    "question": "حاصل lim (x→0) 4/3 x / 3x مساوی است به:",
+    "options": ["1", "-1", "0", "4/1"],
+    "correctOption": 4,
+    "correctAnswer": "4",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 22,
+    "question": "حاصل lim (x→π/4) csc² x / (cot² x + 1) مساوی است به:",
+    "options": ["csc 1", "e", "1", "2"],
+    "correctOption": 3,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 23,
+    "question": "حاصل lim (x→0) (4 sin x + sin x) / 9x مساوی است به:",
+    "options": ["5/9", "e⁹/3", "e⁵/2", "1"],
+    "correctOption": 1,
+    "correctAnswer": "5/9",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 24,
+    "question": "حاصل lim (x→0) sin x / cos x مساوی است به:",
+    "options": ["1", "0", "-1", "1/2"],
+    "correctOption": 2,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 25,
+    "question": "حاصل lim (x→∞) ((2x-1)/(2x+1))^(x+12) عبارت است از:",
+    "options": ["0", "∞", "-2", "e⁻¹"],
+    "correctOption": 4,
+    "correctAnswer": "e⁻¹",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 26,
+    "question": "حاصل lim (x→0) √2 sin x / x کدام است؟",
+    "options": ["√2", "√2/3", "2", "√2(1)"],
+    "correctOption": 1,
+    "correctAnswer": "√2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 27,
+    "question": "حاصل lim (x→5⁺) 3 / (2x-5) عبارت است از:",
+    "options": ["∞", "3", "e³", "1"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 28,
+    "question": "اگر lim (x→2) f(x) = 4a + 5 و f(2) = 3a - 1 باشد، در نقطه x=2 متمادی است. قیمت a؟",
+    "options": ["a = 6", "a = 5", "a = 19", "a = -6"],
+    "correctOption": 4,
+    "correctAnswer": "a = -6",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 29,
+    "question": "تابع f(x) = sin x / x در کدام یکی از نقاط ذیل متمادی است؟",
+    "options": ["π/6", "3", "π/4", "همه درست است"],
+    "correctOption": 4,
+    "correctAnswer": "همه درست است",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 30,
+    "question": "حاصل lim (x→0) (1 / sin x) مساوی است به:",
+    "options": ["1", "3", "∞", "-1"],
+    "correctOption": 3,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 31,
+    "question": "حاصل lim (x→0⁻) |x| / x مساوی است به:",
+    "options": ["0", "1", "موجود نیست", "-1"],
+    "correctOption": 4,
+    "correctAnswer": "-1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 32,
+    "question": "حاصل lim (x→10) (log x² - 1) مساوی است به:",
+    "options": ["1", "2", "-1", "-2"],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 33,
+    "question": "اگر L = lim (x→a⁺) f(x) = lim (x→a⁻) f(x) باشد، پس:",
+    "options": ["lim f(x) < L", "lim f(x) = L", "lim f(x) > L", "همه جوابات درست است"],
+    "correctOption": 2,
+    "correctAnswer": "lim f(x) = L",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 34,
+    "question": "حاصل lim (x→0) (2x⁵ + 7x + 1)¹⁰ مساوی است به:",
+    "options": ["-10", "2", "10", "1"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 35,
+    "question": "مجانب های عمودی تابع f(x) = 8 / (x² - 4) عبارت است از:",
+    "options": ["x=±3", "x=0/3", "x=±2", "x=1"],
+    "correctOption": 3,
+    "correctAnswer": "x=±2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 36,
+    "question": "حاصل lim (x→0) (x⁷ - 1) / (√2x² + 7) مساوی است به:",
+    "options": ["2/7", "1/√2", "1/2", "-1/7"],
+    "correctOption": 4,
+    "correctAnswer": "-1/7",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 37,
+    "question": "حاصل lim (x→0) tan² x / cos x مساوی است به:",
+    "options": ["0", "3", "5", "1"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 38,
+    "question": "مجانب افقی عبارت f(x) = (5x + 6) / (10x - 1) است از:",
+    "options": ["-1/10", "1/10", "y = 2", "y = 1/2"],
+    "correctOption": 4,
+    "correctAnswer": "y = 1/2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 39,
+    "question": "اگر 3^x = (fog)(x) باشد و g(x) در نقطه a=x متمادی باشد، کدام رابطه درست است:",
+    "options": ["1", "2", "3", "4"],
+    "correctOption": 1,
+    "correctAnswer": "گزینه ۱",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 40,
+    "question": "حاصل lim (x→0) |sin x| / cos x مساوی است به:",
+    "options": ["1", "0", "-1", "1"],
+    "correctOption": 2,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 41,
+    "question": "حاصل lim (x→12⁺) 2x / (x-12) عبارت است از:",
+    "options": ["0", "3", "-∞", "∞"],
+    "correctOption": 4,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 42,
+    "question": "حاصل lim (x→0) (√2 sin x) / x عبارت است از:",
+    "options": ["√2", "√2/3", "2", "2√2"],
+    "correctOption": 1,
+    "correctAnswer": "√2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 43,
+    "question": "حاصل lim (x→+∞) 3 / 2x-5 عبارت است از:",
+    "options": ["0", "∞", "-∞", "e³"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 44,
+    "question": "حاصل lim (x→∞) (√x - √(x+10)) کدام است؟",
+    "options": ["0", "10", "-10", "1"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 45,
+    "question": "حاصل lim (x→3) cos²x / (1 + tan²x) کدام است؟",
+    "options": ["tan² 1", "cos² 2", "cos⁴ 3", "1"],
+    "correctOption": 3,
+    "correctAnswer": "cos⁴ 3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 46,
+    "question": "حاصل lim (x→2) cos² 8x / (1 + tan² 8x) کدام است؟",
+    "options": ["tan⁴ 16", "cos⁴ 16", "cos² 16", "1"],
+    "correctOption": 2,
+    "correctAnswer": "cos⁴ 16",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 47,
+    "question": "حاصل lim (x→0) [(x+1)²⁵ - 27] / tan² 16 مساوی است به:",
+    "options": ["-25", "25", "-26", "26"],
+    "correctOption": 2,
+    "correctAnswer": "25",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 48,
+    "question": "حاصل lim (x→0) sin x+x / cos x مساوی است به:",
+    "options": ["-1", "2", "1", "0"],
+    "correctOption": 4,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 49,
+    "question": "حاصل lim (x→2, x→2) (x²-4)/(x-2) , x ∈ IR مساوی است به:",
+    "options": ["(x²-4)/(x-2)", "x+2", "k=2", "4"],
+    "correctOption": 4,
+    "correctAnswer": "4",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 50,
+    "question": "حاصل lim (x→π/2) π⁻¹-x / (1-sin x) مساوی است به:",
+    "options": ["π/2", "2π²", "2/π", "1"],
+    "correctOption": 2,
+    "correctAnswer": "2π²",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 51,
+    "question": "حاصل lim (x→+∞) (x⁴ - x⁷ + x¹²) مساوی است به:",
+    "options": ["∞-∞", "∞", "-∞", "±∞"],
+    "correctOption": 2,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 52,
+    "question": "مجانب افقی تابع f(x) = 5x²+1 / x⁴+1 عبارت است از:",
+    "options": ["y=4", "y=-1", "y=0", "y=-1"],
+    "correctOption": 3,
+    "correctAnswer": "y=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 53,
+    "question": "حاصل lim (x→∞) (1 + 1/x)⁵⁻⁵ مساوی است به:",
+    "options": ["e", "√e", "e⁻¹", "e⁻√2"],
+    "correctOption": 2,
+    "correctAnswer": "√e",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 54,
+    "question": "حاصل lim (x→∞) (1 + 2/x)⁵ مساوی است به:",
+    "options": ["e", "√e", "e⁻¹", "2e²"],
+    "correctOption": 4,
+    "correctAnswer": "2e²",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 55,
+    "question": "حاصل lim (x→0) ln(√2+x) / ln √2 مساوی است به:",
+    "options": ["√2", "1/√2", "-1", "1"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 56,
+    "question": "مجانب افقی f(x) = 5x²+x / x⁴+14 عبارت است از:",
+    "options": ["y=4", "y=-1", "y=0", "y=-1"],
+    "correctOption": 3,
+    "correctAnswer": "y=0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 57,
+    "question": "لیمت ln x / x-100-100+x مساوی است به:",
+    "options": ["∞", "1) لیمیت آن موجود نمی باشد", "ln 5 0", "-∞"],
+    "correctOption": 2,
+    "correctAnswer": "1) لیمیت آن موجود نمی باشد",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 58,
+    "question": "اگر lim(x→a) ln(x+2)/(x+3) = lim f(x) باشد، قیمت a؟",
+    "options": ["a=0", "a=-1", "a=-2", "a=-4"],
+    "correctOption": 3,
+    "correctAnswer": "a=-2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 59,
+    "question": "حاصل lim(x→0) (x²+1)/x مساوی است به:",
+    "options": ["-5/2", "0", "5/2", "∞"],
+    "correctOption": 4,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 60,
+    "question": "حاصل lim(x→2) (x²-4)/(2√x-2) مساوی است به:",
+    "options": ["1/2", "4", "5", "2"],
+    "correctOption": 2,
+    "correctAnswer": "4",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 61,
+    "question": "حاصل lim(x→5⁺) √x-5 / x-5 مساوی است به:",
+    "options": ["∞", "5", "0", "2"],
+    "correctOption": 1,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 62,
+    "question": "قیمت lim(x→2) (3x²-2x-8)/(x²+x-2) مساوی است به:",
+    "options": ["2/5", "-2/3", "-3/2", "5/2"],
+    "correctOption": 4,
+    "correctAnswer": "5/2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 63,
+    "question": "حاصل lim(x→2) cos x / √tan²x+1 مساوی است به:",
+    "options": ["1", "-4", "1-cos²x", "0"],
+    "correctOption": 4,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 64,
+    "question": "حاصل lim(x→∞) sin²2 / x sin x مساوی است به:",
+    "options": ["∞", "1", "-1", "0"],
+    "correctOption": 4,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 65,
+    "question": "حاصل lim(x→0) (2x²+7x+12)/((x-1)²+1) مساوی است به:",
+    "options": ["7", "6", "5", "8"],
+    "correctOption": 2,
+    "correctAnswer": "6",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 66,
+    "question": "مجانب عمودی تابع f(x) = 5x+9 / 0.036x-0.072 عبارت است از:",
+    "options": ["x=-2", "عمودی ندارد", "x=0", "x=2"],
+    "correctOption": 4,
+    "correctAnswer": "x=2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 67,
+    "question": "اگر ε(x) = lim g(x) = 1/√2 یک تابع بی نهایت کوچک باشد، پس تابع g(x):",
+    "options": ["ε(x)=0", "ε(x)=-√2/2+g(x)", "ε(x)=g(x)-√2/2", "ε(x)=√2/2-g(x)"],
+    "correctOption": 3,
+    "correctAnswer": "ε(x)=g(x)-√2/2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 68,
+    "question": "مجانب عمودی تابع f(x) = 16x+0.3 / 0.001x+0.009 عبارت است از:",
+    "options": ["مجاب عمودی ندارد", "x=-9", "x=-0.09", "x=-90"],
+    "correctOption": 4,
+    "correctAnswer": "x=-90",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 69,
+    "question": "لیمت lim(x→100) |x+100| / x-100-100 عبارت است از:",
+    "options": ["-∞", "∞", "-1", "1"],
+    "correctOption": 3,
+    "correctAnswer": "-1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 70,
+    "question": "اگر 2x² = g(x) و f(x) در نقطه a = x متمادی باشد، پس lim(x→a) 2f(x) مساوی است به:",
+    "options": ["16", "-1", "8", "9"],
+    "correctOption": 3,
+    "correctAnswer": "8",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 71,
+    "question": "لیمت lim(x→∞) (πx+100)/(2πx+100) عبارت است از:",
+    "options": ["0", "4 e²⁻³", "∞", "1/2"],
+    "correctOption": 4,
+    "correctAnswer": "1/2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 72,
+    "question": "لیمت lim(x→0) (5x²+7x)/(2x-5)²-9 مساوی است از:",
+    "options": ["1/6", "0", "3-5/9", "2-1/5"],
+    "correctOption": 1,
+    "correctAnswer": "1/6",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 73,
+    "question": "لیمت lim(x→0) (1+tan²x)cos²x مساوی است به:",
+    "options": ["0", "-1", "2", "1"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 74,
+    "question": "لیمت lim(x→1⁺) (0.0011)^(x-1)/0.2 عبارت است از:",
+    "options": ["0", "e", "-∞", "∞"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 75,
+    "question": "لیمت lim(x→∞) (5x-sin 1)/(8x-cos 1)⁵ˣ عبارت است از:",
+    "options": ["∞", "e⁻³", "e⁵", "0"],
+    "correctOption": 4,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 76,
+    "question": "لیمت lim(x→∞) (3x+999)/(14x+999)¹⁴ˣ عبارت است از:",
+    "options": ["e¹⁴", "e¹⁴", "∞", "0"],
+    "correctOption": 4,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 77,
+    "question": "مجانب مایل تابع f(x) = (x²+x+1)/x عبارت است از:",
+    "options": ["y=2x", "y=x", "y=x-1", "y=x+1"],
+    "correctOption": 4,
+    "correctAnswer": "y=x+1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 78,
+    "question": "هرگاه برای هر ε > 0 حداقل یک x > A موجود باشد طوریکه f(x) ∈ (L₁ - ε, L₁ + ε) پس:",
+    "options": ["lim f(x)=l₁", "lim f(x)=l₁", "lim f(x)=l₂", "lim f(x)=l₂"],
+    "correctOption": 2,
+    "correctAnswer": "lim f(x)=l₁",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 79,
+    "question": "لیمت lim(x→2) ln(2x+10)/x-2 مساوی است به:",
+    "options": ["ln 14", "لیمت آن موجود نمی باشد", "-∞", "∞"],
+    "correctOption": 4,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 80,
+    "question": "لیمت lim(x→10) ln(x+10)/x-10 مساوی است به:",
+    "options": ["∞", "4-∞", "1", "0"],
+    "correctOption": 1,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 81,
+    "question": "لیمت lim(x→2) ln(4x+1)/2x-1 مساوی است به:",
+    "options": ["∞", "2", "ln 3", "موجود نیست"],
+    "correctOption": 3,
+    "correctAnswer": "ln 3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 82,
+    "question": "رابطه بین δ و ε در لیمت lim(x→2) (12x) عبارت است از:",
+    "options": ["δ=ε/2", "δ=ε/8", "δ=ε/12", "δ=12/ε"],
+    "correctOption": 3,
+    "correctAnswer": "δ=ε/12",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 83,
+    "question": "لیمت lim(x→1) (2+1/ln x) مساوی است به:",
+    "options": ["3", "4", "3 e²", "4"],
+    "correctOption": 3,
+    "correctAnswer": "3 e²",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 84,
+    "question": "لیمت lim(x→1000) log(x+1)³ مساوی است به:",
+    "options": ["(1001)¹/3", "3", "2", "4"],
+    "correctOption": 2,
+    "correctAnswer": "3",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 85,
+    "question": "لیمت lim(x→3⁺) ¹⁰√x-3 / x-3 مساوی است به:",
+    "options": ["20√3", "0", "∞", "5"],
+    "correctOption": 3,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 86,
+    "question": "لیمت lim(x→∞) (x²⁰⁰+x¹⁰⁰+x⁵⁰¹) عبارت است از:",
+    "options": ["-∞", "3 ∞", "∞-∞", "∞"],
+    "correctOption": 4,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 87,
+    "question": "لیمت lim(x→∞) (8x-x¹⁰-x¹¹) عبارت است از:",
+    "options": ["∞-∞", "±∞", "-∞", "2∞"],
+    "correctOption": 3,
+    "correctAnswer": "-∞",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 88,
+    "question": "لیمت lim(x→-∞) (5x-x²-x³) عبارت است از:",
+    "options": ["±∞", "4∞", "-∞", "∞"],
+    "correctOption": 4,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 89,
+    "question": "لیمت lim(x→∞) (8x-x³-x² + x¹⁰) عبارت است از:",
+    "options": ["∞-∞", "∞", "3±∞", "-∞"],
+    "correctOption": 2,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 90,
+    "question": "لیمت lim(x→∞) (3x²+x)/(2x²+1) مساوی است به:",
+    "options": ["2/3", "3", "3/2", "-3/2"],
+    "correctOption": 3,
+    "correctAnswer": "3/2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 91,
+    "question": "اگر 1+x+x² = ε(x) باشد، در لیمیت lim ε(x) تابع (x) به کدام قیمت a یک تابع بی نهایت کوچک است؟",
+    "options": ["a=-1880", "هیچ عدد حقیقی موجود نیست", "a=-1", "a=0"],
+    "correctOption": 2,
+    "correctAnswer": "هیچ عدد حقیقی موجود نیست",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 92,
+    "question": "لیمت lim(x→∞) (3x⁸-x⁵+(x⁴-1)²)/(8x⁸-1+(2x⁴+1)²) عبارت است از:",
+    "options": ["5/15", "4/8", "3", "1/3"],
+    "correctOption": 4,
+    "correctAnswer": "1/3",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 93,
+    "question": "لیمت lim(x→∞) (2x⁶-x³-(x³-1)²)/(3x⁴+x-(x²-1)³) عبارت است از:",
+    "options": ["0", "4", "3", "2/3"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 94,
+    "question": "لیمت lim(x→0) ln(sin²x+cos²x)/cos x مساوی است به:",
+    "options": ["-1", "1", "∞", "0"],
+    "correctOption": 4,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 95,
+    "question": "لیمت lim(x→2⁺) log₂(x-2) مساوی است به:",
+    "options": ["log 3", "0", "-∞", "+∞"],
+    "correctOption": 3,
+    "correctAnswer": "-∞",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 96,
+    "question": "لیمت lim(x→2⁺) (3)sin² x + 3 cos² x)^(1/sin²x+cos²x) مساوی است به:",
+    "options": ["1/9", "4√3", "9", "26"],
+    "correctOption": 3,
+    "correctAnswer": "9",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 97,
+    "question": "لیمت lim(x→1) 2x / x²-4x+1 مساوی است به:",
+    "options": ["2", "1", "-1", "-2"],
+    "correctOption": 3,
+    "correctAnswer": "-1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 98,
+    "question": "لیمت lim(x→∞) (3x⁶+x³-(2x²+1)³)/(9x⁶+1) مساوی است به:",
+    "options": ["-8/9", "3", "16/9", "9/16"],
+    "correctOption": 1,
+    "correctAnswer": "-8/9",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 99,
+    "question": "لیمت lim(x→5⁺) log₂(3x-15) مساوی است به:",
+    "options": ["-∞", "log 3", "0", "+∞"],
+    "correctOption": 1,
+    "correctAnswer": "-∞",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 100,
+    "question": "لیمت lim(x→4) ³√2x-ln 2 / x-0.25 عبارت است از:",
+    "options": ["³√0.5 - ln 2", "-∞", "3", "0"],
+    "correctOption": 4,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 101,
+    "question": "لیمت lim(x→2⁺) √x+3 / √x-2 مساوی است به:",
+    "options": ["0", "3√2", "3-∞", "∞"],
+    "correctOption": 4,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 102,
+    "question": "لیمت lim(x→0.01⁻) ³√ln x / x - 1/100 مساوی است به:",
+    "options": ["³√ln 1/100", "3", "2", "-∞"],
+    "correctOption": 4,
+    "correctAnswer": "-∞",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 103,
+    "question": "لیمت lim(x→128) √ln x+7 / ln x مساوی است به:",
+    "options": ["7√ln 2+1 / ln 128", "1", "√ln 2e / √7 ln 2", "√7√ln 2+1 / ln 2"],
+    "correctOption": 4,
+    "correctAnswer": "√7√ln 2+1 / ln 2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 104,
+    "question": "لیمت lim(x→0) 1-e⁻ˣ / x مساوی است به:",
+    "options": ["-1", "3", "e", "-e"],
+    "correctOption": 2,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 105,
+    "question": "لیمت lim(x→∞) (x²+1)/(2x²+1) مساوی است به:",
+    "options": ["-∞", "4", "3ln 2", "eln 1/2"],
+    "correctOption": 4,
+    "correctAnswer": "eln 1/2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 106,
+    "question": "لیمت lim(x→1⁺) (cos(π/2) + sin(π/2)) / x-1 مساوی است به:",
+    "options": ["∞", "1", "e²", "e"],
+    "correctOption": 1,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 107,
+    "question": "لیمت lim(x→∞) (4x-1)/(x+1)²ˣ مساوی است به:",
+    "options": ["∞", "4", "2", "16"],
+    "correctOption": 1,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 108,
+    "question": "لیمت lim(x→∞) (√8x+10)/(√2x-11)²ˣ⁻¹ مساوی است به:",
+    "options": ["2√2", "3", "4", "√2"],
+    "correctOption": 3,
+    "correctAnswer": "4",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 109,
+    "question": "لیمت lim(x→∞) ln[(1+1/x)ˣ] مساوی است به:",
+    "options": ["-1", "4", "0", "1"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 110,
+    "question": "لیمت lim(x→1) log⁶(x+1)² / log⁵(x+1) مساوی است به:",
+    "options": ["64 log 16", "16 log 2", "64 log 4", "16 log 16"],
+    "correctOption": 2,
+    "correctAnswer": "16 log 2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 111,
+    "question": "لیمت lim(x→1) log⁴(x+1)² / log³(x+1) مساوی است به:",
+    "options": ["64 log 16", "16 log 2", "64 log 4", "16 log 16"],
+    "correctOption": 2,
+    "correctAnswer": "16 log 2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 112,
+    "question": "لیمت lim(x→5) (cos(x/5))¹/(1+tan²(x/5)) مساوی است به:",
+    "options": ["sec 1", "tan 1", "sec² 1", "tan² 1"],
+    "correctOption": 3,
+    "correctAnswer": "sec² 1",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 113,
+    "question": "لیمت lim(x→0) (1-x)^√2/x مساوی است به:",
+    "options": ["e^√2", "e^-√2", "e", "e⁻¹"],
+    "correctOption": 2,
+    "correctAnswer": "e^-√2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 114,
+    "question": "لیمت lim(x→∞) x³+x²+x+6 / x³+x²+x+5 مساوی است به:",
+    "options": ["-1", "1", "3", "-5"],
+    "correctOption": 2,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 115,
+    "question": "اگر f(x) = {x³-2x+10; x<2, x²-3; x≥2} باشد، پس lim(x→2⁺) f(x) مساوی است به:",
+    "options": ["1", "3", "4", "0"],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 116,
+    "question": "لیمت lim(x→∞) (1-2/x)² مساوی است به:",
+    "options": ["e", "e⁴", "e⁻²", "1"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 117,
+    "question": "لیمت lim(x→2) ln x / ln 2 مساوی است به:",
+    "options": ["7", "1/2", "2", "ln 2"],
+    "correctOption": 3,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 118,
+    "question": "اگر lim(y→∞) sin(10x)/10x = f(x) باشد، پس لیمت f(x) مساوی است به:",
+    "options": ["1", "3", "0", "∞"],
+    "correctOption": 3,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 119,
+    "question": "کدام یک از مستقیم های زیر، مجانب عمودی تابع f(x) = sin(10x)/10x است:",
+    "options": ["x=5", "x=-1", "x=1", "x=-5"],
+    "correctOption": 4,
+    "correctAnswer": "x=-5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 120,
+    "question": "حاصل لیمیت lim(y→∞) [sin(10x)/13x] مساوی است به:",
+    "options": ["0", "13x", "10/13", "∞"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 121,
+    "question": "در نقطه x=2 کدام یکی از توابع ذیل متمادی نیست:",
+    "options": ["3", "f(x)=4x³-1", "f(x)=x-1/x-2", "f(x)=(x-3)²"],
+    "correctOption": 3,
+    "correctAnswer": "f(x)=x-1/x-2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 122,
+    "question": "لیمت lim(x→0) 10ˣ⁻¹/x¹⁰ مساوی است به:",
+    "options": ["10", "ln 10", "∞", "20"],
+    "correctOption": 3,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 123,
+    "question": "لیمت lim(x→0) 1-4ˣ/x مساوی است به:",
+    "options": ["-ln 4", "4 ln 4", "-ln 2", "ln 2"],
+    "correctOption": 1,
+    "correctAnswer": "-ln 4",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 124,
+    "question": "لیمت lim(x→-2⁻) 6x+5x/x-2sgn(x) مساوی است به:",
+    "options": ["0", "-22", "تعریف نشده", "22"],
+    "correctOption": 4,
+    "correctAnswer": "22",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 125,
+    "question": "اگر g(x) = {x²-1; -1<x<0, x³+√x²+1; -3≤x≤-1} باشد، پس lim(x→-1⁺) g(x) مساوی است به:",
+    "options": ["2", "1", "3", "-1"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 126,
+    "question": "لیمت lim(x→0) 6 csc 8x / sin 16 مساوی است به:",
+    "options": ["6/sin 16", "-6/sin 16", "تعریف نشده", "1"],
+    "correctOption": 3,
+    "correctAnswer": "تعریف نشده",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 127,
+    "question": "اگر lim(x→±∞) f(x) = 30 باشد، پس مجانب مایل تابع f(x) عبارت است از:",
+    "options": ["y=30", "y=x+30", "y=-(x+30)", "مجانب مایل ندارد"],
+    "correctOption": 1,
+    "correctAnswer": "y=30",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 128,
+    "question": "اگر lim(x→+∞) f(x) = 1/3 باشد، پس مجانب مایل تابع f(x) عبارت است از:",
+    "options": ["y=1/3", "y=1/3+x", "y=-(1/3+x)", "مجانب مایل ندارد"],
+    "correctOption": 1,
+    "correctAnswer": "y=1/3",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 129,
+    "question": "لیمت lim(x→-∞) (1+10¹⁰) (x²+100m) مساوی است به:",
+    "options": ["∞", "شکل مبهم", "0", "-∞"],
+    "correctOption": 1,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 130,
+    "question": "لیمت lim(x→-∞) (-x¹⁰-x²-1) مساوی است به:",
+    "options": ["شکل مبهم", "∞", "تواند", "-∞"],
+    "correctOption": 4,
+    "correctAnswer": "-∞",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 131,
+    "question": "اگر lim(x→20) k(x) = 0 یک تابع بی نهایت کوچک و k(x) = ε(x) باشد، پس تابع ε(x) مساوی است به:",
+    "options": ["ε(x)=0", "ε(x)=20+k(x)", "ε(x)=lim k(x)+20", "4(ε(x)=20-k(x))"],
+    "correctOption": 1,
+    "correctAnswer": "ε(x)=0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 132,
+    "question": "اگر lim(x→30) k(x) = 0 یک تابع بی نهایت کوچک و lim g(x) = k(x) باشد، پس تابع g(x) مساوی است به:",
+    "options": ["ε(x)=0", "ε(x)=lim g(x)+30", "ε(x)=g(x)-30", "ε(x)=g(x)+30"],
+    "correctOption": 3,
+    "correctAnswer": "ε(x)=g(x)-30",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 133,
+    "question": "لیمت lim(x→2) log³(8-2x)² / log³(8-2x) مساوی است به:",
+    "options": ["64 log 16", "64 log 8", "128 log 2", "64 log 2"],
+    "correctOption": 4,
+    "correctAnswer": "64 log 2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 134,
+    "question": "لیمت lim(x→+∞) (1+1/2x)²ˣ مساوی است به:",
+    "options": ["e⁸", "3e²", "e⁴", "0"],
+    "correctOption": 4,
+    "correctAnswer": "e",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 135,
+    "question": "لیمت lim(x→0⁺) (√sin x - √cos x) مساوی است به:",
+    "options": ["4", "0", "-1", "1"],
+    "correctOption": 3,
+    "correctAnswer": "-1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 136,
+    "question": "لیمت lim(x→0) (tan 5x . cos 3x) مساوی است به:",
+    "options": ["-4", "0", "1", "∞"],
+    "correctOption": 2,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 137,
+    "question": "لیمت lim(x→1⁺) 31/3 / x-1 مساوی است به:",
+    "options": ["∞", "3", "1", "4"],
+    "correctOption": 1,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 138,
+    "question": "لیمت lim(x→5⁻) 3x-5 مساوی است به:",
+    "options": ["1", "5", "10", "15"],
+    "correctOption": 3,
+    "correctAnswer": "10",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 139,
+    "question": "حاصل لیمیت lim(x→+∞) (-ln 2.1)⁻²ˣ مساوی است به:",
+    "options": ["-∞", "0", "2", "3"],
+    "correctOption": 2,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 140,
+    "question": "لیمت lim(x→2⁺) (2/11)^(1/x-2) مساوی است به:",
+    "options": ["0", "4", "3", "∞"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 141,
+    "question": "مجانب عمودی تابع f(x) = x²+x+1 / 2x+1 عبارت است از:",
+    "options": ["x=1/2", "x=-2", "x=-1/2", "x=2"],
+    "correctOption": 3,
+    "correctAnswer": "x=-1/2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 142,
+    "question": "لیمت lim(x→π) tan²(x-π) / (x-π)² مساوی است به:",
+    "options": ["0", "3", "∞", "1"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 143,
+    "question": "قیمت 1 - lim(x→10) (log x² - 1) مساوی است به:",
+    "options": ["-2", "-1", "3", "1"],
+    "correctOption": 2,
+    "correctAnswer": "-1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 144,
+    "question": "اگر lim g(t) = 1/√5 یک تابع بی نهایت کوچک t→x باشد، پس تابع (t) مساوی است به:",
+    "options": ["ε(t)=-2/√20+g(t)", "ε(t)=lim g(t)-1/5", "ε(t)=1/√5+g(t)", "ε(t)=0"],
+    "correctOption": 4,
+    "correctAnswer": "ε(t)=0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 145,
+    "question": "لیمت lim(x→1) sec²(cos x) / 1+tan²(cos x) مساوی است به:",
+    "options": ["sec²(cos 1)", "3tan⁴(cos 1)", "sec⁴(cos 1)", "tan²(cos 1)"],
+    "correctOption": 4,
+    "correctAnswer": "cos²(cos 1)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 146,
+    "question": "لیمت lim(x→2) |x-2| / x-2 مساوی است به:",
+    "options": ["موجود نیست", "2", "1", "3"],
+    "correctOption": 1,
+    "correctAnswer": "موجود نیست",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 147,
+    "question": "لیمت lim(x→5e⁻) 5x / 5x-25e عبارت است از:",
+    "options": ["2", "25e", "∞", "-∞"],
+    "correctOption": 4,
+    "correctAnswer": "-∞",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 148,
+    "question": "اگر lim(x→a) f(x) = L باشد، پس برای ∀ε > 0, ∃δ > 0 : |x-a| < δ کدام یک از نتیجه های ذیل بدست می آید:",
+    "options": ["|f(x)-L|≤ε", "|f(x)-L|>ε", "|f(x)-L|≥ε", "|f(x)-l|<ε"],
+    "correctOption": 4,
+    "correctAnswer": "|f(x)-l|<ε",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 149,
+    "question": "لیمت lim(x→-1) |x⁷ - 2x - 5| مساوی است به:",
+    "options": ["4", "-4", "-3", "2"],
+    "correctOption": 1,
+    "correctAnswer": "4",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 150,
+    "question": "لیمت lim(x→∞) (x⁸ - 8x³) مساوی است به:",
+    "options": ["1", "4", "0", "-∞"],
+    "correctOption": 2,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 151,
+    "question": "لیمت lim(x→10e) 100x / x-10e-x-10e عبارت است از:",
+    "options": ["لیمت آن موجود نیست", "3", "10e", "4∞"],
+    "correctOption": 1,
+    "correctAnswer": "لیمت آن موجود نیست",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 152,
+    "question": "لیمت lim(x→5⁺) |2x-5| / 2x-5 عبارت است از:",
+    "options": ["-1", "0", "3", "1"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 153,
+    "question": "نقطه غیر متمادی تابع f(x) = x²+x-2 / (x³+x)x¹¹ عبارت است از:",
+    "options": ["x=±1, x=0", "0", "x=1", "x=0"],
+    "correctOption": 1,
+    "correctAnswer": "x=±1, x=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 154,
+    "question": "لیمت lim(x→0) 1-4ˣ / x مساوی است به:",
+    "options": ["-ln 2", "-ln 4", "ln 2", "ln 4"],
+    "correctOption": 2,
+    "correctAnswer": "-ln 4",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 155,
+    "question": "لیمت lim(x→0) 2ˣ-1 / x مساوی است به:",
+    "options": ["-ln 2", "2", "ln √2", "ln 2"],
+    "correctOption": 4,
+    "correctAnswer": "ln 2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 156,
+    "question": "لیمت lim(x→0) (2x+1)⁴ / (1-7x) مساوی است به:",
+    "options": ["-7", "2", "7", "1"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 157,
+    "question": "لیمت lim(x→0) ln(x²+1) / x²+1 مساوی است به:",
+    "options": ["4", "2", "3", "1"],
+    "correctOption": 2,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 158,
+    "question": "لیمت lim(x→0) cos(x-π)+sin(x+π) / cos(x+π)+sin(x-π) مساوی است به:",
+    "options": ["4", "-π", "-1", "2"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 159,
+    "question": "اگر f(x) = 2x+1 / x باشد، پس lim(x→1) f(x) مساوی است به:",
+    "options": ["0", "∞", "-3", "3"],
+    "correctOption": 4,
+    "correctAnswer": "3",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 160,
+    "question": "مجانب های تابع f(x) = 2x+1 / 2x+1 عبارت است از:",
+    "options": ["x=2, y=5", "x=5, y=2", "x=2, y=-5", "x=-5, y=-2"],
+    "correctOption": 4,
+    "correctAnswer": "x=-0.5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 163,
+    "question": "لیمت lim(x→1) 2⁻ˣ / x+1 مساوی است به:",
+    "options": ["-1/4", "1/3", "1/2", "1/2"],
+    "correctOption": 4,
+    "correctAnswer": "1/4",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 164,
+    "question": "لیمت lim(x→0) (x-2)²-4 / (x-1)²-1 مساوی است به:",
+    "options": ["4", "2", "-2", "-4"],
+    "correctOption": 2,
+    "correctAnswer": "2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 165,
+    "question": "لیمت lim(x→0) x² / e²-1 مساوی است به:",
+    "options": ["1", "3", "2", "e"],
+    "correctOption": 4,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 166,
+    "question": "لیمت lim(x→10) log x+1 / 2 log x مساوی است به:",
+    "options": ["-1", "1", "7", "10"],
+    "correctOption": 2,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 167,
+    "question": "لیمت lim(x→e) (ln √x)⁷ مساوی است به:",
+    "options": ["√2", "-√2", "√2/2", "√2/2"],
+    "correctOption": 3,
+    "correctAnswer": "1/128",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 168,
+    "question": "لیمت lim(x→0) sin(7+x)-sin(7-x) / (x-7)²-49 مساوی است به:",
+    "options": ["∞", "1", "-1", "0"],
+    "correctOption": 3,
+    "correctAnswer": "-1/7",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 169,
+    "question": "لیمت lim(x→∞) (1 + 1/x)¹⁰ مساوی است به:",
+    "options": ["∞", "e⁻¹⁰", "e¹⁰", "1"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 170,
+    "question": "لیمت lim(x→1) x¹⁰⁰-2x⁵⁰ / x⁵⁰-1 مساوی است به:",
+    "options": ["50", "∞", "2", "0"],
+    "correctOption": 4,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 171,
+    "question": "لیمت lim(x→0) tan² x / sin² 5x مساوی است به:",
+    "options": ["1", "3", "0", "1/25"],
+    "correctOption": 4,
+    "correctAnswer": "1/25",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 172,
+    "question": "لیمت lim(x→0) ln(a+1) / x+1 مساوی است به:",
+    "options": ["ln(a+1)", "1", "4", "ln a"],
+    "correctOption": 1,
+    "correctAnswer": "ln(a+1)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 173,
+    "question": "لیمت lim(x→0) cot(4x) / 3 tan(1/4 x) مساوی است به:",
+    "options": ["1/4", "-1/3", "1", "-1"],
+    "correctOption": 1,
+    "correctAnswer": "16/3",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 174,
+    "question": "مجانب افقی تابع f(x) = 12 / 10x-1 عبارت است از:",
+    "options": ["x=1/10", "x=0", "y=12", "y=0"],
+    "correctOption": 4,
+    "correctAnswer": "y=0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 175,
+    "question": "لیمت lim(x→∞) (√8x+10)/(√2x-1) مساوی است به:",
+    "options": ["4", "√2", "2", "∞"],
+    "correctOption": 3,
+    "correctAnswer": "2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 176,
+    "question": "لیمت lim(x→1) x³-1 / √x-1 مساوی است به:",
+    "options": ["1", "-1", "2", "∞"],
+    "correctOption": 4,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 177,
+    "question": "رابطه δ و ε در لیمت lim(x→100) (3x+100) مساوی است به:",
+    "options": ["δ=3ε", "δ=ε/3", "δ=3+ε", "δ=ε/1"],
+    "correctOption": 2,
+    "correctAnswer": "δ=ε/3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 178,
+    "question": "اگر f(x) = 2cos²x - 1 باشد، پس lim(x→π/2) f(x) مساوی است به:",
+    "options": ["-1", "∞", "1", "0"],
+    "correctOption": 1,
+    "correctAnswer": "-1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 179,
+    "question": "لیمت lim(x→0) tan x / x cos x مساوی است به:",
+    "options": ["4", "5", "0", "1"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 180,
+    "question": "لیمت lim(x→π) sin² x / sec² π مساوی است به:",
+    "options": ["0", "1/8", "8", "1"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 181,
+    "question": "لیمت lim(x→1) x²+1 / x-1 مساوی است به:",
+    "options": ["موجود نیست", "2", "0", "∞"],
+    "correctOption": 4,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 182,
+    "question": "لیمت lim(x→1) ln³(x+1) / ln²(x+1) مساوی است به:",
+    "options": ["2ln 16", "ln 8", "ln 2", "1) هیچکدام"],
+    "correctOption": 3,
+    "correctAnswer": "ln 2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 183,
+    "question": "در تابع f(x) = 1/x مجانب مایل عبارت است از:",
+    "options": ["2", "مجانب مایل ندارد", "3", "1"],
+    "correctOption": 2,
+    "correctAnswer": "مجانب مایل ندارد",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 184,
+    "question": "تابع f(x) در نقطه x=b و تابع g(x) در نقطه f(b)=x متمادی باشند، پس کدام رابطه ذیل درست است:",
+    "options": ["lim g(f(x)) ≠ g(f(x))", "lim g(f(x)) = g(lim f(x))", "lim g(f(x)) ≠ g(lim f(x))", "lim g(f(x)) = g(f(x))"],
+    "correctOption": 4,
+    "correctAnswer": "lim g(f(x)) = g(f(x))",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 185,
+    "question": "لیمت lim(x→0) sin¹⁰ x / tan⁵ 2x مساوی است به:",
+    "options": ["3", "1/3", "2", "1/32"],
+    "correctOption": 4,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 186,
+    "question": "اگر تابع f(h(x)) در نقطه x=b متمادی باشد پس کدام یک از روابط ذیل درست است:",
+    "options": ["lim f(h(x)) = f(h(b))", "lim f(h(x)) = 0", "lim f(h(x)) = h(b)", "lim f(h(x)) = f(b)"],
+    "correctOption": 1,
+    "correctAnswer": "lim f(h(x)) = f(h(b))",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 187,
+    "question": "اگر ε(x) = ln x باشد در لیمت lim(x→4) ε(x) قیمت a یک تابع بی نهایت کوچک است؟",
+    "options": ["0", "2", "1", "2"],
+    "correctOption": 3,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 188,
+    "question": "لیمت lim(x→∞) (1+1/x²)ˣ مساوی است به:",
+    "options": ["³√e²", "³√e", "√e", "1"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 189,
+    "question": "لیمت lim(x→2) (√x+2 - √x) مساوی است به:",
+    "options": ["0", "1", "-1", "∞"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 190,
+    "question": "لیمت lim(x→0) ln(e+x) / e+x مساوی است به:",
+    "options": ["e", "1", "e⁻¹", "1/e"],
+    "correctOption": 4,
+    "correctAnswer": "1/e",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 191,
+    "question": "لیمت lim(x→∞) x³-1 / ³√x³-1 مساوی است به:",
+    "options": ["∞", "0", "³√2", "-∞"],
+    "correctOption": 1,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 192,
+    "question": "در لیمت lim(x→1) (2x+100) رابطه بین δ و ε مساوی است به:",
+    "options": ["δ=ε/4", "δ=ε/3", "δ=ε/2", "δ=ε/5"],
+    "correctOption": 3,
+    "correctAnswer": "δ=ε/2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 193,
+    "question": "لیمت lim(x→e) (ln x)^(x/x-e) مساوی است به:",
+    "options": ["e", "e²", "5e", "e"],
+    "correctOption": 4,
+    "correctAnswer": "e",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 194,
+    "question": "قیمت lim(x→0) tan(2x-π) / 4x²-1 مساوی است به:",
+    "options": ["1", "0", "∞", "موجود نیست"],
+    "correctOption": 2,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 195,
+    "question": "لیمت lim(x→0) 1/x+3 مساوی است به:",
+    "options": ["1", "-1", "2", "3"],
+    "correctOption": 4,
+    "correctAnswer": "1/3",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 196,
+    "question": "لیمت lim(x→0) sin 3x / x+0.5 sin 2x مساوی است به:",
+    "options": ["5", "3/2", "3/4", "3/2"],
+    "correctOption": 2,
+    "correctAnswer": "3/2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 197,
+    "question": "تابع f(x) = 2x-1 / x-2 کدام یکی از مجانب های ذیل را دارد:",
+    "options": ["مایل و عمودی", "همه درست است", "عمودی و افقی", "مایل و افقی"],
+    "correctOption": 3,
+    "correctAnswer": "عمودی و افقی",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 198,
+    "question": "لیمت lim(x→log 5) (10ˣ + 1/10ˣ) مساوی است به:",
+    "options": ["1/5", "26/5", "5", "5/26"],
+    "correctOption": 2,
+    "correctAnswer": "26/5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 199,
+    "question": "اگر g(x) پس lim(x→-1) g(x) مساوی است به:",
+    "options": ["4", "0", "-1+√2", "3"],
+    "correctOption": 3,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 200,
+    "question": "لیمت lim(x→2) (log₂ x)^(x+1) مساوی است به:",
+    "options": ["1", "4", "3", "-1"],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 201,
+    "question": "اگر lim(x→∞) a_n xⁿ... / b_m xᵐ... = 0 باشد طوری که a_n ≠ 0 و b_m ≠ 0 باشد پس :",
+    "options": ["همه درست است", "n > m", "n < m", "n = m"],
+    "correctOption": 3,
+    "correctAnswer": "n < m",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 202,
+    "question": "رابطه بین δ و ε در لیمیت lim(x→100) (3x+100) مساوی است به:",
+    "options": ["δ=3ε", "δ=ε/3", "δ=3+ε", "δ=ε/1"],
+    "correctOption": 2,
+    "correctAnswer": "δ=ε/3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 203,
+    "question": "لیمت lim(x→2) x³-8 / x-2 مساوی است به:",
+    "options": ["12", "12", "24", "11"],
+    "correctOption": 1,
+    "correctAnswer": "12",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 204,
+    "question": "اگر g(x) = { sin x / x ; x>0, x²+1 ; -2<x≤0, 4x-1 ; -5<x≤-2 } باشد پس lim(x→-2⁺) g(x) مساوی است به:",
+    "options": ["-1", "5", "3", "5"],
+    "correctOption": 2,
+    "correctAnswer": "5",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 205,
+    "question": "قیمت لیمت lim(x→3) x²-6x+9 / x²-8x+15 مساوی است به:",
+    "options": ["1", "0", "2", "9/13"],
+    "correctOption": 2,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 206,
+    "question": "لیمت lim(x→∞) x³+x²+x+7 / x³-x²+5 مساوی است به:",
+    "options": ["1/2", "1", "0", "2"],
+    "correctOption": 2,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 207,
+    "question": "لیمت lim(x→0) (1+2y)^(1/y) مساوی است به:",
+    "options": ["-2e", "e⁻²", "e²", "e"],
+    "correctOption": 3,
+    "correctAnswer": "e²",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 208,
+    "question": "لیمت lim(x→0) (cos 2x)^(1/x²) مساوی است به:",
+    "options": ["e", "e⁻¹", "-1", "1"],
+    "correctOption": 4,
+    "correctAnswer": "e⁻²",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 209,
+    "question": "مجانب عمودی تابع f(x) = 2x-4 / x+2 عبارت از کدام مستقیم ذیل است؟",
+    "options": ["4", "x=1", "z=-2", "x=2"],
+    "correctOption": 3,
+    "correctAnswer": "x=-2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 210,
+    "question": "تابع f(x) = |x-3| در نقطه x=3 کدام یکی از خاصیت های ذیل را دارا است.",
+    "options": ["تعریف نشده", "lim f(x) ≠ f(3)", "lim f(x) > f(3)", "متمادی است"],
+    "correctOption": 4,
+    "correctAnswer": "متمادی است",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 211,
+    "question": "نقطه انفصال تابع f(x) = 1/x-3 عبارت است از:",
+    "options": ["x=3", "x=-3", "x=2", "x ≠ 3"],
+    "correctOption": 1,
+    "correctAnswer": "x=3",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 212,
+    "question": "مجانب افقی تابع y = 5x+3 / 2x-2 عبارت است از:",
+    "options": ["y=-5", "y=5", "y=-2", "y=2.5"],
+    "correctOption": 4,
+    "correctAnswer": "y=2.5",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 213,
+    "question": "اگر g(x) باشد پس lim(x→-1) g(x) مساوی است به:",
+    "options": ["0", "3", "موجود نیست", "-1+√2"],
+    "correctOption": 3,
+    "correctAnswer": "موجود نیست",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 214,
+    "question": "لیمت lim(x→a) [f(x₁) + f(x₂)] مساوی است به:",
+    "options": ["lim f(x₁) ± lim f(x₂)", "lim f(x₁) + lim f(x₂)", "lim f(x₁) + lim f(x₂)", "lim f(x₁) - lim f(x₂)"],
+    "correctOption": 2,
+    "correctAnswer": "lim f(x₁) + lim f(x₂)",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 215,
+    "question": "لیمت lim(x→0) 4x-3 / x+1 مساوی است به:",
+    "options": ["1", "2", "3", "-3"],
+    "correctOption": 4,
+    "correctAnswer": "-3",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 216,
+    "question": "لیمت lim(x→∞) 3x²-2 / x²+1 مساوی است به:",
+    "options": ["1", "3", "∞", "3"],
+    "correctOption": 2,
+    "correctAnswer": "3",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 217,
+    "question": "lim(x→∞) [π√n² + n - n] = ?",
+    "options": ["∞", "0", "2", "1"],
+    "correctOption": 4,
+    "correctAnswer": "π/2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 218,
+    "question": "لیمت lim(x→2⁺) |x-2| / x-2 مساوی است به:",
+    "options": ["موجود نیست", "0", "1", "-1"],
+    "correctOption": 3,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 219,
+    "question": "لیمت lim(x→1) log₂(x+1) مساوی است به:",
+    "options": ["2", "0", "3", "1"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 220,
+    "question": "لیمت lim(x→∞) (x+3/x-1)ˣ⁺² مساوی است به:",
+    "options": ["e⁴", "e³", "e²", "e⁻⁵"],
+    "correctOption": 1,
+    "correctAnswer": "e⁴",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 221,
+    "question": "لیمت lim(x→-3) x+3 / x-3√x+3 عبارت است از:",
+    "options": ["0", "1", "3", "-1"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 222,
+    "question": "لیمت lim(x→1) [(x+1)² - 2x] مساوی است به:",
+    "options": ["0", "2", "1", "-1"],
+    "correctOption": 2,
+    "correctAnswer": "2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 223,
+    "question": "لیمت lim(x→-1) x³+1 / x+1 مساوی است به:",
+    "options": ["3", "-1", "1/2", "1"],
+    "correctOption": 1,
+    "correctAnswer": "3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 224,
+    "question": "لیمت lim(x→0⁻) |x| / x مساوی است به:",
+    "options": ["0", "1", "موجود نیست", "-1"],
+    "correctOption": 4,
+    "correctAnswer": "-1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 225,
+    "question": "لیمت lim(x→10) (log x² - 1) مساوی است به:",
+    "options": ["1", "2", "-1", "-2"],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 226,
+    "question": "اگر g(x) کدام یک از رابطه های ذیل درست است:",
+    "options": ["lim g(x) ≤ g(-2)", "lim g(x) = g(-2)", "lim g(x) > g(-2)", "موارد 4"],
+    "correctOption": 2,
+    "correctAnswer": "lim g(x) = g(-2)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 227,
+    "question": "اگر g(x) در کدام یکی از نقاط متمادی نیست:",
+    "options": ["x=-2", "x=-1", "x=-3", "x=7"],
+    "correctOption": 1,
+    "correctAnswer": "x=-2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 228,
+    "question": "لیمت lim(x→0) 1+sin x / sin x مساوی است به:",
+    "options": ["1", "2", "-2", "-1/4"],
+    "correctOption": 4,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 229,
+    "question": "مجانب افقی تابع y = x-3 / 2x+1 عبارت است از:",
+    "options": ["y=3", "y=1/2", "y=-3", "y=1/1"],
+    "correctOption": 2,
+    "correctAnswer": "y=1/2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 230,
+    "question": "هرگاه برای هر (a - δ, a + δ) موجود باشد در اینصورت:",
+    "options": ["lim f(x) ≥ 2", "lim f(x) ≠ lim g(x)", "lim f(x) ≤ lim g(x)", "lim g(x)"],
+    "correctOption": 3,
+    "correctAnswer": "lim f(x) ≤ lim g(x)",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 231,
+    "question": "اگر |x-a| < δ > 0 ; |x-a| > ε باشد پس برای δ کدام ی از نتایج ذیل lim f(x) = L دارد؟",
+    "options": ["|f(x)-L| < ε", "|f(x)-L| > ε", "|f(x)-L| ≤ ε", "|f(x)-L| ≥ ε"],
+    "correctOption": 1,
+    "correctAnswer": "|f(x)-L| < ε",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 232,
+    "question": "لیمت lim(x→0) tan² 2x / x² مساوی است به:",
+    "options": ["0", "1/4", "4", "2"],
+    "correctOption": 3,
+    "correctAnswer": "4",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 233,
+    "question": "لیمت lim(x→e²) (ln x)² عبارت است از:",
+    "options": ["1", "4", "8", "2"],
+    "correctOption": 2,
+    "correctAnswer": "4",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 234,
+    "question": "لیمت lim(x→0) sin x-x / x مساوی است به:",
+    "options": ["0", "1", "∞", "-1"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 235,
+    "question": "مجانب عمودی گراف تابع y = 3x-1 / x-5 عبارت است از کدام مستقیم ذیل است؟",
+    "options": ["x=4", "x=5", "x=3", "x=-5"],
+    "correctOption": 2,
+    "correctAnswer": "x=5",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 236,
+    "question": "لیمت lim(x→0) (√sin x - √cos x) مساوی است به:",
+    "options": ["-1", "0", "1", "3 تمام"],
+    "correctOption": 1,
+    "correctAnswer": "-1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 237,
+    "question": "لیمت lim(x→0) tan bx / ax مساوی است به:",
+    "options": ["0", "b/a", "-b/a", "a/b"],
+    "correctOption": 2,
+    "correctAnswer": "b/a",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 238,
+    "question": "کدام یکی از روابط ذیل درست است:",
+    "options": ["3 lim g(x) > g(0)", "2 lim g(x) = g(0)", "lim g(x) > g(0)", "li g(x) = g(0)"],
+    "correctOption": 2,
+    "correctAnswer": "lim g(x) = g(0)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 239,
+    "question": "لیمت lim(x→2) x²-4 / 2x²-3x-2 مساوی است به:",
+    "options": ["5", "-4/5", "3", "4"],
+    "correctOption": 4,
+    "correctAnswer": "4/5",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 240,
+    "question": "لیمت lim(x→0) eˣ-1 / x مساوی است به:",
+    "options": ["0", "-1", "2", "1"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 241,
+    "question": "اگر b_m ≠ 0, a_n ≠ 0 و ... n=m باشد:",
+    "options": ["n=m", "n>m", "n<m", "همه درست است"],
+    "correctOption": 1,
+    "correctAnswer": "n=m",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 242,
+    "question": "مجانب مایل منحنی y = 2x² / x-1 عبارت است از:",
+    "options": ["y=2x+1", "y=2x-1", "y=2x+2", "y=2x-2"],
+    "correctOption": 3,
+    "correctAnswer": "y=2x+2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 243,
+    "question": "قیمت lim(a→1) sin(a²-1) / a²-1 مساوی است به:",
+    "options": ["2", "-2", "1", "4"],
+    "correctOption": 3,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 244,
+    "question": "اگر h(x) در نقطه x=c متمادی باشد، پس:",
+    "options": ["h(c)", "همه درست است", "lim log h(x)", "log h(c)"],
+    "correctOption": 4,
+    "correctAnswer": "log h(c)",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 245,
+    "question": "لیمت lim(x→∞) sin x / x مساوی است به:",
+    "options": ["1", "∞", "5", "0"],
+    "correctOption": 4,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 246,
+    "question": "اگر g(x) باشد پس lim(x→1⁺) g(x) مساوی است به:",
+    "options": ["0", "2", "2", "-1"],
+    "correctOption": 2,
+    "correctAnswer": "2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 247,
+    "question": "لیمت lim(x→2) |x-2| / x-2 مساوی است به:",
+    "options": ["1", "1", "موجود نیست", "0"],
+    "correctOption": 3,
+    "correctAnswer": "موجود نیست",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 248,
+    "question": "اگر f(x) باشد پس lim f(x) x→0⁺ مساوی است به:",
+    "options": ["-1", "0", "2", "1"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 249,
+    "question": "لیمت lim(x→1) ln(2x)² / ln²(2x) مساوی است به:",
+    "options": ["2ln 2", "1/2ln 2", "2/ln 2", "1/ln 2"],
+    "correctOption": 3,
+    "correctAnswer": "2/ln 2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 250,
+    "question": "لیمت lim(x→π/4) sin x - cos x / cos² x - sin² x عبارت است از:",
+    "options": ["1/2", "√2/2", "-√2/2", "-1/2"],
+    "correctOption": 3,
+    "correctAnswer": "-√2/2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 251,
+    "question": "مقدار لیمیت lim(x→1) √x-1 / x²-1 مساوی است به:",
+    "options": ["1/4", "1/3", "1/2", "1/4"],
+    "correctOption": 1,
+    "correctAnswer": "1/4",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 252,
+    "question": "قیمت lim(x→0) tan 8x / 2x مساوی است به:",
+    "options": ["8", "4", "2", "2"],
+    "correctOption": 2,
+    "correctAnswer": "4",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 253,
+    "question": "قیمت این عبارت lim(x→0) x-8 / ³√x - √8 است از:",
+    "options": ["2√2", "4√2", "√8", "-4√8"],
+    "correctOption": 2,
+    "correctAnswer": "12",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 254,
+    "question": "قیمت است مساوی lim(x→1) (1/1-x - 1/1-x²) به:",
+    "options": ["∞", "-1", "1", "0"],
+    "correctOption": 2,
+    "correctAnswer": "-1/2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 255,
+    "question": "تابع g(x) = √8-x² / 2x²-5 در کدام نقاط ذیل متمادی نمی باشد:",
+    "options": ["x=2", "x=1", "x=0", "x=5/2"],
+    "correctOption": 4,
+    "correctAnswer": "x=±√2.5",
+    "subject": "Math", "difficulty": "medium"
+  },
+  {
+    "id": 256,
+    "question": "لیمت lim(x→0) x/x²-1 / (x+1)²-1 مساوی است به:",
+    "options": ["1/3", "1/2", "2", "1/3"],
+    "correctOption": 2,
+    "correctAnswer": "1/2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 257,
+    "question": "لیمت lim(x→∞) (sin(a/x))ˣ مساوی است به:",
+    "options": ["2", "0", "1", "∞"],
+    "correctOption": 2,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 258,
+    "question": "لیمت lim(x→∞) x²-1 / ³√x²-1 مساوی است به:",
+    "options": ["1", "0", "-∞", "∞"],
+    "correctOption": 4,
+    "correctAnswer": "∞",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 259,
+    "question": "لیمت lim(x→0) 1-eˣ / x مساوی است به:",
+    "options": ["-1", "1", "e", "-e"],
+    "correctOption": 1,
+    "correctAnswer": "-1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 260,
+    "question": "لیمت lim(x→1) cos² x / 1-sin x مساوی است به:",
+    "options": ["1/2", "3", "2", "2"],
+    "correctOption": 3,
+    "correctAnswer": "2",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 261,
+    "question": "اگر f(x) = {sin x / x ; x≠0 , a ; x=0} در x=0 نقطه متمادی باشد، پس:",
+    "options": ["1", "0", "1/2", "-1"],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 262,
+    "question": "اگر g(x) = {sin x+x / x²-1 ; x>0} ... lim(x→0⁻) g(x) < g(0) مساوی است به:",
+    "options": ["lim g(x)=g(0)", "lim g(x)<3g(0)", "3) تمام موارد", "4"],
+    "correctOption": 3,
+    "correctAnswer": "3) تمام موارد",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 263,
+    "question": "لیمت lim(x→0) lim(cos x)¹/x مساوی است به:",
+    "options": ["e", "e⁻¹", "1", "-1"],
+    "correctOption": 3,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 264,
+    "question": "لیمت lim(x→∞) (√2 + 5/x) مساوی است به:",
+    "options": ["0", "5", "-5", "√2"],
+    "correctOption": 4,
+    "correctAnswer": "√2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+    {
+    "id": 265,
+    "question": "حاصل lim (x→∞) (3x + 1) / (x - 2) عبارت است از:",
+    "options": ["3", "1", "∞", "0"],
+    "correctOption": 1,
+    "correctAnswer": "3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 266,
+    "question": "تابع f(x) = x+3 / x²-4 در کدام یک از نقاط ذیل متمادی نیست:",
+    "options": ["x=4", "x=-2", "x=-4", "x=2"],
+    "correctOption": 4,
+    "correctAnswer": "x=2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 267,
+    "question": "باشد lim(x→-1) g(x) پس مساوی است",
+    "options": ["√2", "-√2", "1", "-1+√2"],
+    "correctOption": 3,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 268,
+    "question": "لیمت lim(x→1) ³√x-1 / x-1 مساوی است به:",
+    "options": ["4√8", "2", "1/2", "√8"],
+    "correctOption": 2,
+    "correctAnswer": "1/3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 269,
+    "question": "جانب افقی تابع y = 4x+4 / x-2 عبارت است از:",
+    "options": ["y=4", "y=2", "y=-4", "y=-2"],
+    "correctOption": 1,
+    "correctAnswer": "y=4",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 270,
+    "question": "لیمت lim(x→-1) (7x²-2x-5) مساوی است به:",
+    "options": ["4", "-2", "4", "2"],
+    "correctOption": 1,
+    "correctAnswer": "4",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 271,
+    "question": "لیمت lim(x→0) (sin x + cos x)² مساوی است به:",
+    "options": ["1", "∞", "0", "2"],
+    "correctOption": 1,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 272,
+    "question": "فرضاً f(x) ∈ a, r>0 یک تابع بینهایت کوچک و lim f(x) = b باشد. در این صورت کدام شکل ذیل است:",
+    "options": ["ε(1+f(x))", "ε b2 + f(x)", "εb - f(x)", "ε(x) = 0"],
+    "correctOption": 4,
+    "correctAnswer": "ε(x) = 0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 273,
+    "question": "لیمت lim(x→3) x-3 / |3-x| مساوی است به:",
+    "options": ["موجود نیست", "1", "-1", "0"],
+    "correctOption": 1,
+    "correctAnswer": "موجود نیست",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 274,
+    "question": "حاصل lim (x→0) sin(25 sin x) / 2x مساوی است به:",
+    "options": ["1", "25/2", "5/6", "e³⁶"],
+    "correctOption": 2,
+    "correctAnswer": "25/2",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 275,
+    "question": "اگر f(x) = |x| باشد پس lim(x→0) f(x) + f(x) مساوی است به:",
+    "options": ["1", "2", "-1", "0"],
+    "correctOption": 4,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 276,
+    "question": "لیمت lim(x→1/2) (sin πx - 1) / (2x - 1)² مساوی است به:",
+    "options": ["-1", "1/2", "-1/2", "0"],
+    "correctOption": 4,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 277,
+    "question": "لیمت lim(x→∞) (2n²+n-1 / 5n²-7n+12) مساوی است به:",
+    "options": ["25", "4", "4/25", "2/5"],
+    "correctOption": 4,
+    "correctAnswer": "2/5",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 278,
+    "question": "اگر a_n xⁿ... / b_m xᵐ... باشد و n < m باشد:",
+    "options": ["0", "∞", "1", "a/b"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 279,
+    "question": "لیمت lim(x→1) x-1 / ³√x - 1 مساوی است به:",
+    "options": ["1", "4", "3", "2"],
+    "correctOption": 3,
+    "correctAnswer": "3",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 280,
+    "question": "لیمت lim(x→0) sin x / ³√2x مساوی است به:",
+    "options": ["√2", "1/3", "-1", "0"],
+    "correctOption": 4,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 281,
+    "question": "حاصل lim (x→0) (2x+1)⁴ / (1-7x) مساوی است به:",
+    "options": ["-7", "2", "7", "1"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 282,
+    "question": "اگر f(x) = {x²+1 ; x≤0 , 2x-1 ; x>0} باشد، پس lim(x→0⁺) f(x) مساوی است به:",
+    "options": ["1", "-2", "0", "-1"],
+    "correctOption": 4,
+    "correctAnswer": "-1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 283,
+    "question": "مجانب عمودی گراف تابع y = 6x-1 / 2x+4 مساوی است به:",
+    "options": ["x=3", "x=-1", "x=-2", "x=-3"],
+    "correctOption": 3,
+    "correctAnswer": "x=-2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 284,
+    "question": "لیمت lim(x→0) (sin x . cos πx)¹⁰ مساوی است به:",
+    "options": ["10/π", "0", "π¹⁰", "π"],
+    "correctOption": 2,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 285,
+    "question": "لیمت lim(x→∞) x²-2x+1 / x²-1 مساوی است به:",
+    "options": ["2", "0", "2", "1"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 286,
+    "question": "لیمت lim(x→0) ln(7+2x) / x-1 مساوی است به:",
+    "options": ["ln 14", "-ln 14", "ln 7", "-ln 7"],
+    "correctOption": 4,
+    "correctAnswer": "-ln 7",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 287,
+    "question": "حاصل lim (x→0) (1-x)^(√3/x) مساوی است به:",
+    "options": ["e⁻¹", "e", "e^√3", "e⁻^√3"],
+    "correctOption": 4,
+    "correctAnswer": "e⁻^√3",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 288,
+    "question": "حاصل lim (x→∞) (1 + 4/x)²ˣ مساوی است به:",
+    "options": ["e⁴", "e²", "e⁸", "0"],
+    "correctOption": 3,
+    "correctAnswer": "e⁸",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 289,
+    "question": "حاصل lim (x→0) 2x - 1 / ln(2x-1) مساوی است به:",
+    "options": ["موجود نیست", "1", "2", "0"],
+    "correctOption": 1,
+    "correctAnswer": "موجود نیست",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 290,
+    "question": "حاصل lim (x→∞) (6/e - 1)ˣ مساوی است به:",
+    "options": ["موجود نیست", "-e⁶", "-e", "e⁶"],
+    "correctOption": 1,
+    "correctAnswer": "موجود نیست",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 291,
+    "question": "لیمت lim(x→2⁺) (2/11)^(1/x-2) مساوی است به:",
+    "options": ["0", "4", "3", "5"],
+    "correctOption": 1,
+    "correctAnswer": "0",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 292,
+    "question": "مجانب عمودی تابع y = x²+x+1 / 2x+1 عبارت است از:",
+    "options": ["x=1/2", "x=-2", "x=-1/2", "x=2"],
+    "correctOption": 3,
+    "correctAnswer": "x=-1/2",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 293,
+    "question": "قیمت lim(x→π) tan²(x-π) / (x-π)² مساوی است به:",
+    "options": ["0", "4", "3", "1"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "medium"
+  },
+  {
+    "id": 294,
+    "question": "اگر t→x یک تابع بی نهایت کوچک 1/√5 = lim g(t) باشد. پس تابع ε(t) مساوی است به:",
+    "options": ["ε(t) = -2/√20 + g(t)", "2", "ε(t) = 1/√5 + g(t)", "ε(t) = 0"],
+    "correctOption": 4,
+    "correctAnswer": "ε(t) = 0",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 295,
+    "question": "حاصل lim (x→1) sec²(cos x) / (1+tan²(cos x)) مساوی است به:",
+    "options": ["sec²(cos 1)", "3tan⁴(cos 1)", "sec⁴(cos 1)", "tan²(cos 1)"],
+    "correctOption": 4,
+    "correctAnswer": "1",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 296,
+    "question": "لیمت lim(x→2) |x-2| / x-2 مساوی است به:",
+    "options": ["1", "-1", "موجود نیست", "3"],
+    "correctOption": 3,
+    "correctAnswer": "موجود نیست",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 297,
+    "question": "لیمت lim(x→5e⁻) 5x / 5x-25e مساوی است به:",
+    "options": ["2", "25e", "-∞", "1"],
+    "correctOption": 3,
+    "correctAnswer": "-∞",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 298,
+    "question": "اگر lim(x→a) f(x) = L باشد، پس برای ∀ε > 0, ∃δ > 0 : 0 < |x-a| < δ کدام یک از نتیجه های ذیل بدست می آید:",
+    "options": ["|f(x)-L|≤ε", "|f(x)-L|≥ε", "|f(x)-L|>ε", "|f(x)-l|<ε"],
+    "correctOption": 4,
+    "correctAnswer": "|f(x)-l|<ε",
+    "subject": "Math",
+    "difficulty": "hard"
+  },
+  {
+    "id": 299,
+    "question": "لیمت lim(x→-1) |x⁷ - 2x - 5| مساوی است به:",
+    "options": ["4", "4", "-3", "2"],
+    "correctOption": 1,
+    "correctAnswer": "4",
+    "subject": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 300,
+    "question": "نقطه غیر متمادی تابع f(x) = x³+x-2 / (x³+x)x¹¹ عبارت است از:",
+    "options": ["x=1", "4", "x=0", "3"],
+    "correctOption": 3,
+    "correctAnswer": "x=0",
+    "subject": "Math",
+    "difficulty": "medium"
+  }
+]
