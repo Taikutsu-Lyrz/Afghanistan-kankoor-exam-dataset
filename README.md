@@ -41,7 +41,7 @@ Each subject has its own JSON folder containing the file inside the `dataset/` d
 - **Dari**
 - **Chemistry** 
 - **Physics** 
-- **Math (Integral)** ← *Newly added*
+- **Math (limit)** ← *Newly added*
 
 
   
@@ -83,13 +83,15 @@ Afghanistan-kankoor-questions-dataset/
 │   │   │   └── physics_mechanics_simple.json
 │   │   └── math/
 │   │       ├── math_geometry.json
-│   │       └── math_integral.json
+│   │       ├── math_integral.json
+│   │       └── math_limit.json
 │   └── schema.json
 │
 ├── CONTRIBUTING.md
 ├── LICENSE
 ├── README.md
 └── countQuestions.js
+
 
 ```
 
