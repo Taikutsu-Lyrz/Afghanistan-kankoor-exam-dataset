@@ -165,10 +165,9 @@ console.log(geology[0].question);
 
 ## 5. Contribution
 
-* Add new subjects like Math, Biology, Chemistry
-* Follow the `schema.json` structure for consistency
-* Pull requests are welcome
-
+* Feel free to add new subjects such as Math, Biology, or Chemistry.
+* Please follow the `schema.json` structure for consistency.
+* Check the CONTRIBUTING.md for guidelines — pull requests are always welcome.
 ---
 
 ## 6. Attribution
