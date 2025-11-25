@@ -42,7 +42,7 @@ Each subject has its own JSON folder containing the file inside the `dataset/` d
 - **Dari**
 - **Chemistry** 
 - **Physics (mechanics hard)** ← *Newly added*
-- **Math (limit)**
+- **Math**
 - **Biology**
 
 
