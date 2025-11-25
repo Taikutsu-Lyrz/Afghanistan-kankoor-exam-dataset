@@ -1,0 +1,982 @@
+[
+  {
+    "id": 1,
+    "question": "یک موثر در زمانهای t1=10sec و t2=60sec فاصله های 120m و 230m را طی میکند. سرعت متوسط موتر را در انتروال زمانی (t2-t1) دریابید؟",
+    "options": [
+      "2 m/sec",
+      "2.2 m/sec",
+      "1.5 m/sec",
+      "5 m/sec"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "2.2 m/sec",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "کدام یکی از روابط نشان دهنده سرعت متوسط است؟",
+    "options": [
+      "V = Δx/Δt",
+      "lim Δt→0 Δx/Δt",
+      "Δx = V + At",
+      "391"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "V = Δx/Δt",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "سرعت متحرکی در لحظه t1=4sec برابر 5 m/sec و در لحظه t2=12sec برابر 11 m/sec است. در صورتیکه شتاب ثابت باشد سرعت آن را در لحظه t0=0 بدست آورید؟",
+    "options": [
+      "5 m/sec",
+      "1 m/sec",
+      "4 m/sec",
+      "2 m/sec"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "2 m/sec",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "question": "واحد اندازه گیری سرعت متوسط در سیستم (SI) عبارت است از:",
+    "options": [
+      "m/sec^2",
+      "cm/sec",
+      "m/sec",
+      "m^2/sec"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "m/sec",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "question": "معادله حرکت جسمی در سیستم (SI) با رابطه X=2t^2+1 داده شده است. سرعت متوسط آنرا در انتروال زمانی 1 و 2 ثانیه دریابید؟",
+    "options": [
+      "8 m/sec",
+      "6 m/sec",
+      "16 m/sec",
+      "20 m/sec"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "6 m/sec",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "question": "کدام یکی از روابط معادله (x-t) در حرکت مستقیم الخط با شتاب ثابت را نشان میدهد؟",
+    "options": [
+      "X = V.t",
+      "V = at + V0",
+      "X = 1/2 at^2 + V0t + X0",
+      "X = 1/2 at^2"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "X = 1/2 at^2 + V0t + X0",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 7,
+    "question": "کدام یکی از روابط نشان دهنده شتاب متوسط است:",
+    "options": [
+      "a = Δx/Δt",
+      "a = ΔV/Δt",
+      "a = (V2-V1)/(t2-t1)",
+      "گزینه 2 و 3"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "گزینه 2 و 3",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "question": "سرعت متحرکی در لحظه t1=20sec برابر 10 m/sec و در لحظه t2=45sec برابر 20 m/sec است. شتاب متوسط آنرا دریابید؟",
+    "options": [
+      "10 m/sec^2",
+      "0.4 m/sec^2",
+      "0.4 m/sec",
+      "4 m/sec^2"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "0.4 m/sec^2",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "لیمت سرعت متوسط زمانیکه Δt بطرف صفر تقرب نماید معادل است به:",
+    "options": [
+      "شتاب لحظوی",
+      "سرعت لحظوی",
+      "شتاب متوسط",
+      "هیچکدام"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "سرعت لحظوی",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "question": "واحد شتاب در سیستم (SI) عبارت است از:",
+    "options": [
+      "m/sec",
+      "cm/sec^2",
+      "m^2/sec^2",
+      "m/sec^2"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "m/sec^2",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "متحرکی با شتاب ثابت 1/2 m/sec^2 از حال سکون بروی خط مستقیم شروع به حرکت میکند. سرعت متحرک را پس از طی 25m بدست آورید؟",
+    "options": [
+      "5 m/sec",
+      "10 m/sec",
+      "6 m/sec",
+      "15 m/sec"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5 m/sec",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "question": "لیمت شتاب متوسط هنگامیکه Δt بطرف صفر تقرب نماید عبارت است از:",
+    "options": [
+      "شتاب لحظوی",
+      "سرعت لحظوی",
+      "سرعت متوسط",
+      "هیچکدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "شتاب لحظوی",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "در کدام حالت شتاب متوسط قیمت مثبت را اختیار می نماید؟",
+    "options": [
+      "V1 = V2",
+      "V2 > V1",
+      "V2 < V1",
+      "همه موارد"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "V2 > V1",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "question": "در کدام شرایط شتاب لحظوی مساوی به شتاب متوسط خواهد بود؟",
+    "options": [
+      "شتاب ثابت",
+      "شتاب متغییر",
+      "شتاب صفر",
+      "هیچکدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "شتاب ثابت",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "question": "زمانیکه شتاب ثابت باشد درین حالت شتاب لحظوی مساوی میشود به:",
+    "options": [
+      "شتاب غیر یک نواخت",
+      "شتاب متغییر",
+      "شتاب متوسط",
+      "هیچکدام"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "شتاب متوسط",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "question": "سرعت لحظه ایی وقتی مثبت است که:",
+    "options": [
+      "x1 > x2",
+      "x2 > x1",
+      "x1 = x2",
+      "هیچکدام"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "x2 > x1",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "question": "معادله سرعت (V) به عنوان تابع از زمان عبارت است از:",
+    "options": [
+      "v = y0 + at^3",
+      "v = v0 + at",
+      "v = z0 + at^4",
+      "v = x0 + at^3"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "v = v0 + at",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "question": "معادله حرکت جسمی که روی خط مستقیم حرکت میکند در سیستم S به صورت x=4t^2+2t+3 است. بعد از دو ثانیه سرعت آنرا محاسبه نمایید:",
+    "options": [
+      "18 m/sec",
+      "20 m/sec",
+      "10 m/sec",
+      "هیچکدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "18 m/sec",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "question": "توسط معادله lim Δt→0 v = lim Δt→0 Δr/Δt کدام سرعت ذیل محاسبه میشود:",
+    "options": [
+      "سرعت یکنواخت",
+      "سرعت ثابت",
+      "سرعت متوسط",
+      "سرعت لحظه ایی"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "سرعت لحظه ایی",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "question": "معادله موقعیت به عنوان تابعی از زمان عبارت است از:",
+    "options": [
+      "x = 1/2 at^2 + v0t + x0",
+      "x = 1/2 t^2 + v0t + x0",
+      "x = at^2 + v0t + x0",
+      "x = 1/3 at^2 + v0t + x0"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "x = 1/2 at^2 + v0t + x0",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 21,
+    "question": "شتاب متوسط وقتی قیمت منفی می گیرد که:",
+    "options": [
+      "v1 = v2",
+      "v1 < v2",
+      "v2 < v1",
+      "هیچکدام"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "v2 < v1",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "شتاب متوسط وقتی قیمت مثبت میگیرد که:",
+    "options": [
+      "V1 > V2",
+      "V2 > V1",
+      "V1 = V2",
+      "هیچکدام"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "V2 > V1",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 23,
+    "question": "یک جسم با سرعت اولیه 3 m/sec حرکت میکند بعد از یک مدت تعجیل آن به 4 m/sec^2 میرسد. معادله حرکت آن عبارت است از:",
+    "options": [
+      "x = 6t + 7",
+      "x = 3t + 2t^2",
+      "x = 7t + 3",
+      "x = 5t + 4"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "x = 3t + 2t^2",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "اگر در یک حرکت تعجیل ثابت باشد و متحرک با سرعت اولیه 10 m/sec حرکت کند و بعد از یک مدت سرعت آن به 30 m/sec برسد سرعت متوسط آن چقدر است؟",
+    "options": [
+      "هیچکدام",
+      "20 m/sec",
+      "40 m/sec",
+      "30 m/sec"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "20 m/sec",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 25,
+    "question": "معادله حرکت یک جسم در سیستم MKS بصورت x=2t^2+3 است. موقعیت جسم را بعد از زمان t=2sec دریافت کنید:",
+    "options": [
+      "11m",
+      "12m",
+      "6m",
+      "10m"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "11m",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 26,
+    "question": "مرکبه سرعت یک جسم Vy=6 m/sec و مقدار سرعت آن √61 m/sec میباشد. مرکبه افقی سرعت را دریافت کنید؟",
+    "options": [
+      "6 m/sec",
+      "5 m/sec",
+      "8 m/sec",
+      "9 m/sec"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "5 m/sec",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 27,
+    "question": "مرکبه های تعجیل یک جسم ax=5 m/sec^2 و ay=6 m/sec^2 میباشد. مقدار تعجیل جسم مذکور را دریابید:",
+    "options": [
+      "7.8 m/sec^2",
+      "8 m/sec^2",
+      "10 m/sec^2",
+      "9 m/sec^2"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "7.8 m/sec^2",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 28,
+    "question": "معادله سرعت V به عنوان تابعی از زمان عبارت است از:",
+    "options": [
+      "V = x0 + at^2",
+      "V = v0 + at",
+      "V = z0 + at^4",
+      "V = v0 - at"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "V = v0 + at",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 29,
+    "question": "سرعت لحظوی میتواند قیمتهای ذیل را اختیار نماید:",
+    "options": [
+      "مثبت",
+      "منفی",
+      "صفر",
+      "هر سه درست است"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "هر سه درست است",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 30,
+    "question": "سرعت متوسط عبارت از تغییر موقعیت بر زمان است که توسط رابطه ذیل تعیین میشود:",
+    "options": [
+      "Vav = (x1-x2)/t",
+      "Vav = (y2-y1)/(t2-t1)",
+      "Vav = Δr/Δt",
+      "هیچکدام"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "Vav = Δr/Δt",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 31,
+    "question": "معادله حرکت متحرکی در سیستم (SI) بصورت x=30t^2+10t+5 میباشد. فاصله طی شده و شتاب متحرک بعد از دو ثانیه مساوی است به:",
+    "options": [
+      "x=145m, a=145 m/sec^2",
+      "x=145m, a=60 m/sec^2",
+      "x=60m, a=145 m/sec^2",
+      "x=60m, a=60 m/sec^2"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "x=145m, a=60 m/sec^2",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 32,
+    "question": "معادله حرکت جسم در سیستم (SI) بصورت x=40+20t است. متحرک فاصله 120m را در چه زمانی می پیماید؟",
+    "options": [
+      "4 sec",
+      "3 sec",
+      "2 sec",
+      "1 sec"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "4 sec",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 33,
+    "question": "متحرکی که سرعت ابتدایی آن 7 است، در مسیر مستقیم با تعجیل ثابت 4 m/s^2 سرعت بگیرد. اگر فاصله طی شده توسط متحرک در یک ثانیه 20 متر باشد، فاصله طی شده در دو ثانیه چقدر است؟",
+    "options": [
+      "32",
+      "44",
+      "64",
+      "72"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "44",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "question": "کدام یک اجزای ذیل معادله تعجیل است:",
+    "options": [
+      "a = v.t",
+      "a = t/v",
+      "a = v.t^-1",
+      "a = v.t^-2"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "a = v.t^-1",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 35,
+    "question": "جسمی با سرعت v0=10 m/sec شروع به حرکت کرده و بعد از 10 ثانیه سرعت آن به 50 m/sec میرسد. در این حالت تعجیل جسم مذکور از جنس m/sec^2 مساوی است از:",
+    "options": [
+      "4",
+      "2.5",
+      "4.5",
+      "0.4"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "4",
+    "subject": "Physics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 36,
+    "question": "اگر معادله حرکت جسمی x=v0.t + 1/2 at^2 باشد معادله سرعت عبارت از:",
+    "options": [
+      "v = v0 - 1/2 at^2",
+      "v = v0 - at",
+      "v0 + v = v + at",
+      "v = v0 + at"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "v = v0 + at",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "question": "موتری با سرعت 72 km/hr در حرکت بوده در مدت 10 sec کدام فاصله را طی میکند؟",
+    "options": [
+      "200 m",
+      "50 m",
+      "60 m",
+      "80 m"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "200 m",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "موتر نصف مسافه را به سرعت 10 m/sec و نصف دیگر را با سرعت 15 m/sec طی میکند سرعت وسطی آنرا دریابید؟",
+    "options": [
+      "12 m/sec",
+      "18 m/sec",
+      "12.5 m/sec",
+      "هیچکدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "12 m/sec",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "شخصی مسافه x را با سرعت 4 km/hr طی میکند بعد از بازگشت همان فاصله را با سرعت 6 km/hr طی میکند سرعت متوسط آنرا پیدا کنید؟",
+    "options": [
+      "4.8 km/hr",
+      "4 km/hr",
+      "5 km/hr",
+      "هیچکدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "4.8 km/hr",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 40,
+    "question": "دو متحرک که فاصله های شان از همدیگر 400m میباشد با سرعت های ثابت 16 m/sec و 20 m/sec به طرف یکدیگر حرکت میکنند. بعد از چی مدت با هم میرسند؟",
+    "options": [
+      "12 sec",
+      "11.11 sec",
+      "20 sec",
+      "هیچ یک"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "11.11 sec",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "شخصی 200m فاصله اول را با سرعت 2 m/sec و 200m فاصله دوم را با سرعت 4 m/sec و 200m فاصله سوم را با سرعت 3 m/sec طی کرده است. سرعت متوسط آنرا پیدا کنید؟",
+    "options": [
+      "3 m/sec",
+      "20 m/sec",
+      "10 m/sec",
+      "هیچکدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3 m/sec",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "شخصی 2/3 حصه فاصله را با سرعت 36 km/hr و فاصله باقی را با سرعت 18 km/hr طی کرده است. سرعت متوسط آنرا پیدا کنید؟",
+    "options": [
+      "27 m/sec",
+      "25 km/sec",
+      "27.6 km/hr",
+      "27.6 m/sec"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "27.6 km/hr",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "question": "سرعت حرکت آب 2 km/hr بوده و در جهت مخالف جریان آن سرعت حرکت قایق 18 km/hr میباشد. سرعت نسبی قایق را پیدا کنید؟",
+    "options": [
+      "15 km/hr",
+      "2 km/hr",
+      "21.6 km/hr",
+      "20 km/hr"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "20 km/hr",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "یک کشتی از طریق دریا طوری عبور داده میشود که کشتی به استقامت جریان آب عمود میباشد. اگر سرعت کشتی V=3 m/sec و سرعت جریان آب V=1.2 m/sec باشد و عرض دریا 140m باشد، کشتی مذکور بعد از چی زمان به طرف دیگر دریا میرسد؟",
+    "options": [
+      "46.6 sec",
+      "40 sec",
+      "50 sec",
+      "هیچکدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "46.6 sec",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "question": "یک شکارچی پرنده را که به فاصله 40m واقع است با سرعت V=4 m/sec عمودا به طرف بالا پرواز میکند مورد هدف قرار میدهد. به قصد اصابت به هدف کدام پیش بینی را صیاد داشته باشد اگر سرعت ساحه های تفنگ صیاد 300 m/sec باشد؟",
+    "options": [
+      "60 cm",
+      "60 m",
+      "120 cm",
+      "هیچکدام"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "120 cm",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "معادله حرکت جسم در سیستم SI داده شده X=5t^2+4t-1. سرعت متوسط را در t1=2sec و t2=4sec دریابید؟",
+    "options": [
+      "34 m/sec",
+      "4 m/sec",
+      "14 m/sec",
+      "15 m/sec"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "34 m/sec",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "معادله حرکت جسم در سیستم SI، X=4t^2+3t-2 داده شده. سرعت متوسط را در t1=1sec و t2=3sec دریابید؟",
+    "options": [
+      "1 m/sec",
+      "19 m/sec",
+      "2.76 m/sec",
+      "هیچکدام"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "19 m/sec",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "معادله حرکت یک جسم در سیستم MKS، x=t^2+4t+5 است. سرعت جسم را بعد از 3 ثانیه دریافت کنید:",
+    "options": [
+      "1 m/s",
+      "8 m/s",
+      "12 m/s",
+      "10 m/s"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "10 m/s",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "question": "متحرکی از حالت سکون با شتاب ثابت 4 m/s^2 شروع به حرکت میکند. بعد از 4 ثانیه چقدر فاصله را می پیماید؟",
+    "options": [
+      "40 m",
+      "32 m",
+      "16 m",
+      "30 m"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "32 m",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "معادله حرکت یک جسم در سیستم MKS، x=2t^2+3 داده شده. موقعیت جسم بعد از زمان t=2 را دریافت کنید:",
+    "options": [
+      "11 متر",
+      "12 متر",
+      "10 متر",
+      "6 متر"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "11 متر",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "question": "اگر در یک حرکت تعجیل ثابت باشد و متحرک به سرعت 10 m/s و 30 m/s برسد، سرعت متوسط آن چقدر است؟",
+    "options": [
+      "هیچکدام",
+      "20 m/s",
+      "8 m/s",
+      "30 m/s"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "20 m/s",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "question": "معادله حرکت موتر در سیستم SI: {x=4t^2+3, y=2t^2+2t} است. اندازه سرعت موتر در t=1sec مساوی است به:",
+    "options": [
+      "36 m/s",
+      "16 m/s",
+      "20 m/s",
+      "10 m/s"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "10 m/s",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "جسمی با سرعت 20 m/sec عمودا بطرف پایین پرتاب میگردد و بعد از 3sec به زمین برخورد میکند. ارتفاع پرتاب را دریابید؟",
+    "options": [
+      "105 m",
+      "60 m",
+      "40 m",
+      "هیچکدام"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "105 m",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "عامل حرکت چیست؟",
+    "options": [
+      "قوه",
+      "توان",
+      "کار",
+      "فشار"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "قوه",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "در حرکت مستقیم الخط یکنواخت، قیمت تعجیل:",
+    "options": [
+      "اعظمی است",
+      "اصغری است",
+      "صفر است",
+      "متغییر است"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "صفر است",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "1000 Km/hr مساویست به چند m/sec؟",
+    "options": [
+      "3600",
+      "450",
+      "1800",
+      "900"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "3600",
+    "subject": "Physics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 57,
+    "question": "موتری با سرعت اولیه 20 m/sec در حرکت است. سرعت موتر را بعد از طی مسافه 20 متر حساب کنید در صورتیکه تعجیل آن 10 m/sec^2 باشد.",
+    "options": [
+      "v=224",
+      "v=164",
+      "v=154",
+      "v=112"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "v=164",
+    "subject": "Physics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 58,
+    "question": "موتری از سکون شروع به حرکت نموده است و بعد از 5 ثانیه فاصله 50m را طی میکند. تعجیل متحرک را از جنس m/sec^2 دریابید:",
+    "options": [
+      "2",
+      "8",
+      "6",
+      "4"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "4",
+    "subject": "Physics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 59,
+    "question": "معادله حرکت متحرک در سیستم S، X=5t^2+6t+7 است. تعجیل متحرک را بعد از 2 ثانیه از جنس m/sec^2 حساب کنید:",
+    "options": [
+      "5",
+      "10",
+      "20",
+      "100"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "10",
+    "subject": "Physics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 60,
+    "question": "در حرکت مستقیم الخط غیر منظم متحرک دارای تعجیل:",
+    "options": [
+      "ثابت است",
+      "متغییر است",
+      "صفر است",
+      "هم ثابت و هم متغییر است"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "متغییر است",
+    "subject": "Physics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 61,
+    "question": "تعجیل متوسط موتری را که در 5 ثانیه سرعت آن 5 m/sec و در 10 ثانیه 35 m/sec میباشد دریابید:",
+    "options": [
+      "6",
+      "24",
+      "25",
+      "5"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "6",
+    "subject": "Physics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "موتر در 10 ثانیه فاصله 40 متر و در 40 ثانیه فاصله 70 متر را طی میکند. سرعت متوسط موتر از جنس m/sec مساویست به:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "1",
+    "subject": "Physics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 63,
+    "question": "معادله حرکت موتری در سیستم MKS، x=12t^3+5t^2 داده شده است. سرعت و تعجیل موتر بعد از 2 ثانیه مساویست به:",
+    "options": [
+      "v=164, a=164",
+      "v=164, a=154",
+      "v=157, a=164",
+      "v=112, a=224"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "v=164, a=154",
+    "subject": "Physics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 64,
+    "question": "جسمی بصورت آزادانه سقوط میکند و بعد از 20 ثانیه به زمین میرسد اگر g=9.81 m/sec^2 فرض شود سرعت آن هنگام رسیدن به زمین از جنس m/sec مساویست به:",
+    "options": [
+      "186",
+      "216",
+      "196",
+      "40√2"
+    ],
+    "correctOption": 3,
+    "correctAnswer": "196",
+    "subject": "Physics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "موتری از حالت سکون شروع به حرکت میکند و پس از 20 ثانیه سرعت آن به 10 m/sec میرسد. فاصله طی شده توسط موتر را حساب کنید:",
+    "options": [
+      "50m",
+      "100m",
+      "200m",
+      "150m"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "100m",
+    "subject": "Physics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 66,
+    "question": "معادله حرکت جسمی در سیستم SI، x=20+10t داده شده. فاصله جسم را بعد از 5 ثانیه حساب کنید:",
+    "options": [
+      "50m",
+      "70m",
+      "60m",
+      "40m"
+    ],
+    "correctOption": 2,
+    "correctAnswer": "70m",
+    "subject": "Physics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 67,
+    "question": "موتری با سرعت ثابت 10 m/sec روی خط مستقیم در حرکت است پس از 10 ثانیه دریور برک میکند و حرکت موتر به شتاب ثابت 2 m/sec^2 کند میشود. بعد از چند ثانیه موتر توقف میگردد؟",
+    "options": [
+      "5 sec",
+      "25 sec",
+      "2 sec",
+      "10 sec"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5 sec",
+    "subject": "Physics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 68,
+    "question": "جسمی به سرعت اولیه 50 m/sec عموداً بطرف بالا پرتاب شده است در صورتیکه g=10 m/sec^2 باشد. بعد از کدام مدت جسم به نقطه اوج خود میرسد؟",
+    "options": [
+      "5 sec",
+      "7.5 sec",
+      "2 sec",
+      "10 sec"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "5 sec",
+    "subject": "Physics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 69,
+    "question": "جسمی از ارتفاع 40 متر بصورت آزادانه سقوط میکند در صورتیکه g=10 m/sec^2 فرض گردد. سرعت آن هنگام رسیدن به زمین مساوی میشود به:",
+    "options": [
+      "20 m/sec",
+      "22 m/sec",
+      "40√2",
+      "20√2"
+    ],
+    "correctOption": 4,
+    "correctAnswer": "20√2",
+    "subject": "Physics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 70,
+    "question": "یک جسم بصورت آزادانه سقوط میکند. بعد از کدام مدت سرعت آن 49 m/sec میشود (g=10 m/sec^2):",
+    "options": [
+      "4.9 sec",
+      "5 sec",
+      "7.9 sec",
+      "2 sec"
+    ],
+    "correctOption": 1,
+    "correctAnswer": "4.9 sec",
+    "subject": "Physics",
+    "difficulty": "Hard"
+  }
+]
