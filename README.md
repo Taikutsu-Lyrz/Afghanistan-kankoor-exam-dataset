@@ -82,7 +82,8 @@ Afghanistan-kankoor-questions-dataset/
 │   │   ├── chemistry/
 │   │   │   └── general_chemistry.json
 │   │   ├── physics/
-│   │   │   └── physics_mechanics_simple.json
+│   │   │   ├── physics_mechanics_simple.json
+│   │   │   └── physics_mechanics_hard.json
 │   │   ├── math/
 │   │   │   ├── math_geometry.json
 │   │   │   ├── math_integral.json
@@ -95,6 +96,7 @@ Afghanistan-kankoor-questions-dataset/
 ├── LICENSE
 ├── README.md
 └── countQuestions.js
+
 
 ```
 
