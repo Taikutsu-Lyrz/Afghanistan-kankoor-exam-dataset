@@ -42,11 +42,12 @@ Each subject has its own JSON folder containing the file inside the `dataset/` d
 - **Dari**
 - **Chemistry** 
 - **Physics** 
-- **Math (limit)** ← *Newly added*
+- **Math (limit)**
+- **Biology** ← *Newly added*
 
 
   
-More subjects will be added continuously (Pashto, Biology, Geography etc).
+More subjects will be added continuously (Pashto, Geography etc).
 
 
 **Purpose:**  
