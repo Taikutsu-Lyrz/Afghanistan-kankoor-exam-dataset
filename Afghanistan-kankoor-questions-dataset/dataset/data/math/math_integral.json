@@ -5,7 +5,7 @@
     "options": ["2", "3", "4", "1"],
     "correctOption": 4,
     "correctAnswer": "1",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -14,7 +14,7 @@
     "options": ["-2~sin~2x+C", "\\frac{1}{2}sin~2x+C", "-\\frac{1}{2}sin~2x+C", "2~sin~2x+C"],
     "correctOption": 2,
     "correctAnswer": "\\frac{1}{2}sin~2x+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -23,7 +23,7 @@
     "options": ["4~sin~4x+C", "\\frac{1}{4}sin~4x+C", "-\\frac{1}{4}sin~4x+C", "sin~4x+C"],
     "correctOption": 2,
     "correctAnswer": "\\frac{1}{4}sin~4x+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -32,7 +32,7 @@
     "options": ["\\frac{1}{2}x^{2}+\\frac{1}{4}x^{-2}+C", "\\frac{1}{2}x^{2}+\\frac{1}{4}x^{-4}+C", "\\frac{1}{2}x^{2}+\\frac{1}{4}x^{4}+C", "\\frac{1}{4}x^{2}-\\frac{1}{2}x^{-4}+C"],
     "correctOption": 2,
     "correctAnswer": "\\frac{1}{2}x^{2}+\\frac{1}{4}x^{-4}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -41,7 +41,7 @@
     "options": ["\\frac{4}{5}x(ln|x|-1)+C", "\\frac{2}{5}x(ln|x|-1)+C", "\\frac{4}{5}x(ln|x|+1)+C", "\\frac{2}{5}x(ln|x|+1)+C"],
     "correctOption": 2,
     "correctAnswer": "\\frac{2}{5}x(ln|x|-1)+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -50,7 +50,7 @@
     "options": ["\\frac{(x-2)^{6}}{6}+C", "\\frac{(2-x)^{6}}{6}+C", "-\\frac{(2-x)^{6}}{6}+C", "\\frac{(2+x)^{6}}{6}+C"],
     "correctOption": 3,
     "correctAnswer": "-\\frac{(2-x)^{6}}{6}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -59,7 +59,7 @@
     "options": ["\\frac{(4+x)^{6}}{6}+C", "\\frac{(4-x)^{6}}{6}+C", "6(4+x)^6+C", "\\frac{(4+x)^{4}}{4}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{(4+x)^{6}}{6}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -68,7 +68,7 @@
     "options": ["9~ln~3\\cdot sin~3^{x}+C", "\\frac{3}{ln~3}sin~3^{x}+C", "\\frac{9}{ln~3}sin~3^{x}+C", "-\\frac{9}{ln~3}sin~3^{x}+C"],
     "correctOption": 3,
     "correctAnswer": "\\frac{9}{ln~3}sin~3^{x}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -77,7 +77,7 @@
     "options": ["0", "1", "\\infty", "ln 2"],
     "correctOption": 3,
     "correctAnswer": "\\infty",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -86,7 +86,7 @@
     "options": ["\\frac{2}{9}(\\sqrt{8}-1)", "\\frac{2}{9}\\sqrt{8}", "\\frac{1}{9}(\\sqrt{8}-1)", "\\frac{2}{3}(\\sqrt{8}-1)"],
     "correctOption": 1,
     "correctAnswer": "\\frac{2}{9}(\\sqrt{8}-1)",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -95,7 +95,7 @@
     "options": ["\\frac{1}{5}", "\\frac{1}{4}", "\\frac{4}{5}", "\\frac{5}{4}"],
     "correctOption": 3,
     "correctAnswer": "\\frac{4}{5}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -104,7 +104,7 @@
     "options": ["x+C", "\\frac{\\pi}{2}", "0", "1"],
     "correctOption": 1,
     "correctAnswer": "x+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -113,7 +113,7 @@
     "options": ["\\int_{a}^{b}f(t)dt=F(b)-F(a)", "\\int_{a}^{b}f(t)dt=F(a)-F(b)", "\\int_{a}^{b}f(t)dt=F(b)+F(a)", "هیچکدام"],
     "correctOption": 1,
     "correctAnswer": "\\int_{a}^{b}f(t)dt=F(b)-F(a)",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -122,7 +122,7 @@
     "options": ["\\frac{(6x-5)^{4}}{24}+C", "\\frac{(6x-5)^{4}}{18}+C", "\\frac{(6x-5)^{4}}{6}+C", "\\frac{(6x-5)^{4}}{4}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{(6x-5)^{4}}{24}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -131,7 +131,7 @@
     "options": ["sin 8", "cos 8", "sin 2", "1"],
     "correctOption": 1,
     "correctAnswer": "sin 8",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -140,7 +140,7 @@
     "options": ["\\frac{3^{x+1}}{ln 3}+C", "\\frac{3^{x+1}}{3 ln 3}+C", "3^{x+1} ln 3 + C", "\\frac{3^{x}}{ln 3}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{3^{x+1}}{ln 3}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -149,7 +149,7 @@
     "options": ["\\frac{14}{9}", "\\frac{16}{9}", "\\frac{15}{9}", "\\frac{12}{9}"],
     "correctOption": 1,
     "correctAnswer": "\\frac{14}{9}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -158,7 +158,7 @@
     "options": ["\\frac{1}{5}", "\\frac{2}{3}", "\\frac{1}{3}", "\\frac{2}{5}"],
     "correctOption": 2,
     "correctAnswer": "\\frac{2}{3}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -167,7 +167,7 @@
     "options": ["\\frac{5}{3}", "-\\frac{5}{3}", "\\frac{4}{3}", "-\\frac{4}{3}"],
     "correctOption": 1,
     "correctAnswer": "\\frac{5}{3}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -176,7 +176,7 @@
     "options": ["0", "1", "\\infty", "-\\infty"],
     "correctOption": 4,
     "correctAnswer": "-\\infty",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -185,7 +185,7 @@
     "options": ["-\\frac{1}{x}+C", "\\frac{1}{x}+C", "ln x + C", "x^{-2}+C"],
     "correctOption": 1,
     "correctAnswer": "-\\frac{1}{x}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -194,7 +194,7 @@
     "options": ["x^{3}+C", "3x^{3}+C", "x^{2}+C", "\\frac{1}{3}x^{3}+C"],
     "correctOption": 1,
     "correctAnswer": "x^{3}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -203,7 +203,7 @@
     "options": ["ln 2", "ln 3", "0", "1"],
     "correctOption": 1,
     "correctAnswer": "ln 2",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -212,7 +212,7 @@
     "options": ["\\frac{2}{3}x^{3}+3x+C", "2x^{3}+3x+C", "x^{3}+3x+C", "\\frac{2}{3}x^{3}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{2}{3}x^{3}+3x+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -221,7 +221,7 @@
     "options": ["-\\infty", "\\infty", "0", "1"],
     "correctOption": 1,
     "correctAnswer": "-\\infty",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -230,7 +230,7 @@
     "options": ["\\frac{1}{3}", "\\frac{1}{2}", "0", "1"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{3}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -239,7 +239,7 @@
     "options": ["2", "1", "3", "4"],
     "correctOption": 1,
     "correctAnswer": "2",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -248,7 +248,7 @@
     "options": ["\\frac{\\pi}{4}", "\\frac{\\pi}{2}", "\\pi", "1"],
     "correctOption": 1,
     "correctAnswer": "\\frac{\\pi}{4}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -257,7 +257,7 @@
     "options": ["\\frac{2}{15}x^{5}-\\frac{3}{2}x^{2}+2x+C", "\\frac{2}{15}x^{5}-\\frac{3}{2}x+C", "x^{5}-x^{2}+2x+C", "\\frac{2}{5}x^{5}-3x^{2}+2x+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{2}{15}x^{5}-\\frac{3}{2}x^{2}+2x+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -266,7 +266,7 @@
     "options": ["0", "\\pi", "2\\pi", "1"],
     "correctOption": 1,
     "correctAnswer": "0",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -275,7 +275,7 @@
     "options": ["-x+C", "x+C", "cos(\\pi x)+C", "sin(\\pi)+C"],
     "correctOption": 1,
     "correctAnswer": "-x+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -284,7 +284,7 @@
     "options": ["ln|sin x|+C", "ln|cos x|+C", "-ln|sin x|+C", "-ln|cos x|+C"],
     "correctOption": 1,
     "correctAnswer": "ln|sin x|+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -293,7 +293,7 @@
     "options": ["4", "8", "3", "12"],
     "correctOption": 1,
     "correctAnswer": "4",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -302,7 +302,7 @@
     "options": ["\\frac{3^{x+10}}{ln 3}+C", "3^{x+10} ln 3 + C", "\\frac{1}{10 ln 3}3^{x+10}+C", "3^{x+10}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{3^{x+10}}{ln 3}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -311,7 +311,7 @@
     "options": ["14", "12", "10", "16"],
     "correctOption": 1,
     "correctAnswer": "14",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -320,7 +320,7 @@
     "options": ["-\\frac{2}{3}", "\\frac{2}{3}", "0", "1"],
     "correctOption": 1,
     "correctAnswer": "-\\frac{2}{3}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -329,7 +329,7 @@
     "options": ["-cos(e^{4+x})+C", "cos(e^{4+x})+C", "-sin(e^{4+x})+C", "sin(e^{4+x})+C"],
     "correctOption": 1,
     "correctAnswer": "-cos(e^{4+x})+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -338,7 +338,7 @@
     "options": ["4", "3", "2", "1"],
     "correctOption": 1,
     "correctAnswer": "4",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -347,7 +347,7 @@
     "options": ["x+\\pi ln|x|+C", "x+ln|x|+C", "ln|x|+C", "x+\\pi x + C"],
     "correctOption": 1,
     "correctAnswer": "x+\\pi ln|x|+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -356,7 +356,7 @@
     "options": ["\\frac{27}{2}(2+3x)^2+C", "\\frac{9}{2}(2+3x)^2+C", "27(2+3x)+C", "\\frac{3}{2}(2+3x)^2+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{27}{2}(2+3x)^2+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -365,7 +365,7 @@
     "options": ["-\\frac{1}{2}cos(x^2)+C", "\\frac{1}{2}cos(x^2)+C", "-cos(x^2)+C", "sin(x^2)+C"],
     "correctOption": 1,
     "correctAnswer": "-\\frac{1}{2}cos(x^2)+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -374,7 +374,7 @@
     "options": ["4", "2", "1", "0"],
     "correctOption": 1,
     "correctAnswer": "4",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -383,7 +383,7 @@
     "options": ["cos x + x sin x + C", "x sin x - cos x + C", "sin x + x cos x + C", "x cos x - sin x + C"],
     "correctOption": 1,
     "correctAnswer": "cos x + x sin x + C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -392,7 +392,7 @@
     "options": ["x+sin x+C", "x-sin x+C", "x+cos x+C", "x-cos x+C"],
     "correctOption": 1,
     "correctAnswer": "x+sin x+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -401,7 +401,7 @@
     "options": ["6+\\pi", "6", "3+\\pi", "0"],
     "correctOption": 1,
     "correctAnswer": "6+\\pi",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -410,7 +410,7 @@
     "options": ["\\frac{2}{3}x^{3/2}+C", "\\frac{3}{2}x^{3/2}+C", "\\frac{1}{2}x^{-1/2}+C", "x^{3/2}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{2}{3}x^{3/2}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -419,7 +419,7 @@
     "options": ["\\frac{1}{2}x|x|+C", "x^2+C", "\\frac{1}{2}x^2+C", "|x|+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{2}x|x|+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -428,7 +428,7 @@
     "options": ["\\frac{1}{4}", "\\frac{1}{2}", "\\frac{3}{4}", "\\frac{1}{3}"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{4}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -437,7 +437,7 @@
     "options": ["\\frac{1}{2}(\\frac{1}{x-1}-\\frac{1}{x+1})", "\\frac{1}{x-1}+\\frac{1}{x+1}", "\\frac{1}{x-1}-\\frac{1}{x+1}", "\\frac{1}{2}(\\frac{1}{x+1}-\\frac{1}{x-1})"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{2}(\\frac{1}{x-1}-\\frac{1}{x+1})",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -446,7 +446,7 @@
     "options": ["-2cos\\sqrt{x}+C", "2cos\\sqrt{x}+C", "2sin\\sqrt{x}+C", "-2sin\\sqrt{x}+C"],
     "correctOption": 1,
     "correctAnswer": "-2cos\\sqrt{x}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -455,7 +455,7 @@
     "options": ["-cos(x^2)+C", "cos(x^2)+C", "sin(x^2)+C", "-sin(x^2)+C"],
     "correctOption": 1,
     "correctAnswer": "-cos(x^2)+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -464,7 +464,7 @@
     "options": ["\\frac{x^5}{5}+C", "\\frac{x^4}{4}+C", "x^5+C", "5x^5+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{x^5}{5}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -473,7 +473,7 @@
     "options": ["-cos(e^{2x})+C", "cos(e^{2x})+C", "sin(e^{2x})+C", "-sin(e^{2x})+C"],
     "correctOption": 1,
     "correctAnswer": "-cos(e^{2x})+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -482,7 +482,7 @@
     "options": ["10sin\\sqrt{x}+C", "5sin\\sqrt{x}+C", "10cos\\sqrt{x}+C", "5cos\\sqrt{x}+C"],
     "correctOption": 1,
     "correctAnswer": "10sin\\sqrt{x}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -491,7 +491,7 @@
     "options": ["5", "29", "6", "4"],
     "correctOption": 1,
     "correctAnswer": "5",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -500,7 +500,7 @@
     "options": ["\\frac{3}{11}x^{11/3}+C", "\\frac{3}{8}x^{8/3}+C", "\\frac{11}{3}x^{11/3}+C", "x^{11/3}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{3}{11}x^{11/3}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -509,7 +509,7 @@
     "options": ["2ln|x+2|+C", "ln|x+2|+C", "\\frac{2}{x+2}+C", "2(x+2)+C"],
     "correctOption": 1,
     "correctAnswer": "2ln|x+2|+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -518,7 +518,7 @@
     "options": ["\\frac{5^x}{ln 5}+C", "5^x ln 5+C", "\\frac{10^x}{ln 5}+C", "\\frac{5^x}{ln 10}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{5^x}{ln 5}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -527,7 +527,7 @@
     "options": ["2", "0", "1", "\\pi"],
     "correctOption": 1,
     "correctAnswer": "2",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -536,7 +536,7 @@
     "options": ["-\\frac{1}{5}e^{-5x}+C", "\\frac{1}{5}e^{-5x}+C", "-5e^{-5x}+C", "e^{-5x}+C"],
     "correctOption": 1,
     "correctAnswer": "-\\frac{1}{5}e^{-5x}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -545,7 +545,7 @@
     "options": ["ln|1+sin x|+cos x+C", "ln|sin 2x|+C", "ln|cos x|+C", "ln|1+sin x|-x+C"],
     "correctOption": 4,
     "correctAnswer": "ln|1+sin x|-x+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -554,7 +554,7 @@
     "options": ["-cos(e^{x}+3)+C", "cos(e^{x}+3)+C", "sin(e^{x}+3)+C", "-sin(e^{x}+3)+C"],
     "correctOption": 1,
     "correctAnswer": "-cos(e^{x}+3)+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -563,7 +563,7 @@
     "options": ["یک عدد ثابت", "یک تابع خطی", "صفر", "بی نهایت"],
     "correctOption": 1,
     "correctAnswer": "یک عدد ثابت",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -572,7 +572,7 @@
     "options": ["\\frac{3}{5}\\sqrt[3]{3}x^{5/3}+C", "\\frac{3}{5}x^{5/3}+C", "\\frac{5}{3}\\sqrt[3]{3}x^{5/3}+C", "\\frac{1}{5}x^{5}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{3}{5}\\sqrt[3]{3}x^{5/3}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -581,7 +581,7 @@
     "options": ["-\\frac{\\pi}{3x}-\\frac{10}{3}x^{3/2}+C", "\\frac{\\pi}{3x}-\\frac{10}{3}x^{3/2}+C", "-\\frac{\\pi}{3x}+\\frac{10}{3}x^{3/2}+C", "\\frac{\\pi}{x}-5x^{3/2}+C"],
     "correctOption": 1,
     "correctAnswer": "-\\frac{\\pi}{3x}-\\frac{10}{3}x^{3/2}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -590,7 +590,7 @@
     "options": ["\\frac{2}{3}(\\sqrt{8}-1)", "\\frac{4}{3}(\\sqrt{2}-1)", "\\frac{2}{3}(2\\sqrt{2}-1)", "2"],
     "correctOption": 2,
     "correctAnswer": "\\frac{4}{3}(\\sqrt{2}-1)",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -599,7 +599,7 @@
     "options": ["واگرا (Undefined)", "0", "\\frac{2}{3}", "-\\frac{2}{3}"],
     "correctOption": 1,
     "correctAnswer": "واگرا (Undefined)",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -608,7 +608,7 @@
     "options": ["\\frac{2}{3}\\sqrt{2p}x^{3/2}+C", "\\frac{1}{3}\\sqrt{2p}x^{3/2}+C", "\\sqrt{2p}x+C", "2px+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{2}{3}\\sqrt{2p}x^{3/2}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -617,7 +617,7 @@
     "options": ["x ln x - x + C", "x ln x + C", "ln x - x + C", "\\frac{1}{x}+C"],
     "correctOption": 1,
     "correctAnswer": "x ln x - x + C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -626,7 +626,7 @@
     "options": ["8", "10", "12", "16"],
     "correctOption": 1,
     "correctAnswer": "8",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -635,7 +635,7 @@
     "options": ["26", "21", "16", "30"],
     "correctOption": 1,
     "correctAnswer": "26",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -644,7 +644,7 @@
     "options": ["ln(x^2+1)+arctan x+C", "ln(x^2+1)+C", "arctan x+C", "2ln(x)+C"],
     "correctOption": 1,
     "correctAnswer": "ln(x^2+1)+arctan x+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -653,7 +653,7 @@
     "options": ["sin x - x cos x + C", "x cos x - sin x + C", "cos x + x sin x + C", "sin x + C"],
     "correctOption": 1,
     "correctAnswer": "sin x - x cos x + C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -662,7 +662,7 @@
     "options": ["\\frac{a^{x-b}}{ln a}+C", "a^{x-b} ln a+C", "\\frac{a^{x}}{ln a}+C", "a^{x-b}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{a^{x-b}}{ln a}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -671,7 +671,7 @@
     "options": ["\\frac{1}{4}", "\\frac{1}{2}", "\\frac{1}{3}", "0"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{4}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -680,7 +680,7 @@
     "options": ["1", "2", "3", "4"],
     "correctOption": 1,
     "correctAnswer": "1",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -689,7 +689,7 @@
     "options": ["\\frac{x^3}{3}+C", "\\frac{x^2}{2}+C", "x+C", "ln x+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{x^3}{3}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -698,7 +698,7 @@
     "options": ["tan x - x + C", "tan x + x + C", "sec^2 x + C", "cot x + C"],
     "correctOption": 1,
     "correctAnswer": "tan x - x + C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -707,7 +707,7 @@
     "options": ["-\\frac{1}{2}ln 3", "\\frac{1}{2}ln 3", "ln 3", "-ln 3"],
     "correctOption": 1,
     "correctAnswer": "-\\frac{1}{2}ln 3",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -716,7 +716,7 @@
     "options": ["81", "27", "9", "3"],
     "correctOption": 1,
     "correctAnswer": "81",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -725,7 +725,7 @@
     "options": ["\\frac{x^7}{7}+\\frac{1}{5x^5}+C", "\\frac{x^7}{7}-\\frac{1}{5x^5}+C", "x^7+x^5+C", "\\frac{x^6}{6}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{x^7}{7}+\\frac{1}{5x^5}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -734,7 +734,7 @@
     "options": ["1", "0", "e", "ln 2"],
     "correctOption": 1,
     "correctAnswer": "1",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -743,7 +743,7 @@
     "options": ["5", "8", "3", "1"],
     "correctOption": 1,
     "correctAnswer": "5",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -752,7 +752,7 @@
     "options": ["-\\frac{1}{4}cos x+C", "\\frac{1}{4}cos x+C", "4 cos x+C", "-4 cos x+C"],
     "correctOption": 1,
     "correctAnswer": "-\\frac{1}{4}cos x+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -761,7 +761,7 @@
     "options": ["\\frac{1}{2}", "-\\frac{1}{2}", "1", "2"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{2}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -770,7 +770,7 @@
     "options": ["sin x+C", "cos x+C", "-cos x+C", "2sin x+C"],
     "correctOption": 1,
     "correctAnswer": "sin x+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -779,7 +779,7 @@
     "options": ["ln|x|+C", "ln|x^2|+C", "x+C", "1/x+C"],
     "correctOption": 1,
     "correctAnswer": "ln|x|+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -788,7 +788,7 @@
     "options": ["\\frac{1}{2}ln(3.5)", "\\frac{1}{2}ln(35)", "ln 3.5", "ln 35"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{2}ln(3.5)",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -797,7 +797,7 @@
     "options": ["\\frac{1}{2}x sin 2x + \\frac{1}{4}cos 2x + C", "\\frac{1}{2}x sin 2x - \\frac{1}{4}cos 2x + C", "x sin 2x + C", "sin 2x + cos 2x + C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{2}x sin 2x + \\frac{1}{4}cos 2x + C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -806,7 +806,7 @@
     "options": ["26", "27", "25", "28"],
     "correctOption": 1,
     "correctAnswer": "26",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -815,7 +815,7 @@
     "options": ["3", "7", "-3", "10"],
     "correctOption": 1,
     "correctAnswer": "3",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -824,7 +824,7 @@
     "options": ["-\\frac{1}{9}", "\\frac{1}{9}", "0", "1"],
     "correctOption": 1,
     "correctAnswer": "-\\frac{1}{9}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -833,7 +833,7 @@
     "options": ["\\frac{1}{3}(x^{3}+2)^{3}+C", "\\frac{1}{2}(x^{3}+2)^{2}+C", "(x^{3}+2)^{3}+C", "3(x^{3}+2)^{3}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{3}(x^{3}+2)^{3}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -842,7 +842,7 @@
     "options": ["-\\frac{2}{3}(cos x)^{3/2}+C", "\\frac{2}{3}(cos x)^{3/2}+C", "\\frac{3}{2}(cos x)^{2/3}+C", "-(cos x)^{3/2}+C"],
     "correctOption": 1,
     "correctAnswer": "-\\frac{2}{3}(cos x)^{3/2}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -851,7 +851,7 @@
     "options": ["\\frac{4}{3}\\sqrt{2}", "\\frac{2}{3}\\sqrt{2}", "2\\sqrt{2}", "\\frac{4}{3}"],
     "correctOption": 1,
     "correctAnswer": "\\frac{4}{3}\\sqrt{2}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -860,7 +860,7 @@
     "options": ["-6", "6", "12", "-12"],
     "correctOption": 1,
     "correctAnswer": "-6",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -869,7 +869,7 @@
     "options": ["4", "-4", "3", "-3"],
     "correctOption": 1,
     "correctAnswer": "4",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -878,7 +878,7 @@
     "options": ["\\int_{2}^{5}f(x)dx", "\\int_{2}^{3}f(x)dx", "0", "2\\int_{2}^{5}f(x)dx"],
     "correctOption": 1,
     "correctAnswer": "\\int_{2}^{5}f(x)dx",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -887,7 +887,7 @@
     "options": ["2(e^2-1)", "2(1-e^{-2})", "2e^2", "2(e-1)"],
     "correctOption": 1,
     "correctAnswer": "2(e^2-1)",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -896,7 +896,7 @@
     "options": ["\\frac{2^{x+6}}{ln 2}+C", "\\frac{2^{x+3}}{ln 2}+C", "2^{x+6}+C", "\\frac{4^{x}}{ln 4}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{2^{x+6}}{ln 2}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -905,7 +905,7 @@
     "options": ["\\frac{1}{2}x^{2}+\\frac{3}{x}+C", "\\frac{1}{2}x^{2}-\\frac{3}{x}+C", "\\frac{x^2}{2}+3ln|x|+C", "x^2+\\frac{3}{x}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{2}x^{2}+\\frac{3}{x}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -914,7 +914,7 @@
     "options": ["5", "6", "7", "8"],
     "correctOption": 2,
     "correctAnswer": "6",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -923,7 +923,7 @@
     "options": ["\\frac{1}{6}", "\\frac{1}{3}", "0", "\\infty"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{6}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -932,7 +932,7 @@
     "options": ["2\\sqrt{x}+C", "\\sqrt{x}+C", "\\frac{1}{2}\\sqrt{x}+C", "x+C"],
     "correctOption": 1,
     "correctAnswer": "2\\sqrt{x}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -941,7 +941,7 @@
     "options": ["-\\frac{a^{-x}}{ln a}+C", "\\frac{a^{-x}}{ln a}+C", "a^{-x}ln a+C", "-a^{-x}+C"],
     "correctOption": 1,
     "correctAnswer": "-\\frac{a^{-x}}{ln a}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -950,7 +950,7 @@
     "options": ["\\frac{1}{8}", "\\frac{1}{4}", "\\frac{1}{2}", "1"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{8}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -959,7 +959,7 @@
     "options": ["\\frac{1}{14}", "\\frac{1}{7}", "\\frac{5}{14}", "\\frac{1}{2}"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{14}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -968,7 +968,7 @@
     "options": ["14", "15", "16", "13"],
     "correctOption": 1,
     "correctAnswer": "14",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -977,7 +977,7 @@
     "options": ["\\infty", "-\\infty", "0", "10"],
     "correctOption": 1,
     "correctAnswer": "\\infty",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -986,7 +986,7 @@
     "options": ["7", "14", "0", "-7"],
     "correctOption": 1,
     "correctAnswer": "7",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -995,7 +995,7 @@
     "options": ["1", "2", "ln 2", "e"],
     "correctOption": 1,
     "correctAnswer": "1",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1004,7 +1004,7 @@
     "options": ["\\frac{x^5}{5}+\\frac{1}{7x^7}+C", "\\frac{x^5}{5}-\\frac{1}{7x^7}+C", "\\frac{x^4}{4}+C", "x^4+x^7+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{x^5}{5}+\\frac{1}{7x^7}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1013,7 +1013,7 @@
     "options": ["\\frac{5}{19}x^{19/5}+\\frac{5}{4}x^{4/5}+C", "\\frac{19}{5}x^{19/5}+C", "x^{19/5}+x^{4/5}+C", "\\frac{5}{4}x^{4/5}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{5}{19}x^{19/5}+\\frac{5}{4}x^{4/5}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1022,7 +1022,7 @@
     "options": ["\\frac{16}{3}-\\frac{4\\sqrt{2}}{3}", "\\frac{8}{3}", "4", "\\frac{14}{3}"],
     "correctOption": 1,
     "correctAnswer": "\\frac{16}{3}-\\frac{4\\sqrt{2}}{3}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1031,7 +1031,7 @@
     "options": ["4", "8", "2", "6"],
     "correctOption": 1,
     "correctAnswer": "4",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1040,7 +1040,7 @@
     "options": ["-\\frac{(1/2)^{x+9}}{ln 2}+C", "\\frac{(1/2)^{x+9}}{ln 2}+C", "(1/2)^{x+9}ln 2+C", "-(1/2)^{x+9}+C"],
     "correctOption": 1,
     "correctAnswer": "-\\frac{(1/2)^{x+9}}{ln 2}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1049,7 +1049,7 @@
     "options": ["لیمت مجموعه ریمان", "لیمت مجموعه نیوتن", "لیمت مجموعه اویلر", "لیمت مجموعه ارشمیدس"],
     "correctOption": 1,
     "correctAnswer": "لیمت مجموعه ریمان",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1058,7 +1058,7 @@
     "options": ["\\frac{6}{11}x^{11/6}+C", "\\frac{11}{6}x^{11/6}+C", "x^{11/6}+C", "6x^{11/6}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{6}{11}x^{11/6}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1067,7 +1067,7 @@
     "options": ["-\\frac{1}{3}cot^3 x+C", "tan x+C", "-cot x+C", "\\frac{1}{3}tan^3 x+C"],
     "correctOption": 3,
     "correctAnswer": "-cot x+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1076,7 +1076,7 @@
     "options": ["\\frac{3}{4}x(ln|x|-1)+C", "\\frac{4}{3}x(ln|x|-1)+C", "\\frac{3}{4}x ln x+C", "\\frac{3}{4}(x ln x - x)+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{3}{4}x(ln|x|-1)+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1085,7 +1085,7 @@
     "options": ["-2ln|cos x|+C", "2ln|cos x|+C", "2ln|sin x|+C", "-2ln|sin x|+C"],
     "correctOption": 1,
     "correctAnswer": "-2ln|cos x|+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1094,7 +1094,7 @@
     "options": ["-\\frac{7}{2}", "\\frac{7}{2}", "-3", "3"],
     "correctOption": 1,
     "correctAnswer": "-\\frac{7}{2}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1103,7 +1103,7 @@
     "options": ["\\frac{1}{2}(e^{2}-1)", "e^{2}-1", "2(e^{2}-1)", "\\frac{1}{2}e^{2}"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{2}(e^{2}-1)",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1112,7 +1112,7 @@
     "options": ["\\frac{1}{2}x^{2}+C", "x^{2}+C", "2x^{2}+C", "x+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{2}x^{2}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1121,7 +1121,7 @@
     "options": ["\\frac{1}{4}(\\sqrt{17}-1)", "\\frac{1}{4}\\sqrt{17}", "\\sqrt{17}-1", "\\frac{1}{2}(\\sqrt{17}-1)"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{4}(\\sqrt{17}-1)",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1130,7 +1130,7 @@
     "options": ["\\frac{1}{5}sin 5x+C", "-\\frac{1}{5}sin 5x+C", "5sin 5x+C", "sin 5x+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{5}sin 5x+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1139,7 +1139,7 @@
     "options": ["18", "12", "9", "15"],
     "correctOption": 1,
     "correctAnswer": "18",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1148,7 +1148,7 @@
     "options": ["-\\frac{1}{8}e^{-8x+4}+C", "\\frac{1}{8}e^{-8x+4}+C", "-8e^{-8x+4}+C", "e^{-8x+4}+C"],
     "correctOption": 1,
     "correctAnswer": "-\\frac{1}{8}e^{-8x+4}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1157,7 +1157,7 @@
     "options": ["a\\int f(x)dx", "\\int f(x)dx + a", "\\int a dx \\cdot \\int f(x)dx", "هیچکدام"],
     "correctOption": 1,
     "correctAnswer": "a\\int f(x)dx",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1166,7 +1166,7 @@
     "options": ["ln 2", "ln 3", "1", "0"],
     "correctOption": 1,
     "correctAnswer": "ln 2",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1175,7 +1175,7 @@
     "options": ["5", "8", "3", "1"],
     "correctOption": 1,
     "correctAnswer": "5",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1184,7 +1184,7 @@
     "options": ["4e^x+C", "e^x+C", "4xe^x+C", "\\frac{1}{4}e^x+C"],
     "correctOption": 1,
     "correctAnswer": "4e^x+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1193,7 +1193,7 @@
     "options": ["26", "21", "16", "30"],
     "correctOption": 1,
     "correctAnswer": "26",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1202,7 +1202,7 @@
     "options": ["\\frac{1}{6}(3^6-e^6)", "\\frac{1}{6}(3^6-1)", "3^6-e^6", "\\frac{1}{6}(729-e^6)"],
     "correctOption": 4,
     "correctAnswer": "\\frac{1}{6}(729-e^6)",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1211,7 +1211,7 @@
     "options": ["6", "9", "18", "4.5"],
     "correctOption": 1,
     "correctAnswer": "6",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1220,7 +1220,7 @@
     "options": ["F(b)-F(a)", "F(a)-F(b)", "F(b)+F(a)", "F(x)+C"],
     "correctOption": 1,
     "correctAnswer": "F(b)-F(a)",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1229,7 +1229,7 @@
     "options": ["\\frac{1}{5}", "-\\frac{1}{5}", "\\frac{1}{4}", "-\\frac{1}{4}"],
     "correctOption": 2,
     "correctAnswer": "-\\frac{1}{5}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1238,7 +1238,7 @@
     "options": ["10", "1", "5", "e"],
     "correctOption": 1,
     "correctAnswer": "10",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1247,7 +1247,7 @@
     "options": ["\\frac{6^{x+3}}{ln 6}+C", "6^{x+3}ln 6+C", "\\frac{6^{x+3}}{3}+C", "6^{x+4}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{6^{x+3}}{ln 6}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1256,7 +1256,7 @@
     "options": ["1", "2", "3", "4"],
     "correctOption": 1,
     "correctAnswer": "1",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1265,7 +1265,7 @@
     "options": ["-ln|cos 6x|+C", "ln|sin 6x|+C", "ln|cos 6x|+C", "-ln|sin 6x|+C"],
     "correctOption": 1,
     "correctAnswer": "-ln|cos 6x|+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1274,7 +1274,7 @@
     "options": ["e^{sin x}+C", "e^{cos x}+C", "sin x e^{sin x}+C", "cos x e^{sin x}+C"],
     "correctOption": 1,
     "correctAnswer": "e^{sin x}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1283,7 +1283,7 @@
     "options": ["0", "64", "32", "16"],
     "correctOption": 1,
     "correctAnswer": "0",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1292,7 +1292,7 @@
     "options": ["ln|x|+C", "-\\frac{1}{x}+C", "x+C", "e^x+C"],
     "correctOption": 1,
     "correctAnswer": "ln|x|+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1301,7 +1301,7 @@
     "options": ["0", "x+C", "tan x + C", "sec x + C"],
     "correctOption": 1,
     "correctAnswer": "0",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1310,7 +1310,7 @@
     "options": ["\\frac{2}{ln 2}", "\\frac{1}{ln 2}", "2 ln 2", "ln 2"],
     "correctOption": 1,
     "correctAnswer": "\\frac{2}{ln 2}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1319,7 +1319,7 @@
     "options": ["C", "x^2+C", "2x+C", "0"],
     "correctOption": 1,
     "correctAnswer": "C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1328,7 +1328,7 @@
     "options": ["x log 2 + C", "log 2 + C", "0", "x + C"],
     "correctOption": 1,
     "correctAnswer": "x log 2 + C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1337,7 +1337,7 @@
     "options": ["\\frac{10^x}{ln 10}+C", "\\frac{20^x}{ln 20}+C", "10^x ln 10+C", "\\frac{2^x}{ln 2}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{10^x}{ln 10}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1346,7 +1346,7 @@
     "options": ["\\frac{x^{10}}{10}+C", "\\frac{x^{11}}{11}+C", "x^9+C", "\\frac{x^9}{9}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{x^{10}}{10}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1355,7 +1355,7 @@
     "options": ["\\frac{1}{2}e^{2x}+C", "2e^{2x}+C", "e^{2x}+C", "e^x+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{2}e^{2x}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1364,7 +1364,7 @@
     "options": ["ln|sin x|+C", "ln|cos x|+C", "-ln|sin x|+C", "-ln|cos x|+C"],
     "correctOption": 1,
     "correctAnswer": "ln|sin x|+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1373,7 +1373,7 @@
     "options": ["قضیه اساسی حساب دیفرانسیل و انتگرال", "قضیه مقدار میانگین", "قضیه رول", "هیچکدام"],
     "correctOption": 1,
     "correctAnswer": "قضیه اساسی حساب دیفرانسیل و انتگرال",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1382,7 +1382,7 @@
     "options": ["\\frac{1}{2}ln 2", "ln 2", "1", "0"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{2}ln 2",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1391,7 +1391,7 @@
     "options": ["\\frac{1}{4}sin(x^4+2)+C", "sin(x^4+2)+C", "4sin(x^4+2)+C", "\\frac{1}{3}sin(x^4+2)+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{4}sin(x^4+2)+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1400,7 +1400,7 @@
     "options": ["-\\frac{4}{3}", "\\frac{4}{3}", "\\frac{5}{3}", "-\\frac{5}{3}"],
     "correctOption": 1,
     "correctAnswer": "-\\frac{4}{3}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1409,7 +1409,7 @@
     "options": ["\\frac{4}{3}", "\\frac{2}{3}", "1", "2"],
     "correctOption": 1,
     "correctAnswer": "\\frac{4}{3}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1418,7 +1418,7 @@
     "options": ["2", "0", "1", "-2"],
     "correctOption": 1,
     "correctAnswer": "2",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1427,7 +1427,7 @@
     "options": ["\\frac{4}{3}", "\\frac{2}{3}", "1", "\\frac{8}{3}"],
     "correctOption": 1,
     "correctAnswer": "\\frac{4}{3}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1436,7 +1436,7 @@
     "options": ["18", "15", "12", "21"],
     "correctOption": 1,
     "correctAnswer": "18",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1445,7 +1445,7 @@
     "options": ["\\sqrt{3}x-\\frac{2}{3}x^{3/2}+C", "\\sqrt{3}x+\\frac{2}{3}x^{3/2}+C", "3x-x^{3/2}+C", "3x+x^{3/2}+C"],
     "correctOption": 1,
     "correctAnswer": "\\sqrt{3}x-\\frac{2}{3}x^{3/2}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1454,7 +1454,7 @@
     "options": ["\\frac{20^x}{ln 20}+C", "20^x ln 20+C", "\\frac{20^x}{ln 9}+C", "9^x+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{20^x}{ln 20}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1463,7 +1463,7 @@
     "options": ["x^3+x^2+x+C", "3x^3+2x^2+x+C", "x^3+x^2+C", "x^3-x^2+x+C"],
     "correctOption": 1,
     "correctAnswer": "x^3+x^2+x+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1472,7 +1472,7 @@
     "options": ["\\int udv = uv - \\int vdu", "\\int udv = uv + \\int vdu", "\\int vdu = uv - \\int udv", "\\int udv = u - \\int vdu"],
     "correctOption": 1,
     "correctAnswer": "\\int udv = uv - \\int vdu",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1481,7 +1481,7 @@
     "options": ["3x^2+C", "6x^2+C", "2x^2+C", "x^2+C"],
     "correctOption": 1,
     "correctAnswer": "3x^2+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1490,7 +1490,7 @@
     "options": ["\\frac{1}{6}e^{6x}+C", "6e^{6x}+C", "e^{6x}+C", "e^{x}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{6}e^{6x}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1499,7 +1499,7 @@
     "options": ["\\frac{15}{4}", "\\frac{7}{4}", "\\frac{3}{4}", "4"],
     "correctOption": 1,
     "correctAnswer": "\\frac{15}{4}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1508,7 +1508,7 @@
     "options": ["x^7+C", "7x^7+C", "\\frac{1}{7}x^7+C", "x^6+C"],
     "correctOption": 1,
     "correctAnswer": "x^7+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1517,7 +1517,7 @@
     "options": ["26", "27", "25", "28"],
     "correctOption": 1,
     "correctAnswer": "26",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1526,7 +1526,7 @@
     "options": ["\\frac{1}{2}arctan(2x)+C", "arctan(2x)+C", "2arctan(2x)+C", "arctan(x)+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{2}arctan(2x)+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1535,7 +1535,7 @@
     "options": ["\\frac{1}{2}x^2+C", "x+C", "ln x+C", "x^2+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{2}x^2+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1544,7 +1544,7 @@
     "options": ["ln|x|+C", "-ln|x|+C", "x+C", "1/x+C"],
     "correctOption": 1,
     "correctAnswer": "ln|x|+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1553,7 +1553,7 @@
     "options": ["2ln 2", "ln 2", "2", "4"],
     "correctOption": 1,
     "correctAnswer": "2ln 2",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1562,7 +1562,7 @@
     "options": ["x ln x - x + C", "x ln x + C", "ln x + x + C", "x + C"],
     "correctOption": 1,
     "correctAnswer": "x ln x - x + C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1571,7 +1571,7 @@
     "options": ["1", "2", "e", "0"],
     "correctOption": 1,
     "correctAnswer": "1",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1580,7 +1580,7 @@
     "options": ["\\frac{2^{x-1}}{ln 2}+C", "2^{x-1}ln 2+C", "\\frac{2^x}{ln 2}+C", "2^x+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{2^{x-1}}{ln 2}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1589,7 +1589,7 @@
     "options": ["-e^{-x}+C", "e^{-x}+C", "-e^x+C", "e^x+C"],
     "correctOption": 1,
     "correctAnswer": "-e^{-x}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1598,7 +1598,7 @@
     "options": ["\\frac{3}{2}", "3", "1", "2"],
     "correctOption": 1,
     "correctAnswer": "\\frac{3}{2}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1607,7 +1607,7 @@
     "options": ["x+C", "-x+C", "tan x+C", "cot x+C"],
     "correctOption": 1,
     "correctAnswer": "x+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1616,7 +1616,7 @@
     "options": ["-\\frac{1}{49}cos 7x+C", "\\frac{1}{49}cos 7x+C", "-cos 7x+C", "cos 7x+C"],
     "correctOption": 1,
     "correctAnswer": "-\\frac{1}{49}cos 7x+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1625,7 +1625,7 @@
     "options": ["\\frac{\\pi}{2}", "\\pi", "0", "\\frac{\\pi}{4}"],
     "correctOption": 1,
     "correctAnswer": "\\frac{\\pi}{2}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1634,7 +1634,7 @@
     "options": ["C", "e", "1", "0"],
     "correctOption": 1,
     "correctAnswer": "C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1643,7 +1643,7 @@
     "options": ["sin(x+1)^2+C", "-sin(x+1)^2+C", "cos(x+1)^2+C", "sin(x^2)+C"],
     "correctOption": 1,
     "correctAnswer": "sin(x+1)^2+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1652,7 +1652,7 @@
     "options": ["-x+C", "x+C", "ln|sin x|+C", "0"],
     "correctOption": 1,
     "correctAnswer": "-x+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1661,7 +1661,7 @@
     "options": ["\\frac{\\pi}{2}", "1", "0", "\\pi"],
     "correctOption": 1,
     "correctAnswer": "\\frac{\\pi}{2}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1670,7 +1670,7 @@
     "options": ["\\frac{1}{2}(e^2-e^{-2})", "e^2-e^{-2}", "2(e^2-e^{-2})", "e^2"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{2}(e^2-e^{-2})",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1679,7 +1679,7 @@
     "options": ["10e log(10e) - 10e + 1", "10e", "1", "0"],
     "correctOption": 1,
     "correctAnswer": "10e log(10e) - 10e + 1",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1688,7 +1688,7 @@
     "options": ["2\\sqrt{2}", "\\sqrt{2}", "2", "4"],
     "correctOption": 1,
     "correctAnswer": "2\\sqrt{2}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1697,7 +1697,7 @@
     "options": ["\\frac{2}{5}x^{5/2}-2x^{1/2}+C", "\\frac{5}{2}x^{5/2}-2x^{1/2}+C", "x^{5/2}-x^{1/2}+C", "x^2-x+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{2}{5}x^{5/2}-2x^{1/2}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1706,7 +1706,7 @@
     "options": ["\\frac{\\pi}{3}e^{3x}+C", "\\pi e^{3x}+C", "3\\pi e^{3x}+C", "e^{3x}+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{\\pi}{3}e^{3x}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1715,7 +1715,7 @@
     "options": ["ln 14", "ln 28 - ln 2", "ln 28", "ln 2"],
     "correctOption": 1,
     "correctAnswer": "ln 14",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1724,7 +1724,7 @@
     "options": ["\\frac{32}{5}", "8", "6", "10"],
     "correctOption": 1,
     "correctAnswer": "\\frac{32}{5}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1733,7 +1733,7 @@
     "options": ["\\sqrt{2x}+C", "2\\sqrt{2x}+C", "\\frac{1}{2}\\sqrt{2x}+C", "\\sqrt{x}+C"],
     "correctOption": 1,
     "correctAnswer": "\\sqrt{2x}+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1742,7 +1742,7 @@
     "options": ["0", "2", "4", "1"],
     "correctOption": 1,
     "correctAnswer": "0",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1751,7 +1751,7 @@
     "options": ["1", "5", "e", "ln 6"],
     "correctOption": 1,
     "correctAnswer": "1",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1760,7 +1760,7 @@
     "options": ["\\frac{1}{2}", "1", "0", "-\\frac{1}{2}"],
     "correctOption": 1,
     "correctAnswer": "\\frac{1}{2}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1769,7 +1769,7 @@
     "options": ["C", "\\frac{1}{x}+C", "ln x+C", "0"],
     "correctOption": 1,
     "correctAnswer": "C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1778,7 +1778,7 @@
     "options": ["x ln 2x - x + C", "x ln 2x + C", "ln 2x - x + C", "2x ln x + C"],
     "correctOption": 1,
     "correctAnswer": "x ln 2x - x + C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1787,7 +1787,7 @@
     "options": ["2\\sqrt{10}", "\\sqrt{10}", "10", "20"],
     "correctOption": 1,
     "correctAnswer": "2\\sqrt{10}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1796,7 +1796,7 @@
     "options": ["2ln|sin x|+C", "ln|sin x|+C", "2ln|cos x|+C", "ln|sin 2x|+C"],
     "correctOption": 1,
     "correctAnswer": "2ln|sin x|+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1805,7 +1805,7 @@
     "options": ["2(e^{1/2}-1)", "e^{1/2}-1", "2e^{1/2}", "\\frac{1}{2}e^{1/2}"],
     "correctOption": 1,
     "correctAnswer": "2(e^{1/2}-1)",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1814,7 +1814,7 @@
     "options": ["\\frac{e^3-1}{3}", "\\frac{e^2-1}{2}", "e^3-1", "e^2"],
     "correctOption": 1,
     "correctAnswer": "\\frac{e^3-1}{3}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1823,7 +1823,7 @@
     "options": ["\\frac{9}{ln 3}sin(3^x)+C", "3 sin(3^x)+C", "9 sin(3^x)+C", "\\frac{3}{ln 3}sin(3^x)+C"],
     "correctOption": 1,
     "correctAnswer": "\\frac{9}{ln 3}sin(3^x)+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1832,7 +1832,7 @@
     "options": ["ln|sin x|+C", "-ln|sin x|+C", "ln|cos x|+C", "-ln|cos x|+C"],
     "correctOption": 1,
     "correctAnswer": "ln|sin x|+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1841,7 +1841,7 @@
     "options": ["x+C", "ln x+C", "x^2+C", "0"],
     "correctOption": 1,
     "correctAnswer": "x+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1850,7 +1850,7 @@
     "options": ["sin(\\frac{x}{10})+C", "10sin(\\frac{x}{10})+C", "\\frac{1}{100}sin(\\frac{x}{10})+C", "-sin(\\frac{x}{10})+C"],
     "correctOption": 1,
     "correctAnswer": "sin(\\frac{x}{10})+C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1859,7 +1859,7 @@
     "options": ["x log(\\frac{x}{2}) - x ln 10 + C", "x log x - x + C", "x log(\\frac{x}{2e}) + C", "x log x + C"],
     "correctOption": 1,
     "correctAnswer": "x log(\\frac{x}{2}) - x ln 10 + C",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1868,7 +1868,7 @@
     "options": ["3", "2", "4", "1"],
     "correctOption": 1,
     "correctAnswer": "3",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1877,7 +1877,7 @@
     "options": ["\\frac{7}{12}", "\\frac{1}{4}", "\\frac{1}{3}", "\\frac{5}{12}"],
     "correctOption": 1,
     "correctAnswer": "\\frac{7}{12}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1886,7 +1886,7 @@
     "options": ["\\frac{\\sqrt{5}}{10}", "\\sqrt{5}", "0.5", "1"],
     "correctOption": 1,
     "correctAnswer": "\\frac{\\sqrt{5}}{10}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1895,7 +1895,7 @@
     "options": ["5\\sqrt{234}", "15\\sqrt{2}", "75", "25"],
     "correctOption": 1,
     "correctAnswer": "5\\sqrt{234}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1904,7 +1904,7 @@
     "options": ["0.1", "1", "0", "\\pi"],
     "correctOption": 1,
     "correctAnswer": "0.1",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1913,7 +1913,7 @@
     "options": ["\\frac{20}{3}", "\\frac{16}{3}", "6", "8"],
     "correctOption": 1,
     "correctAnswer": "\\frac{20}{3}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1922,7 +1922,7 @@
     "options": ["\\sqrt{26}", "5", "26", "\\sqrt{24}"],
     "correctOption": 1,
     "correctAnswer": "\\sqrt{26}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1931,7 +1931,7 @@
     "options": ["\\frac{5}{2}", "\\frac{3}{2}", "2", "3"],
     "correctOption": 1,
     "correctAnswer": "\\frac{5}{2}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1940,7 +1940,7 @@
     "options": ["2", "0", "1", "\\pi"],
     "correctOption": 1,
     "correctAnswer": "2",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1949,7 +1949,7 @@
     "options": ["\\frac{112}{3}\\pi", "36\\pi", "40\\pi", "\\frac{100}{3}\\pi"],
     "correctOption": 1,
     "correctAnswer": "\\frac{112}{3}\\pi",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -1958,7 +1958,7 @@
     "options": ["\\int_{a}^{b}(y_1-y_2)dx", "\\int_{a}^{b}(y_2-y_1)dx", "\\int_{a}^{b}(y_1+y_2)dx", "\\int (y_1 y_2)dx"],
     "correctOption": 1,
     "correctAnswer": "\\int_{a}^{b}(y_1-y_2)dx",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -1967,7 +1967,7 @@
     "options": ["4\\sqrt{2}", "4", "8", "2\\sqrt{2}"],
     "correctOption": 1,
     "correctAnswer": "4\\sqrt{2}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1976,7 +1976,7 @@
     "options": ["5", "4", "3", "6"],
     "correctOption": 1,
     "correctAnswer": "5",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1985,7 +1985,7 @@
     "options": ["\\frac{4}{3}", "\\frac{2}{3}", "0", "2"],
     "correctOption": 1,
     "correctAnswer": "\\frac{4}{3}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -1994,7 +1994,7 @@
     "options": ["\\int_{a}^{b}\\sqrt{1+(f'(x))^2}dx", "\\int_{a}^{b}\\sqrt{1+f'(x)}dx", "\\int_{a}^{b}(1+f'(x))dx", "\\int_{a}^{b}f'(x)dx"],
     "correctOption": 1,
     "correctAnswer": "\\int_{a}^{b}\\sqrt{1+(f'(x))^2}dx",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -2003,7 +2003,7 @@
     "options": ["10", "1", "11", "5\\sqrt{2}"],
     "correctOption": 1,
     "correctAnswer": "10",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "easy"
   },
   {
@@ -2012,7 +2012,7 @@
     "options": ["\\frac{3\\pi}{5}", "\\frac{3\\pi}{4}", "\\pi", "\\frac{\\pi}{5}"],
     "correctOption": 1,
     "correctAnswer": "\\frac{3\\pi}{5}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -2021,7 +2021,7 @@
     "options": ["\\frac{27}{4}", "6", "4", "8"],
     "correctOption": 1,
     "correctAnswer": "\\frac{27}{4}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -2030,7 +2030,7 @@
     "options": ["6", "7", "5", "8"],
     "correctOption": 1,
     "correctAnswer": "6",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -2039,7 +2039,7 @@
     "options": ["9\\pi", "3\\pi", "6\\pi", "18\\pi"],
     "correctOption": 1,
     "correctAnswer": "9\\pi",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -2048,7 +2048,7 @@
     "options": ["0.1", "1", "0", "\\pi"],
     "correctOption": 1,
     "correctAnswer": "0.1",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -2057,7 +2057,7 @@
     "options": ["\\frac{32}{5}\\pi", "8\\pi", "4\\pi", "\\frac{16}{3}\\pi"],
     "correctOption": 1,
     "correctAnswer": "\\frac{32}{5}\\pi",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -2066,7 +2066,7 @@
     "options": ["\\frac{\\sqrt{3}}{2}", "1", "\\frac{1}{2}", "\\frac{\\sqrt{2}}{2}"],
     "correctOption": 1,
     "correctAnswer": "\\frac{\\sqrt{3}}{2}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -2075,7 +2075,7 @@
     "options": ["1", "2", "0", "\\frac{1}{2}"],
     "correctOption": 1,
     "correctAnswer": "1",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   },
   {
@@ -2084,7 +2084,7 @@
     "options": ["\\frac{\\sqrt{2}}{2}", "1", "\\frac{1}{2}", "\\sqrt{2}"],
     "correctOption": 1,
     "correctAnswer": "\\frac{\\sqrt{2}}{2}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -2093,7 +2093,7 @@
     "options": ["5", "3", "4", "6"],
     "correctOption": 1,
     "correctAnswer": "5",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "medium"
   },
   {
@@ -2102,7 +2102,7 @@
     "options": ["\\frac{\\pi^2}{2}", "\\pi^2", "2\\pi", "\\frac{\\pi}{2}"],
     "correctOption": 1,
     "correctAnswer": "\\frac{\\pi^2}{2}",
-    "subject": "math",
+    "subject": "Math",
     "difficulty": "hard"
   }
 ]
