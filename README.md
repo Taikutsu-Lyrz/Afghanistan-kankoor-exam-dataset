@@ -1,7 +1,7 @@
 
 ### Kankoor Exam Questions Dataset (Afghanistan)
 
-
+![Last Changed](https://img.shields.io/badge/Last%20Changed-2025.11.26-blue?style=flat-square) <br>
 **Author:** Salim Noor (Taikutsu Lyrz)  
 **License:** MIT  
 **Date:** 2025  
