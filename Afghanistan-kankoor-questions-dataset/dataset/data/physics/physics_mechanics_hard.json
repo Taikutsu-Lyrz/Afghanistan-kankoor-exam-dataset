@@ -11,7 +11,7 @@
     "correctOption": 2,
     "correctAnswer": "2.2 m/sec",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@
     "correctOption": 1,
     "correctAnswer": "V = Δx/Δt",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 3,
@@ -39,7 +39,7 @@
     "correctOption": 4,
     "correctAnswer": "2 m/sec",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 4,
@@ -53,7 +53,7 @@
     "correctOption": 3,
     "correctAnswer": "m/sec",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
     "correctOption": 2,
     "correctAnswer": "6 m/sec",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 6,
@@ -81,7 +81,7 @@
     "correctOption": 3,
     "correctAnswer": "X = 1/2 at^2 + V0t + X0",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 7,
@@ -95,7 +95,7 @@
     "correctOption": 4,
     "correctAnswer": "گزینه 2 و 3",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 8,
@@ -109,7 +109,7 @@
     "correctOption": 2,
     "correctAnswer": "0.4 m/sec^2",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 9,
@@ -123,7 +123,7 @@
     "correctOption": 2,
     "correctAnswer": "سرعت لحظوی",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 10,
@@ -137,7 +137,7 @@
     "correctOption": 4,
     "correctAnswer": "m/sec^2",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 11,
@@ -151,7 +151,7 @@
     "correctOption": 1,
     "correctAnswer": "5 m/sec",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 12,
@@ -165,7 +165,7 @@
     "correctOption": 1,
     "correctAnswer": "شتاب لحظوی",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 13,
@@ -179,7 +179,7 @@
     "correctOption": 2,
     "correctAnswer": "V2 > V1",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 14,
@@ -193,7 +193,7 @@
     "correctOption": 1,
     "correctAnswer": "شتاب ثابت",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 15,
@@ -207,7 +207,7 @@
     "correctOption": 3,
     "correctAnswer": "شتاب متوسط",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 16,
@@ -221,7 +221,7 @@
     "correctOption": 2,
     "correctAnswer": "x2 > x1",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 17,
@@ -235,7 +235,7 @@
     "correctOption": 2,
     "correctAnswer": "v = v0 + at",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 18,
@@ -249,7 +249,7 @@
     "correctOption": 1,
     "correctAnswer": "18 m/sec",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 19,
@@ -263,7 +263,7 @@
     "correctOption": 4,
     "correctAnswer": "سرعت لحظه ایی",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 20,
@@ -277,7 +277,7 @@
     "correctOption": 1,
     "correctAnswer": "x = 1/2 at^2 + v0t + x0",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 21,
@@ -291,7 +291,7 @@
     "correctOption": 3,
     "correctAnswer": "v2 < v1",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 22,
@@ -305,7 +305,7 @@
     "correctOption": 2,
     "correctAnswer": "V2 > V1",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 23,
@@ -319,7 +319,7 @@
     "correctOption": 2,
     "correctAnswer": "x = 3t + 2t^2",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 24,
@@ -333,7 +333,7 @@
     "correctOption": 2,
     "correctAnswer": "20 m/sec",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 25,
@@ -347,7 +347,7 @@
     "correctOption": 1,
     "correctAnswer": "11m",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 26,
@@ -361,7 +361,7 @@
     "correctOption": 2,
     "correctAnswer": "5 m/sec",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 27,
@@ -375,7 +375,7 @@
     "correctOption": 1,
     "correctAnswer": "7.8 m/sec^2",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 28,
@@ -389,7 +389,7 @@
     "correctOption": 2,
     "correctAnswer": "V = v0 + at",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 29,
@@ -403,7 +403,7 @@
     "correctOption": 4,
     "correctAnswer": "هر سه درست است",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 30,
@@ -417,7 +417,7 @@
     "correctOption": 3,
     "correctAnswer": "Vav = Δr/Δt",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 31,
@@ -431,7 +431,7 @@
     "correctOption": 2,
     "correctAnswer": "x=145m, a=60 m/sec^2",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 32,
@@ -445,7 +445,7 @@
     "correctOption": 1,
     "correctAnswer": "4 sec",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 33,
@@ -459,7 +459,7 @@
     "correctOption": 2,
     "correctAnswer": "44",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 34,
@@ -473,7 +473,7 @@
     "correctOption": 3,
     "correctAnswer": "a = v.t^-1",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 35,
@@ -487,7 +487,7 @@
     "correctOption": 1,
     "correctAnswer": "4",
     "subject": "Physics",
-    "difficulty": "Easy"
+    "difficulty": "easy"
   },
   {
     "id": 36,
@@ -501,7 +501,7 @@
     "correctOption": 4,
     "correctAnswer": "v = v0 + at",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 37,
@@ -515,7 +515,7 @@
     "correctOption": 1,
     "correctAnswer": "200 m",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 38,
@@ -529,7 +529,7 @@
     "correctOption": 1,
     "correctAnswer": "12 m/sec",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 39,
@@ -543,7 +543,7 @@
     "correctOption": 1,
     "correctAnswer": "4.8 km/hr",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 40,
@@ -557,7 +557,7 @@
     "correctOption": 2,
     "correctAnswer": "11.11 sec",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 41,
@@ -571,7 +571,7 @@
     "correctOption": 1,
     "correctAnswer": "3 m/sec",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 42,
@@ -585,7 +585,7 @@
     "correctOption": 3,
     "correctAnswer": "27.6 km/hr",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 43,
@@ -599,7 +599,7 @@
     "correctOption": 4,
     "correctAnswer": "20 km/hr",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 44,
@@ -613,7 +613,7 @@
     "correctOption": 1,
     "correctAnswer": "46.6 sec",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 45,
@@ -627,7 +627,7 @@
     "correctOption": 3,
     "correctAnswer": "120 cm",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 46,
@@ -641,7 +641,7 @@
     "correctOption": 1,
     "correctAnswer": "34 m/sec",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 47,
@@ -655,7 +655,7 @@
     "correctOption": 2,
     "correctAnswer": "19 m/sec",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 48,
@@ -669,7 +669,7 @@
     "correctOption": 4,
     "correctAnswer": "10 m/s",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 49,
@@ -683,7 +683,7 @@
     "correctOption": 2,
     "correctAnswer": "32 m",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 50,
@@ -697,7 +697,7 @@
     "correctOption": 1,
     "correctAnswer": "11 متر",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 51,
@@ -711,7 +711,7 @@
     "correctOption": 2,
     "correctAnswer": "20 m/s",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 52,
@@ -725,7 +725,7 @@
     "correctOption": 4,
     "correctAnswer": "10 m/s",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 53,
@@ -739,7 +739,7 @@
     "correctOption": 1,
     "correctAnswer": "105 m",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 54,
@@ -753,7 +753,7 @@
     "correctOption": 1,
     "correctAnswer": "قوه",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 55,
@@ -767,7 +767,7 @@
     "correctOption": 3,
     "correctAnswer": "صفر است",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 56,
@@ -781,7 +781,7 @@
     "correctOption": 1,
     "correctAnswer": "3600",
     "subject": "Physics",
-    "difficulty": "Medium"
+    "difficulty": "medium"
   },
   {
     "id": 57,
@@ -795,7 +795,7 @@
     "correctOption": 2,
     "correctAnswer": "v=164",
     "subject": "Physics",
-    "difficulty": "Hard"
+    "difficulty": "hard"
   },
   {
     "id": 58,
@@ -809,7 +809,7 @@
     "correctOption": 4,
     "correctAnswer": "4",
     "subject": "Physics",
-    "difficulty": "Hard"
+    "difficulty": "hard"
   },
   {
     "id": 59,
@@ -823,7 +823,7 @@
     "correctOption": 2,
     "correctAnswer": "10",
     "subject": "Physics",
-    "difficulty": "Hard"
+    "difficulty": "hard"
   },
   {
     "id": 60,
@@ -837,7 +837,7 @@
     "correctOption": 2,
     "correctAnswer": "متغییر است",
     "subject": "Physics",
-    "difficulty": "Hard"
+    "difficulty": "hard"
   },
   {
     "id": 61,
@@ -851,7 +851,7 @@
     "correctOption": 1,
     "correctAnswer": "6",
     "subject": "Physics",
-    "difficulty": "Hard"
+    "difficulty": "hard"
   },
   {
     "id": 62,
@@ -865,7 +865,7 @@
     "correctOption": 2,
     "correctAnswer": "1",
     "subject": "Physics",
-    "difficulty": "Hard"
+    "difficulty": "hard"
   },
   {
     "id": 63,
@@ -879,7 +879,7 @@
     "correctOption": 2,
     "correctAnswer": "v=164, a=154",
     "subject": "Physics",
-    "difficulty": "Hard"
+    "difficulty": "hard"
   },
   {
     "id": 64,
@@ -893,7 +893,7 @@
     "correctOption": 3,
     "correctAnswer": "196",
     "subject": "Physics",
-    "difficulty": "Hard"
+    "difficulty": "hard"
   },
   {
     "id": 65,
@@ -907,7 +907,7 @@
     "correctOption": 2,
     "correctAnswer": "100m",
     "subject": "Physics",
-    "difficulty": "Hard"
+    "difficulty": "hard"
   },
   {
     "id": 66,
@@ -921,7 +921,7 @@
     "correctOption": 2,
     "correctAnswer": "70m",
     "subject": "Physics",
-    "difficulty": "Hard"
+    "difficulty": "hard"
   },
   {
     "id": 67,
@@ -935,7 +935,7 @@
     "correctOption": 1,
     "correctAnswer": "5 sec",
     "subject": "Physics",
-    "difficulty": "Hard"
+    "difficulty": "hard"
   },
   {
     "id": 68,
@@ -949,7 +949,7 @@
     "correctOption": 1,
     "correctAnswer": "5 sec",
     "subject": "Physics",
-    "difficulty": "Hard"
+    "difficulty": "hard"
   },
   {
     "id": 69,
@@ -963,7 +963,7 @@
     "correctOption": 4,
     "correctAnswer": "20√2",
     "subject": "Physics",
-    "difficulty": "Hard"
+    "difficulty": "hard"
   },
   {
     "id": 70,
@@ -977,6 +977,6 @@
     "correctOption": 1,
     "correctAnswer": "4.9 sec",
     "subject": "Physics",
-    "difficulty": "Hard"
+    "difficulty": "hard"
   }
 ]
