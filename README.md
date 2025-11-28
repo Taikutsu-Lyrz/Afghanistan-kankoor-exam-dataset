@@ -26,16 +26,29 @@ This dataset contains **Kankoor (Afghanistan University Entrance Exam) questions
 | **Total** | **4182** |
 <!-- END_TABLE -->
 
+<br>
 
+### 1.1 Project Gaols
+
+The primary goals of this project are: <br>
+- Build a 6,000+ question dataset covering all major Kankoor subjects.
+- Standardize all questions using a single JSON schema for easy integration into apps, websites, and AI tools.<br>
+- Provide a free, open-source educational resource for:
+  -  Students preparing for the exam
+  -  Developers building quiz apps or study platforms
+  -  Researchers and academic institutions
+- Continuously add new subjects (Pashto, Geography, Islamic Culture, etc.) and expand existing ones.
+- Maintain high-quality, validated questions with consistent formatting and IDs.
+- This dataset is intended to become the most complete Kankoor repository ever published, supporting future learning tools and educational technologies in Afghanistan.
 
 <br>
 
-
-## 📚 Available Subjects
+### 1.2📚 Available Subjects
 
 
 The dataset currently includes multiple subjects from the Afghanistan Kankoor (university entrance) exam.  
 Each subject has its own JSON folder containing the file inside the `dataset/` directory.
+
 
 ### Current Subjects
 - **Geology**
@@ -44,16 +57,6 @@ Each subject has its own JSON folder containing the file inside the `dataset/` d
 - **Physics (mechanics hard)** ← *Newly added*
 - **Math**
 - **Biology**
-
-
-  
-More subjects will be added continuously (Pashto, Geography etc).
-
-
-**Purpose:**  
-- Educational & research use  
-- Building quiz apps, web apps, or AI study assistants  
-- Public reference for Afghan students
 
 <br>
 
