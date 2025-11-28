@@ -54,7 +54,7 @@ Each subject has its own JSON folder containing the file inside the `dataset/` d
 - **Geology**
 - **Dari**
 - **Chemistry** 
-- **Physics (mechanics hard)** ← *Newly added*
+- **Physics (General Physics)** ← *Newly added*
 - **Math**
 - **Biology**
 
@@ -86,7 +86,8 @@ Afghanistan-kankoor-questions-dataset/
 │   │   │   └── general_chemistry.json
 │   │   ├── physics/
 │   │   │   ├── physics_mechanics_simple.json
-│   │   │   └── physics_mechanics_hard.json
+│   │   │   ├── physics_mechanics_hard.json
+│   │   │   └── general_physics.json
 │   │   ├── math/
 │   │   │   ├── math_geometry.json
 │   │   │   ├── math_integral.json
@@ -99,6 +100,7 @@ Afghanistan-kankoor-questions-dataset/
 ├── LICENSE
 ├── README.md
 └── countQuestions.js
+
 
 
 ```
