@@ -43,7 +43,7 @@ The primary goals of this project are: <br>
 
 <br>
 
-### 1.2📚 Available Subjects
+### 1.2 Available Subjects
 
 
 The dataset currently includes multiple subjects from the Afghanistan Kankoor (university entrance) exam.  
