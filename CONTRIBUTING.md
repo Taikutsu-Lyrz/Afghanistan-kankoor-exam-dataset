@@ -1,11 +1,11 @@
 # Contributing to Afghanistan‑Kankoor‑Exam‑Dataset
 
-Thank you for your interest in contributing! 🙌  
+Thank you for your interest in contributing! 
 This is a public dataset of Kankoor exam questions. Help is very welcome.
 
 ---
 
-## 🛠️ How to Contribute
+## How to Contribute
 
 ### 1. Fork the Repository  
 Click the **Fork** button on GitHub to create your own copy of this repo.
@@ -57,7 +57,7 @@ git push origin add-geology-questions
 
 ---
 
-## 📚 Guidelines for Questions
+## Guidelines for Questions
 
 * Follow the format in `schema.json`.
 * Provide a **unique `id`** for each question.
@@ -68,7 +68,7 @@ git push origin add-geology-questions
 
 ---
 
-## 🙏 Attribution
+## Attribution
 
 If your contribution is accepted, you will be listed in the **Contributors** section of the repository.
 
@@ -78,7 +78,7 @@ Also, if you make an app or project using this dataset, a small mention/credit i
 
 ---
 
-## ✅ Code of Conduct
+## Code of Conduct
 
 Please follow general respectful behavior and open-source etiquette when interacting.
 
