@@ -3,7 +3,7 @@
 
 ![Last Changed](https://img.shields.io/badge/Last%20Changed-2026.04.05-blue?style=flat-square) <br>
 **Author:** Salim Noor (Taikutsu Lyrz)  
-**License:** MIT  
+**License:** Open Data Commons Attribution License (ODC-By) v1.0  
 **Date:** 2025  
 
 
@@ -110,7 +110,7 @@ Afghanistan-kankoor-questions-dataset/
 **dataset/data/schema.json** — defines question structure and validation rules <br>
 **countQuestions.js** — script to calculate and update total questions <br>
 **CONTRIBUTING.md** — contribution guidelines for the dataset <br>
-**LICENSE** — MIT License <br>
+**LICENSE** — Open Data Commons Attribution License (ODC-By) v1.0 <br>
 **README.md** / README.pdf — project documentation <br>
 
 ---
@@ -177,14 +177,22 @@ console.log(geology[0].question);
 
 ## 6. Attribution
 
-If you use this dataset in an app, website, or project, a small mention or credit would be appreciated:
+This dataset is licensed under the **Open Data Commons Attribution License (ODC-By) v1.0**.
 
-"Kankoor Questions Dataset by Salim Noor (Taikutsu Lyrz) — https://github.com/Taikutsu-Lyrz/Afghanistan-kankoor-exam-dataset"
+If you publicly use the whole dataset, a substantial part of it, or a work produced from it, please include an attribution notice that identifies this dataset and its license.
 
-Optional, but helps support future development.
+Recommended attribution:
+
+> Contains information from the Kankoor Exam Questions Dataset by Salim Noor (Taikutsu Lyrz), available at https://github.com/Taikutsu-Lyrz/Afghanistan-kankoor-exam-dataset, licensed under ODC-By v1.0.
+
+The attribution should be reasonably visible wherever credits, acknowledgments, data sources, legal notices, or similar information is normally shown in your project.
 
 ---
 
 ## 7. License
-MIT License — see LICENSE file.
-You can freely use, copy, modify, and distribute this dataset, with proper credit.
+
+Open Data Commons Attribution License (ODC-By) v1.0 — see the `LICENSE` file.
+
+You may use, modify, and redistribute the database subject to the attribution and notice requirements of ODC-By v1.0.
+
+**Note:** Copies or versions that were already distributed under the previous MIT License remain governed by the license terms under which those copies were received. New versions of this repository are distributed under ODC-By v1.0.
