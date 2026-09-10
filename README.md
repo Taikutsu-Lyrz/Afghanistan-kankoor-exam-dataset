@@ -1,10 +1,11 @@
 
 ### Kankoor Exam Questions Dataset (Afghanistan)
 
-![Last Changed](https://img.shields.io/badge/Last%20Changed-2026.04.05-blue?style=flat-square) <br>
+![Last Changed](https://img.shields.io/badge/Last%20Changed-2026.09.11-blue?style=flat-square) <br>
 **Author:** Salim Noor (Taikutsu Lyrz)  
 **License:** Open Data Commons Attribution License (ODC-By) v1.0  
-**Date:** 2025  
+**Created:** 2025  
+**Last Updated:** 2026-09-11  
 
 
 ---
