@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 320" role="img" aria-labelledby="title desc">
-  <title id="title">Kankoor Dataset horizontal logo</title>
-  <desc id="desc">Kankoor Dataset wordmark with abstract open-book K symbol.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 280" role="img" aria-labelledby="title desc">
+  <title id="title">Kankoor Dataset</title>
+  <desc id="desc">Abstract open-book K symbol with Kankoor Dataset wordmark.</desc>
   <defs>
     <linearGradient id="page1" x1="88" y1="145" x2="239" y2="421" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#EAF3FF"/>
@@ -23,13 +23,24 @@
       <stop offset="1" stop-color="#10284E"/>
     </linearGradient>
   </defs>
-  <g transform="translate(8,-92) scale(.62)">
+
+  <!-- Compact, fully visible symbol -->
+  <g transform="translate(-25 -25) scale(.58)">
     <path d="M88 158 C106 160 126 170 138 187 L138 337 C138 355 149 365 166 371 L222 392 C241 399 251 409 256 424 C238 413 219 405 196 401 L113 386 C96 383 88 373 88 356 Z" fill="url(#page1)"/>
     <path d="M129 111 C159 119 186 137 203 162 L203 316 C203 340 216 356 236 370 L256 384 L256 424 C243 403 224 390 201 381 L158 364 C139 356 129 343 129 324 Z" fill="url(#page2)"/>
     <path d="M184 91 C217 105 242 122 256 145 L256 424 C244 402 226 386 207 375 C191 366 184 352 184 330 Z" fill="url(#spine)"/>
     <path d="M256 249 C272 230 289 211 307 191 L346 150 C361 134 381 126 404 126 L438 126 C456 126 465 145 454 159 C420 201 384 238 343 267 C315 287 286 304 256 321 Z" fill="url(#upper)"/>
     <path d="M256 319 C285 315 311 324 333 344 L452 455 C464 466 456 486 440 486 L398 486 C380 486 364 480 351 468 L281 401 C267 388 259 372 256 353 Z" fill="url(#lower)"/>
   </g>
-  <text x="340" y="144" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="78" font-weight="750" letter-spacing="-2" fill="#142B55">Kankoor</text>
-  <text x="344" y="218" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="520" letter-spacing="4" fill="#5E7394">DATASET</text>
+
+  <text x="285" y="128"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="68" font-weight="700"
+        letter-spacing="-1.5"
+        fill="#17376B">Kankoor</text>
+  <text x="289" y="191"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="39" font-weight="500"
+        letter-spacing="4"
+        fill="#6E8FBE">DATASET</text>
 </svg>
