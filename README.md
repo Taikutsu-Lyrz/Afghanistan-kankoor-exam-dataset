@@ -1,5 +1,7 @@
 
-### Kankoor Exam Questions Dataset (Afghanistan)
+<p align="center">
+  <img src="assets/kankoor-logo-horizontal.svg" alt="Kankoor Dataset" width="620">
+</p>
 
 ![Last Changed](https://img.shields.io/badge/Last%20Changed-2026.09.11-blue?style=flat-square) <br>
 **Author:** Salim Noor (Taikutsu Lyrz)  
